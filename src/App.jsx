@@ -38,6 +38,21 @@ export default function App() {
   // Revealed solutions state for questions
   const [revealedSolutions, setRevealedSolutions] = useState(new Set());
 
+  // Interactive MCQ practice: user selected options { [qId]: optionString }
+  const [userAnswers, setUserAnswers] = useState({});
+
+  // Global question bank filter: 'ALL' | 'VISUAL' | 'OPTIONS' | 'CODING'
+  const [questionFilterType, setQuestionFilterType] = useState('ALL');
+
+  const handleSelectOption = (qId, option) => {
+    setUserAnswers(prev => ({ ...prev, [qId]: option }));
+    setRevealedSolutions(prev => {
+      const next = new Set(prev);
+      next.add(qId);
+      return next;
+    });
+  };
+
   // Initialize completion state from localStorage
   const [completedItems, setCompletedItems] = useState(() => {
     const saved = localStorage.getItem('accenture_completed_items');
@@ -291,6 +306,103 @@ export default function App() {
           <div className="legend-item"><div className="legend-dot" style={{ background: '#38bdf8' }} /> Illuminated Target Tiles (Memorize in 3s)</div>
           <div className="legend-item"><div className="legend-dot" style={{ background: 'rgba(255,255,255,0.1)' }} /> Inactive Grid Cells</div>
         </div>
+      </div>
+    );
+  };
+
+  // Reusable Question Card with Interactive Options & Vector Visual SVGs
+  const renderQuestionCard = (q, qIndex, showModuleBadge = false) => {
+    const isRevealed = revealedSolutions.has(q.id) || userAnswers[q.id];
+    const selectedOpt = userAnswers[q.id];
+
+    return (
+      <div key={q.id} className="question-card">
+        <div className="question-header">
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
+            {showModuleBadge && (
+              <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#c084fc', marginRight: '0.25rem' }}>
+                MOD {String(q.moduleIndex).padStart(2, '0')}
+              </span>
+            )}
+            <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#38bdf8', fontWeight: 700 }}>
+              #{qIndex + 1}
+            </span>
+            <span className="question-title">{q.title || `Question ${q.number || qIndex + 1}`}</span>
+            {q.hasVisual && (
+              <span className="pill-tag" style={{ background: 'rgba(56, 189, 248, 0.15)', color: '#38bdf8', borderColor: 'rgba(56, 189, 248, 0.3)', fontSize: '0.7rem' }}>
+                📸 Visual Diagram
+              </span>
+            )}
+          </div>
+          {(q.quizTitle || q.moduleTitle) && (
+            <span className="pill-tag" style={{ fontSize: '0.7rem' }}>
+              {q.quizTitle || q.moduleTitle}
+            </span>
+          )}
+        </div>
+
+        <div className="question-text">{q.question}</div>
+
+        {/* Embedded Vector Visual Blueprint / Diagram */}
+        {q.imageSvg && (
+          <div 
+            className="question-visual-box"
+            dangerouslySetInnerHTML={{ __html: q.imageSvg }}
+          />
+        )}
+
+        {/* Interactive Options Grid */}
+        {q.options && q.options.length > 0 && (
+          <div className="options-grid">
+            {q.options.map((opt, oIdx) => {
+              const isChosen = selectedOpt === opt;
+              const cleanOptText = opt.replace(/^[A-D]\)\s*/, '');
+              const letter = String.fromCharCode(65 + oIdx);
+              
+              const isCorrect = q.correctAnswer && (
+                opt === q.correctAnswer ||
+                opt.startsWith(q.correctAnswer.substring(0, 2)) ||
+                q.correctAnswer.startsWith(`${letter})`) ||
+                q.correctAnswer.includes(cleanOptText)
+              );
+
+              let optClassName = 'option-item interactive';
+              if (isChosen && isCorrect) optClassName += ' correct-selected';
+              else if (isChosen && !isCorrect) optClassName += ' wrong-selected';
+              else if (isRevealed && isCorrect) optClassName += ' correct-highlight';
+
+              return (
+                <button
+                  key={oIdx}
+                  type="button"
+                  className={optClassName}
+                  onClick={() => handleSelectOption(q.id, opt)}
+                >
+                  <span className="opt-letter">{letter}</span>
+                  <span className="opt-text">{cleanOptText}</span>
+                  {isChosen && isCorrect && <span className="opt-badge check">✓ Correct</span>}
+                  {isChosen && !isCorrect && <span className="opt-badge cross">✗ Wrong</span>}
+                </button>
+              );
+            })}
+          </div>
+        )}
+
+        <button
+          className="filter-chip"
+          style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
+          onClick={() => toggleSolution(q.id)}
+        >
+          {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
+          {isRevealed ? 'Hide Solution & Explanation' : 'Reveal Solution & Explanation'}
+        </button>
+
+        {isRevealed && (
+          <div className="solution-box">
+            <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
+            <div className="solution-explanation">{q.explanation}</div>
+          </div>
+        )}
       </div>
     );
   };
@@ -753,54 +865,7 @@ export default function App() {
                             </p>
                           ) : (
                             <>
-                              {displayQuestions.slice(0, displayLimit).map((q, qIndex) => {
-                                const isRevealed = revealedSolutions.has(q.id);
-                                return (
-                                  <div key={q.id} className="question-card">
-                                    <div className="question-header">
-                                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
-                                        <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#38bdf8', fontWeight: 700 }}>
-                                          #{qIndex + 1}
-                                        </span>
-                                        <span className="question-title">{q.title || `Question ${q.number || qIndex + 1}`}</span>
-                                      </div>
-                                      {q.quizTitle && (
-                                        <span className="pill-tag" style={{ fontSize: '0.7rem' }}>
-                                          {q.quizTitle}
-                                        </span>
-                                      )}
-                                    </div>
-
-                                    <div className="question-text">{q.question}</div>
-
-                                    {q.options && q.options.length > 0 && (
-                                      <div className="options-grid">
-                                        {q.options.map((opt, oIdx) => (
-                                          <div key={oIdx} className="option-item">
-                                            <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
-                                          </div>
-                                        ))}
-                                      </div>
-                                    )}
-
-                                    <button
-                                      className="filter-chip"
-                                      style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
-                                      onClick={() => toggleSolution(q.id)}
-                                    >
-                                      {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
-                                      {isRevealed ? 'Hide Answer & Explanation' : 'Reveal Solution & Explanation'}
-                                    </button>
-
-                                    {isRevealed && (
-                                      <div className="solution-box">
-                                        <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
-                                        <div className="solution-explanation">{q.explanation}</div>
-                                      </div>
-                                    )}
-                                  </div>
-                                );
-                              })}
+                              {displayQuestions.slice(0, displayLimit).map((q, qIndex) => renderQuestionCard(q, qIndex, false))}
 
                               {/* Load More Button */}
                               {displayQuestions.length > displayLimit && (
@@ -886,7 +951,7 @@ export default function App() {
               </p>
             </div>
 
-            <div className="search-box" style={{ marginBottom: '1rem' }}>
+            <div className="search-box" style={{ marginBottom: '0.75rem' }}>
               <Search size={18} className="search-icon" />
               <input
                 type="text"
@@ -897,51 +962,50 @@ export default function App() {
               />
             </div>
 
+            {/* Question Filter Chips */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
+              <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Filter Bank:</span>
+              <button
+                className={`filter-chip ${questionFilterType === 'ALL' ? 'active' : ''}`}
+                onClick={() => setQuestionFilterType('ALL')}
+              >
+                All Questions ({totalQuestions})
+              </button>
+              <button
+                className={`filter-chip ${questionFilterType === 'VISUAL' ? 'active' : ''}`}
+                onClick={() => setQuestionFilterType('VISUAL')}
+              >
+                📸 Visual & Diagram Blueprints ({courseData.totalVisualQuestions || 150})
+              </button>
+              <button
+                className={`filter-chip ${questionFilterType === 'OPTIONS' ? 'active' : ''}`}
+                onClick={() => setQuestionFilterType('OPTIONS')}
+              >
+                Interactive Practice MCQs ({totalQuestions})
+              </button>
+              <button
+                className={`filter-chip ${questionFilterType === 'CODING' ? 'active' : ''}`}
+                onClick={() => setQuestionFilterType('CODING')}
+              >
+                💻 Coding Sets
+              </button>
+            </div>
+
             <div className="questions-list">
               {courseData.modules.flatMap(m => {
                 const qs = m.allQuestions && m.allQuestions.length > 0 ? m.allQuestions : (m.questions || []);
                 return qs.map(q => ({ ...q, moduleTitle: m.title, moduleIndex: m.moduleIndex }));
               })
               .filter(q => {
+                if (questionFilterType === 'VISUAL' && !q.hasVisual) return false;
+                if (questionFilterType === 'CODING' && q.type !== 'coding') return false;
+                if (questionFilterType === 'OPTIONS' && (!q.options || q.options.length === 0)) return false;
                 if (!searchQuery.trim()) return true;
                 const s = searchQuery.toLowerCase();
                 return (q.question || '').toLowerCase().includes(s) || (q.correctAnswer || '').toLowerCase().includes(s) || (q.title || '').toLowerCase().includes(s) || (q.moduleTitle || '').toLowerCase().includes(s);
               })
               .slice(0, globalQuestionLimit)
-              .map((q, idx) => {
-                const isRevealed = revealedSolutions.has(q.id);
-                return (
-                  <div key={q.id} className="question-card">
-                    <div className="question-header">
-                      <div>
-                        <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#c084fc', marginRight: '0.5rem' }}>
-                          MOD {String(q.moduleIndex).padStart(2, '0')}
-                        </span>
-                        <span className="question-title">{q.title}</span>
-                      </div>
-                      <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.quizTitle || q.moduleTitle}</span>
-                    </div>
-
-                    <div className="question-text">{q.question}</div>
-
-                    <button
-                      className="filter-chip"
-                      style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
-                      onClick={() => toggleSolution(q.id)}
-                    >
-                      {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
-                      {isRevealed ? 'Hide Solution' : 'Reveal Solution & Explanation'}
-                    </button>
-
-                    {isRevealed && (
-                      <div className="solution-box">
-                        <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
-                        <div className="solution-explanation">{q.explanation}</div>
-                      </div>
-                    )}
-                  </div>
-                );
-              })}
+              .map((q, idx) => renderQuestionCard(q, idx, true))}
             </div>
 
             {/* Load More Button for Global Tab */}
