@@ -1,0 +1,159 @@
+{
+  "courseTitle": "Accenture Mock Test Series",
+  "platform": "KN Academy Courses",
+  "sourceUrl": "https://knacademycourses.graphy.com/s/courses/677fe6f13aefc5/60aacf5a59/take",
+  "status": "INSPECTION_COMPLETE",
+  "totalModulesInspected": 21,
+  "totalItemsInspected": 206,
+  "allAccessibleSectionsAccountedFor": true,
+  "missingSections": [],
+  "modulesChecklist": [
+    {
+      "moduleIndex": 1,
+      "title": "Updated Exam for On Campus",
+      "category": "Pattern & Syllabus",
+      "totalLessons": 1,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 2,
+      "title": "Whatsapp Group",
+      "category": "Community & Support",
+      "totalLessons": 1,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 3,
+      "title": "Guide About the series",
+      "category": "Strategy & Orientation",
+      "totalLessons": 3,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 4,
+      "title": "Game Based Assessment (Actual)",
+      "category": "Game-Based Assessment",
+      "totalLessons": 24,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 5,
+      "title": "Accenture Full Paper (Most Recent)",
+      "category": "Full-Length Papers",
+      "totalLessons": 9,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 6,
+      "title": "Accenture Coding Set this year",
+      "category": "Coding & Algorithms",
+      "totalLessons": 13,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 7,
+      "title": "Full Technical Set (Pracitce)",
+      "category": "Technical Assessment",
+      "totalLessons": 10,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 8,
+      "title": "Similar Questions to Accenture",
+      "category": "Aptitude & Technical",
+      "totalLessons": 20,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 9,
+      "title": "Similar Questions SQL , HTML , JS",
+      "category": "Web & Database Tech",
+      "totalLessons": 5,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 10,
+      "title": "Updated Pattern (Practice Set)",
+      "category": "Practice Sets",
+      "totalLessons": 33,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 11,
+      "title": "Security & MS Office",
+      "category": "Cloud & Office Tech",
+      "totalLessons": 17,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 12,
+      "title": "Coding Assessment",
+      "category": "Coding Assessments",
+      "totalLessons": 13,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 13,
+      "title": "Coding Questions",
+      "category": "Coding Questions",
+      "totalLessons": 8,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 14,
+      "title": "MCQ (Complete PDF'S)",
+      "category": "Reference Sheets & PDFs",
+      "totalLessons": 5,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 15,
+      "title": "Accenture Mock Test (Based on Last Year)",
+      "category": "Full Mock Simulation",
+      "totalLessons": 2,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 16,
+      "title": "Accenture Mock Test 2(Based on Last Year)",
+      "category": "Full Mock Simulation",
+      "totalLessons": 2,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 17,
+      "title": "Practice Mock Test 1",
+      "category": "Practice Mock Tests",
+      "totalLessons": 6,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 18,
+      "title": "Practice Mock Test 2",
+      "category": "Practice Mock Tests",
+      "totalLessons": 6,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 19,
+      "title": "Sheets (Formulas & Concepts)",
+      "category": "Formula Sheets",
+      "totalLessons": 3,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 20,
+      "title": "Practice Test (Aptitude)",
+      "category": "Aptitude Drills",
+      "totalLessons": 12,
+      "allLessonsInspected": true
+    },
+    {
+      "moduleIndex": 21,
+      "title": "Communicaiton",
+      "category": "Communication Round",
+      "totalLessons": 13,
+      "allLessonsInspected": true
+    }
+  ]
+}
