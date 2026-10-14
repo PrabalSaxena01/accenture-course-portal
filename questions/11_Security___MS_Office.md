@@ -1,6 +1,7 @@
 # Module 11: Security & MS Office
 
 **Total Questions in Module**: 300  
+**Visual Diagrams**: 37 blueprints  
 **Category**: Cloud & Office Tech  
 **Syllabus Items**: 17 lessons
 

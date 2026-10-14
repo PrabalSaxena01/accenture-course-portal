@@ -1,6 +1,7 @@
 # Module 17: Practice Mock Test 1
 
 **Total Questions in Module**: 90  
+**Visual Diagrams**: 3 blueprints  
 **Category**: Practice Mock Tests  
 **Syllabus Items**: 6 lessons
 

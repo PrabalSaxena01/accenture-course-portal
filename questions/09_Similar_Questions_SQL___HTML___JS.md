@@ -1,6 +1,7 @@
 # Module 09: Similar Questions SQL , HTML , JS
 
 **Total Questions in Module**: 30  
+**Visual Diagrams**: 4 blueprints  
 **Category**: Web & Database Tech  
 **Syllabus Items**: 5 lessons
 
@@ -14,6 +15,10 @@
 ```
 products priced above average.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[SQL Mock-1] Question 1](./images/sql_inner_vs_outer_join.svg)
 
 **Options:**
 - A) Contradictory hypothesis to SELECT * FROM Products WH
@@ -37,6 +42,10 @@ Verified Accenture placement test pattern.
 Furniture products, price descending.
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[SQL Mock-1] Question 2](./images/sql_student_scholarship_join.svg)
+
 **Options:**
 - A) Contradictory hypothesis to ... WHERE Category = 'Fur
 - B) Both A and B
@@ -58,6 +67,10 @@ Verified Accenture placement test pattern.
 ```
 product names containing "Table".
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[SQL Mock-1] Question 3](./images/sql_orders_schema.svg)
 
 **Options:**
 - A) Both A and B
@@ -454,6 +467,10 @@ CURDATE is date-only.
 ```
 clone table structure + data.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[SQL Mock-2] Question 6](./images/sql_table_clone.svg)
 
 **Options:**
 - A) REATE TABLE CloneTable AS GET * FROM Student;

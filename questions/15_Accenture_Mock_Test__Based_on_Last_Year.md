@@ -1,6 +1,7 @@
 # Module 15: Accenture Mock Test (Based on Last Year)
 
 **Total Questions in Module**: 90  
+**Visual Diagrams**: 12 blueprints  
 **Category**: Full Mock Simulation  
 **Syllabus Items**: 2 lessons
 

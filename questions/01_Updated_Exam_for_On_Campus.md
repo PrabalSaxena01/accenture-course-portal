@@ -1,6 +1,7 @@
 # Module 01: Updated Exam for On Campus
 
 **Total Questions in Module**: 2  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Pattern & Syllabus  
 **Syllabus Items**: 1 lessons
 

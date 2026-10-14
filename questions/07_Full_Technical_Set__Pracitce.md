@@ -1,6 +1,7 @@
 # Module 07: Full Technical Set (Pracitce)
 
 **Total Questions in Module**: 89  
+**Visual Diagrams**: 7 blueprints  
 **Category**: Technical Assessment  
 **Syllabus Items**: 10 lessons
 
@@ -256,6 +257,10 @@ Verified Accenture placement test pattern.
 ```
 PK for Orders table?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Complete Set - Technical 1"] Question 12](./images/sql_orders_schema.svg)
 
 **Options:**
 - A) Alternative configuration A for OrderID
@@ -1247,6 +1252,10 @@ Verified Accenture placement test pattern.
 Orders table PK?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![["Complete Set - Technical 2"] Question 12](./images/sql_orders_schema.svg)
+
 **Options:**
 - A) Alternative configuration A for OrderID
 - B) Standard default parameter
@@ -1686,6 +1695,10 @@ Verified Accenture placement test pattern.
 ```
 Asks: bitwise loop final (x=6,y=10)? FLAG BROKEN — options duplicate Q31; quiz marks B ("code12") but explanation computes the loop. UNRELIABLE — do not use.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Complete Set - Technical 2"] Question 32](./images/code_bitwise_operations.svg)
 
 **Options:**
 - A) Contradictory hypothesis to 

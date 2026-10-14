@@ -1,6 +1,7 @@
 # Module 14: MCQ (Complete PDF'S)
 
 **Total Questions in Module**: 1  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Reference Sheets & PDFs  
 **Syllabus Items**: 5 lessons
 

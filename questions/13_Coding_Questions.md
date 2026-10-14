@@ -1,6 +1,7 @@
 # Module 13: Coding Questions
 
 **Total Questions in Module**: 10  
+**Visual Diagrams**: 8 blueprints  
 **Category**: Coding Questions  
 **Syllabus Items**: 8 lessons
 
@@ -18,6 +19,10 @@ not a question. Embedded OneCompiler web IDE (HTML/CSS/JS live preview). Purpose
 Objectives & Problem Context:
 ...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[LINK] Web Compiler Link](./images/code_superior_elements.svg)
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -56,6 +61,10 @@ WHERE c.city = 'New York'
 GROUP BY c.customer_id, c.customer_name
 HAVING SUM(oi.quantity) > 1...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[ARTICLE] SQL - 1](./images/sql_orders_schema.svg)
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -105,6 +114,10 @@ print(", ".join(map(str, primes)) if primes else "No primes found")
 ```...
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[CODE EXERCISE] Coding Mock Test - 14](./images/code_prime_sieve.svg)
+
 **Options:**
 - A) Implement optimal algorithm using standard libraries
 - B) Brute-force nested loops O(N²)
@@ -143,6 +156,10 @@ Objectives & Problem Context:
 ...
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[ARTICLE] Web Based](./images/web_chatbot_widget.svg)
+
 **Options:**
 - A) Implement optimal algorithm using standard libraries
 - B) Brute-force nested loops O(N²)
@@ -177,6 +194,10 @@ JOIN (SELECT department, MAX(salary) AS max_sal
   ON e.department = m.department AND e.salary = m.max_sal;
 ```...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[ARTICLE] SQL Query 2](./images/sql_student_scholarship_join.svg)
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -216,6 +237,10 @@ print("Armstrong Number" if total == n else "Not an Armstrong Number")
 ```...
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[CODE EXERCISE] Coding Mock Test - 15](./images/code_armstrong_number.svg)
+
 **Options:**
 - A) Implement optimal algorithm using standard libraries
 - B) Brute-force nested loops O(N²)
@@ -247,6 +272,10 @@ Screenshot of Mettl-style web task: enhance interactive product rating interface
 Objectives & Problem Context:
 ...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[ARTICLE] Coding Mock - 3](./images/web_star_rating_widget.svg)
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -282,6 +311,10 @@ GROUP BY d.department_name
 HAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);
 ```...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[ARTICLE] SQL Query 1](./images/sql_table_clone.svg)
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries

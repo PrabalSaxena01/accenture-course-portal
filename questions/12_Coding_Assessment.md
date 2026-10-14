@@ -1,6 +1,7 @@
 # Module 12: Coding Assessment
 
 **Total Questions in Module**: 1  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Coding Assessments  
 **Syllabus Items**: 13 lessons
 

@@ -1,0 +1,34 @@
+<svg viewBox="0 0 600 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="300" y="24" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">RELATIONAL DATABASE SCHEMA: ORDERS &amp; CUSTOMERS</text>
+  
+  <!-- Customers Table -->
+  <g transform="translate(30, 45)">
+    <rect width="220" height="145" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+    <rect width="220" height="28" rx="6" fill="#0284c7"/>
+    <text x="110" y="19" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Customers</text>
+    <text x="15" y="48" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="bold">🔑 CustomerID (PK)</text>
+    <text x="15" y="70" fill="#cbd5e1" font-family="monospace" font-size="11">   CustomerName</text>
+    <text x="15" y="92" fill="#cbd5e1" font-family="monospace" font-size="11">   ContactEmail</text>
+    <text x="15" y="114" fill="#cbd5e1" font-family="monospace" font-size="11">   City</text>
+    <text x="15" y="136" fill="#cbd5e1" font-family="monospace" font-size="11">   PostalCode</text>
+  </g>
+
+  <!-- Relational Connector -->
+  <path d="M 250 85 C 300 85, 300 85, 350 85" fill="none" stroke="#f43f5e" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <circle cx="250" cy="85" r="4" fill="#f43f5e"/>
+  <polygon points="350,85 342,80 342,90" fill="#f43f5e"/>
+  <text x="300" y="75" fill="#f43f5e" font-family="sans-serif" font-size="9" font-weight="bold" text-anchor="middle">1-to-Many FK</text>
+
+  <!-- Orders Table -->
+  <g transform="translate(350, 45)">
+    <rect width="220" height="145" rx="6" fill="#1e293b" stroke="#a855f7" stroke-width="1.5"/>
+    <rect width="220" height="28" rx="6" fill="#7e22ce"/>
+    <text x="110" y="19" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Orders</text>
+    <text x="15" y="48" fill="#e879f9" font-family="monospace" font-size="11" font-weight="bold">🔑 OrderID (PK)</text>
+    <text x="15" y="70" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="bold">🔗 CustomerID (FK)</text>
+    <text x="15" y="92" fill="#cbd5e1" font-family="monospace" font-size="11">   OrderDate</text>
+    <text x="15" y="114" fill="#cbd5e1" font-family="monospace" font-size="11">   TotalAmount</text>
+    <text x="15" y="136" fill="#cbd5e1" font-family="monospace" font-size="11">   OrderStatus</text>
+  </g>
+</svg>

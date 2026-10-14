@@ -1,6 +1,7 @@
 # Module 06: Accenture Coding Set this year
 
 **Total Questions in Module**: 9  
+**Visual Diagrams**: 5 blueprints  
 **Category**: Coding & Algorithms  
 **Syllabus Items**: 13 lessons
 
@@ -18,6 +19,10 @@ Problem Statement & Assessment Scenario:
 2. SQL — join course/section/schedule tables; select course_id, course_name, day, starttime where day='wed'.
 3. Web (jQuery) — dropdown of fruits (Apple, Banana, Mango, Orange) ...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Coding Set] "Accenture Coding Set this year"  Accenture 8 Jan Solution txt](./images/code_grid_uniformity.svg)
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -46,6 +51,10 @@ Q1 "Running Sum and Divisibility Count" — for N, running sums 1..N, count sums
 Q2 "Random Quote Generator" — web task with Math.random() on button click; HTML/CSS/JS + live "Show Random Quote" output....
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Coding Set] Sept 10 Set](./images/code_superior_elements.svg)
+
 **Options:**
 - A) Alternative configuration A for omplete optimal code
 - B) Standard default parameter
@@ -71,6 +80,10 @@ Problem Statement & Assessment Scenario:
 - Q1 (Slot 1) "Mountain Trail Elevation (Max Bitonic Subarray Sum)", Medium: contiguous subarray ≥3 checkpoints, strictly increasing to peak then strictly decreasing; max such sum (0/-1 if none). 3 test cases + O(N) solution (leftSum/rightSum at peaks) + visualizer.
 - Q2 (Slot 2) "Robot Energy Peak Route", Medium: sam...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Coding Set] Accenture Sept 17 & 18](./images/code_superior_elements.svg)
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -180,6 +193,10 @@ Problem Statement & Assessment Scenario:
 - Web / UI: Q3 "Interactive Shape Switcher Widget" — Triangle/Circle/Square buttons + li...
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Coding Set] Accenture 30 Sept](./images/code_binary_search_tree.svg)
+
 **Options:**
 - A) Alternative configuration A for omplete optimal code
 - B) Standard default parameter
@@ -208,6 +225,10 @@ Problem Statement & Assessment Scenario:
 1. Coding — per unique char: (ASCII × frequency) % 5, sum non-zero results. Java/Python. 4 tests: "ababc" → 4+1+4=9; "aaaaa" → 0. Embedded ASCII/modulo calculator.
 2. SQL — join Categories & Courses; courses priced above their category's average: title, category, price. Sample: Categories (Web Development, Data Science); Courses (React JS Mastery 150, F...
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Coding Set] Coding Set 6 October](./images/code_prime_sieve.svg)
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code

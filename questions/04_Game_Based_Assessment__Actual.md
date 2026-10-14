@@ -1,6 +1,7 @@
 # Module 04: Game Based Assessment (Actual)
 
 **Total Questions in Module**: 34  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Game-Based Assessment  
 **Syllabus Items**: 24 lessons
 

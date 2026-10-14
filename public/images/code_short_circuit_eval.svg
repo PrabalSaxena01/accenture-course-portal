@@ -1,0 +1,15 @@
+<svg viewBox="0 0 540 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="180" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="270" y="24" fill="#eab308" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">LOGICAL SHORT-CIRCUIT EVALUATION: int a=5, b=0; if (a &amp;&amp; b++)</text>
+
+  <g transform="translate(40, 45)">
+    <rect width="460" height="110" rx="6" fill="#1e293b" stroke="#475569"/>
+    
+    <!-- Step 1: Evaluate a -->
+    <text x="20" y="28" fill="#38bdf8" font-family="monospace" font-size="11">1. Evaluate 'a' (5) ➔ Non-zero integer is TRUE (truthy)</text>
+    <text x="20" y="50" fill="#eab308" font-family="monospace" font-size="11">2. Since left operand is TRUE, logical &amp;&amp; MUST evaluate right operand</text>
+    <text x="20" y="72" fill="#f43f5e" font-family="monospace" font-size="11">3. Evaluate 'b++': Post-increment yields current value 0 (FALSE)</text>
+    <line x1="15" y1="80" x2="445" y2="80" stroke="#334155"/>
+    <text x="20" y="98" fill="#34d399" font-family="monospace" font-size="11" font-weight="bold">Result: Condition evaluates to FALSE; 'b' is then incremented to 1</text>
+  </g>
+</svg>

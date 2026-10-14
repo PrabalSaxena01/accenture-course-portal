@@ -1,6 +1,7 @@
 # Module 03: Guide About the series
 
 **Total Questions in Module**: 1  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Strategy & Orientation  
 **Syllabus Items**: 3 lessons
 

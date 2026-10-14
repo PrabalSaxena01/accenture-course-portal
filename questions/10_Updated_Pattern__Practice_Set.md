@@ -1,6 +1,7 @@
 # Module 10: Updated Pattern (Practice Set)
 
 **Total Questions in Module**: 357  
+**Visual Diagrams**: 19 blueprints  
 **Category**: Practice Sets  
 **Syllabus Items**: 33 lessons
 
@@ -80,6 +81,10 @@ Verified Accenture placement test pattern.
 ```
 trace recursive fun(x,y) recursing (x−2, y+2) while x>1, printing y on unwind, x=4, y=5.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudo Mock-2] Question 4](./images/js_object_duplicate_keys.svg)
 
 **Options:**
 - A) Legacy standard alternative
@@ -455,6 +460,10 @@ z = x++ + ++y, x=2,y=4; printed z?
 adjacent-sum transform (arr=[1,2,3,4,5], arr[i]+=arr[i+1]); print array.
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 1 (10 questions; no explanations shown)] Question 1](./images/css_box_model.svg)
+
 **Options:**
 - A) Contradictory hypothesis to 3 5 7 9 5
 - B) Both A and B
@@ -476,6 +485,10 @@ Verified Accenture placement test pattern.
 ```
 x=0,y=3,z=11; evaluate if(x+(1|2) && y+(2|3)); predict x+y+z.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 1 (10 questions; no explanations shown)] Question 2](./images/css_box_model.svg)
 
 **Options:**
 - A) 2
@@ -586,6 +599,10 @@ Verified Accenture placement test pattern.
 ```
 operation of loop printing string array first→last.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 1 (10 questions; no explanations shown)] Question 7](./images/html_image_link.svg)
 
 **Options:**
 - A) Both A and B
@@ -917,6 +934,10 @@ Verified Accenture placement test pattern.
 Python set intersection {1,2,3} & {3,4,5}.
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 3] Question 2](./images/css_box_sizing_calculation.svg)
+
 **Options:**
 - A) Legacy standard alternative
 - B) Contradictory hypothesis to {3}
@@ -938,6 +959,10 @@ Verified Accenture placement test pattern.
 ```
 C bitwise OR 5|3.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 3] Question 3](./images/css_box_sizing_calculation.svg)
 
 **Options:**
 - A) 2
@@ -1026,6 +1051,10 @@ same list reference.
 ```
 C short-circuit (a=5,b=0; if(a && b++)).
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 3] Question 7](./images/code_short_circuit_eval.svg)
 
 **Options:**
 - A) -5
@@ -1158,6 +1187,10 @@ Verified Accenture placement test pattern.
 ```
 what does mystery(x) compute (halve evens, 3x+1 odds, count steps to 1)?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Pseudocode - 4] Question 3](./images/web_url_structure.svg)
 
 **Options:**
 - A) Alternative configuration A for ollatz step count

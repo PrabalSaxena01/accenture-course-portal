@@ -344,12 +344,16 @@ export default function App() {
         <div className="question-text">{q.question}</div>
 
         {/* Embedded Vector Visual Blueprint / Diagram */}
-        {q.imageSvg && (
+        {q.imageSvg ? (
           <div 
             className="question-visual-box"
             dangerouslySetInnerHTML={{ __html: q.imageSvg }}
           />
-        )}
+        ) : q.imageSrc ? (
+          <div className="question-visual-box" style={{ textAlign: 'center', padding: '1rem' }}>
+            <img src={q.imageSrc} alt={q.title || 'Question Visual'} style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }} />
+          </div>
+        ) : null}
 
         {/* Interactive Options Grid */}
         {q.options && q.options.length > 0 && (

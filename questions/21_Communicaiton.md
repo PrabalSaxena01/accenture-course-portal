@@ -1,6 +1,7 @@
 # Module 21: Communicaiton
 
 **Total Questions in Module**: 170  
+**Visual Diagrams**: 3 blueprints  
 **Category**: Communication Round  
 **Syllabus Items**: 13 lessons
 

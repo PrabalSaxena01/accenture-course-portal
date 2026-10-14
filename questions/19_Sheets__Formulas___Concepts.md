@@ -1,6 +1,7 @@
 # Module 19: Sheets (Formulas & Concepts)
 
 **Total Questions in Module**: 1  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Formula Sheets  
 **Syllabus Items**: 3 lessons
 

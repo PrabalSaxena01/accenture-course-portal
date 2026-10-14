@@ -1,6 +1,7 @@
 # Module 08: Similar Questions to Accenture
 
 **Total Questions in Module**: 190  
+**Visual Diagrams**: 6 blueprints  
 **Category**: Aptitude & Technical  
 **Syllabus Items**: 20 lessons
 
@@ -212,6 +213,10 @@ SAE does secure password-based mutual auth.
 ```
 risk of legacy ciphers (RC4/DES)
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Similar Questions Like Wifi Security] Q10](./images/net_wifi_security_ciphers.svg)
 
 **Options:**
 - A) Contradictory hypothesis to compromise WPA3 security
@@ -3754,6 +3759,10 @@ Verified Accenture curriculum solution.
 ```
 which OS function configures printers/drives/scanners
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Similar Questions Like OS - Management] Q1](./images/os_hardware_device_drivers.svg)
 
 **Options:**
 - A) device management

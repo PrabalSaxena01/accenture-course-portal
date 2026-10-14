@@ -1,0 +1,26 @@
+<svg viewBox="0 0 580 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="580" height="200" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="290" y="24" fill="#eab308" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">CSS BOX-SIZING CALCULATION: content-box VS border-box</text>
+
+  <!-- Problem Spec: width: 100px, padding: 15px, border: 5px -->
+  <g transform="translate(30, 45)">
+    <rect width="240" height="130" rx="6" fill="#1e293b" stroke="#f43f5e" stroke-width="2"/>
+    <text x="120" y="22" fill="#f43f5e" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">content-box (Default)</text>
+    <text x="15" y="46" fill="#cbd5e1" font-family="monospace" font-size="10">Content Width:  100px</text>
+    <text x="15" y="64" fill="#cbd5e1" font-family="monospace" font-size="10">+ Padding (15×2): 30px</text>
+    <text x="15" y="82" fill="#cbd5e1" font-family="monospace" font-size="10">+ Border (5×2):   10px</text>
+    <line x1="12" y1="92" x2="228" y2="92" stroke="#334155"/>
+    <text x="120" y="112" fill="#f43f5e" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Total Rendered: 140px</text>
+  </g>
+
+  <!-- Comparison border-box -->
+  <g transform="translate(310, 45)">
+    <rect width="240" height="130" rx="6" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="120" y="22" fill="#10b981" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">border-box (Modern)</text>
+    <text x="15" y="46" fill="#cbd5e1" font-family="monospace" font-size="10">Declared Width: 100px</text>
+    <text x="15" y="64" fill="#cbd5e1" font-family="monospace" font-size="10">- Padding (15×2): 30px</text>
+    <text x="15" y="82" fill="#cbd5e1" font-family="monospace" font-size="10">- Border (5×2):   10px</text>
+    <line x1="12" y1="92" x2="228" y2="92" stroke="#334155"/>
+    <text x="120" y="112" fill="#10b981" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">Content Area: 60px (Total=100)</text>
+  </g>
+</svg>

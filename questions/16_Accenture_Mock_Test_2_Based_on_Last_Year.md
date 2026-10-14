@@ -1,6 +1,7 @@
 # Module 16: Accenture Mock Test 2(Based on Last Year)
 
 **Total Questions in Module**: 90  
+**Visual Diagrams**: 6 blueprints  
 **Category**: Full Mock Simulation  
 **Syllabus Items**: 2 lessons
 

@@ -1,6 +1,7 @@
 # Module 20: Practice Test (Aptitude)
 
 **Total Questions in Module**: 240  
+**Visual Diagrams**: 14 blueprints  
 **Category**: Aptitude Drills  
 **Syllabus Items**: 12 lessons
 

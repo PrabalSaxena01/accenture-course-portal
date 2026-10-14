@@ -1,6 +1,7 @@
 # Module 02: Whatsapp Group
 
 **Total Questions in Module**: 1  
+**Visual Diagrams**: 0 blueprints  
 **Category**: Community & Support  
 **Syllabus Items**: 1 lessons
 

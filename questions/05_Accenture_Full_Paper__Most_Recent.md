@@ -1,6 +1,7 @@
 # Module 05: Accenture Full Paper (Most Recent)
 
 **Total Questions in Module**: 45  
+**Visual Diagrams**: 45 blueprints  
 **Category**: Full-Length Papers  
 **Syllabus Items**: 9 lessons
 
@@ -14,6 +15,10 @@
 ```
 output when button handler writes its onclick attribute?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 1](./images/js_button_onclick.svg)
 
 **Options:**
 - A) Alternative configuration A for myFunction(this);
@@ -37,6 +42,10 @@ getAttribute returns the literal string.
 map +5 over [3,16,2,18]?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 2](./images/js_array_map.svg)
+
 **Options:**
 - A) 7, 20, 6, 22
 - B) 8, 21, 7, 23
@@ -58,6 +67,10 @@ Verified Accenture placement test pattern.
 ```
 HTML tag for collapsible details?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 3](./images/html_details_summary.svg)
 
 **Options:**
 - A) <div></div>
@@ -81,6 +94,10 @@ Verified Accenture placement test pattern.
 CSS3 for pictured rounded square?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 4](./images/css_rounded_square.svg)
+
 **Options:**
 - A) Alternative configuration A for border-radius: 20px 
 - B) border-radius: 20px 0 20px 0; 
@@ -102,6 +119,10 @@ Verified Accenture placement test pattern.
 ```
 Java Animal/Dog inheritance setup?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 5](./images/oop_dog_animal.svg)
 
 **Options:**
 - A) class Dog extends Animal 
@@ -256,6 +277,10 @@ Verified Accenture placement test pattern.
 ```
 Employee table primary key?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Accenture Full Paper (Exact With Solution)"] Question 12](./images/sql_orders_schema.svg)
 
 **Options:**
 - A) Alternative configuration A for EmployeeID
