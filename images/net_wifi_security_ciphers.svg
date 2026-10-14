@@ -1,0 +1,24 @@
+<svg viewBox="0 0 560 190" width="100%" height="190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="190" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="280" y="24" fill="#f43f5e" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">NETWORK SECURITY: LEGACY VS MODERN WIRELESS CIPHERS</text>
+
+  <!-- Insecure Ciphers -->
+  <g transform="translate(30, 45)">
+    <rect width="230" height="120" rx="6" fill="#1e293b" stroke="#f43f5e" stroke-width="2"/>
+    <text x="115" y="24" fill="#f43f5e" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">⚠️ Deprecated Legacy Ciphers</text>
+    <text x="15" y="48" fill="#fca5a5" font-family="monospace" font-size="10">• WEP / WPA1 Protocol</text>
+    <text x="15" y="68" fill="#fca5a5" font-family="monospace" font-size="10">• RC4 Stream Cipher</text>
+    <text x="15" y="88" fill="#fca5a5" font-family="monospace" font-size="10">• DES / 3DES Block Cipher</text>
+    <text x="15" y="108" fill="#94a3b8" font-size="9">Vulnerable to Fluhrer/Mantin key attacks</text>
+  </g>
+
+  <!-- Modern Ciphers -->
+  <g transform="translate(300, 45)">
+    <rect width="230" height="120" rx="6" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
+    <text x="115" y="24" fill="#10b981" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">✅ Modern Robust Encryption</text>
+    <text x="15" y="48" fill="#a7f3d0" font-family="monospace" font-size="10">• WPA2-Enterprise / WPA3</text>
+    <text x="15" y="68" fill="#a7f3d0" font-family="monospace" font-size="10">• AES-CCMP-128</text>
+    <text x="15" y="88" fill="#a7f3d0" font-family="monospace" font-size="10">• GCMP-256 (Suite B)</text>
+    <text x="15" y="108" fill="#94a3b8" font-size="9">Enterprise-grade cryptographic protection</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 520 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="220" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="260" y="24" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">SECTION 13 LAB 4: CHATBOT WIDGET UI LAYOUT</text>
+  
+  <g transform="translate(85, 40)">
+    <rect width="350" height="160" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+    <!-- Chat Header -->
+    <rect width="350" height="30" rx="8" fill="#2563eb"/>
+    <text x="175" y="20" fill="#fff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Support Assistant Chatbot</text>
+    
+    <!-- Bot Message -->
+    <rect x="15" y="42" width="200" height="26" rx="6" fill="#334155"/>
+    <text x="25" y="59" fill="#f8fafc" font-size="10">Hello! How can I assist you today?</text>
+    
+    <!-- User Message (#cfe2ff) -->
+    <rect x="135" y="76" width="200" height="26" rx="6" fill="#cfe2ff"/>
+    <text x="145" y="93" fill="#0f172a" font-size="10" font-weight="bold">I need help with my mock test submission.</text>
+
+    <!-- Bot Automated Reply -->
+    <rect x="15" y="110" width="220" height="26" rx="6" fill="#334155"/>
+    <text x="25" y="127" fill="#f8fafc" font-size="10">Checking test ID in records now...</text>
+  </g>
+</svg>
