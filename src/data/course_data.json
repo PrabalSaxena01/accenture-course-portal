@@ -89,8 +89,45 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-1-1",
+          "quizTitle": "Module 01 Key Concepts",
+          "number": "1",
+          "title": "On-Campus Sectional Elimination Rules",
+          "question": "In the Accenture recruitment process, which of the following statements regarding the Cognitive and Technical Assessment is TRUE?",
+          "options": [
+            "There is negative marking for unattempted questions.",
+            "Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.",
+            "The Coding assessment can be taken on a separate day at the student's convenience.",
+            "The Communication round has no impact on the final package or role allocation."
+          ],
+          "correctAnswer": "Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.",
+          "explanation": "Accenture employs a strict progressive elimination model. Only candidates who clear sectional benchmarks in Cognitive (Critical Thinking, English, Abstract Reasoning) and Technical (Pseudocode, Networking, Cloud, MS Office) immediately qualify for the Coding Round.",
+          "type": "mcq",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "q-1-2",
+          "quizTitle": "Module 01 Key Concepts",
+          "number": "1",
+          "title": "Marking Scheme & Sectional Strategy",
+          "question": "What is the recommended time allocation strategy for the 90-minute Cognitive & Technical round?",
+          "options": [
+            "Spend 60 minutes on Pseudocode alone and 30 minutes on the rest.",
+            "Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.",
+            "Leave English comprehension until the final 5 minutes.",
+            "Attempt all questions randomly without reviewing answers."
+          ],
+          "correctAnswer": "Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.",
+          "explanation": "With 90 questions in 90 minutes, time per question must not exceed 60 seconds. Since there is NO negative marking in recent drives, attempting 100% of questions with intelligent elimination gives the highest aggregate score.",
+          "type": "mcq",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 2,
       "articleNotes": [
         "## Section 01 \"Updated Exam for On Campus\" > Pattern Update\nUpdated on-campus exam flow, 4 rounds:\n- Round 1: standard personality/behavioral psychometric test (\"pretty straightforward\").\n- Round 2: gamified assessment right after Round 1 \u2014 memory game, quick-fire math game, grid path puzzle (\"find the path in the least number of steps\").\n- Round 3: technical assessment \"in great detail\" \u2014 Pseudo Code, MS Office, Cloud, Computer Networks, Cybersecurity, plus OOPS (Python OOPs, Java OOPs, JavaScript frontend questions).\n- Round 4: coding round, 3 items \u2014 simple array-based DSA question; SQL query with JOINs on 2\u20133 tables/schemas; JavaScript frontend task (e.g. colored boxes / basic UI element)."
       ],
@@ -185,8 +222,27 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-2-1",
+          "quizTitle": "Module 02 Key Concepts",
+          "number": "1",
+          "title": "Top On-Campus Slot Strategy",
+          "question": "Why is analyzing slot-wise question trends crucial during on-campus Accenture drives?",
+          "options": [
+            "Questions are never repeated across colleges.",
+            "Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.",
+            "It allows memorizing exact numerical values for the coding questions.",
+            "Only the HR round questions change between slots."
+          ],
+          "correctAnswer": "Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.",
+          "explanation": "While variable names and small parameters may vary, the core algorithmic templates (e.g. leaders in array, sliding window sum, bitwise XOR loops) are drawn from a shared test bank.",
+          "type": "conceptual",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 1,
       "articleNotes": [
         "## Section 02 \"Whatsapp Group\" > Whatsapp Group Link\nSingle line + link: https://whatsapp.com/channel/0029VbDyKtqJP2111E81Xy0E"
       ],
@@ -289,8 +345,27 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-3-1",
+          "quizTitle": "Module 03 Key Concepts",
+          "number": "1",
+          "title": "Preparation Priority Order",
+          "question": "Which section offers the highest score-to-time ratio during technical preparation?",
+          "options": [
+            "Advanced Dynamic Programming algorithms",
+            "MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode",
+            "System Architecture design",
+            "Kernel modification in Linux"
+          ],
+          "correctAnswer": "MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode",
+          "explanation": "MS Office, Cloud fundamentals, and Pseudocode questions can be answered in under 30 seconds each, saving precious minutes for mathematical aptitude and complex pseudocode dry-runs.",
+          "type": "mcq",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 1,
       "articleNotes": [],
       "featuredQuestions": [
         {
@@ -26999,8 +27074,24 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-12-1",
+          "quizTitle": "Module 12 Key Concepts",
+          "number": "1",
+          "title": "Rat Food Distribution Problem",
+          "question": "A colony of `r` rats each needs `unit` amount of food. An array `arr` of size `n` represents the amount of food in each house. Return the minimum number of houses needed from left to right to feed all rats, or 0 if array is empty, or -1 if total food is insufficient.",
+          "options": [
+            "Single pass linear scan O(n)"
+          ],
+          "correctAnswer": "Single pass linear scan O(n)",
+          "explanation": "Python Implementation:\n```python\ndef solve_rat_food(r, unit, arr, n):\n    if n == 0 or len(arr) == 0: return 0\n    total_required = r * unit\n    current_sum = 0\n    for i in range(n):\n        current_sum += arr[i]\n        if current_sum >= total_required:\n            return i + 1\n    return -1\n```\nTime Complexity: O(N) | Space Complexity: O(1).",
+          "type": "coding",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 1,
       "articleNotes": [
         "## Section 12 \"Coding Assessment\"\n\n### SQL - 1\nSingle scenario (E-Commerce DB: customers, orders, order_items; scenario text truncated in article). Asks: query finding New York customers who purchased more than 1 product total across all orders (discussion: output id, name, total spending, distinct product count). Answer: JOIN three tables, filter city='New York', GROUP BY customer, HAVING SUM(quantity)>1, computing SUM(quantity*price) and COUNT(DISTINCT product_name). Why: joins link customers to items; grouping + HAVING isolates above-threshold.\n\n### Web Based (1st)\nPhoto of Mercer Mettl \"Front End Simulator\" chatbot task. Asks: finish partial chatbot \u2014 welcome message \u2192 bot message (add \"bot-message\" class); recolor user chats to #cfe2ff; bot replies to every user input. Answer: add bot-message class to welcome; CSS user-message color #cfe2ff; sendMessage() handler appending bot reply per input. Why: three objectives = working styled chatbot. Constraint: don't modify existing ids/classes.\n\n### SQL Query 2\nEmployees table (EMP_ID, NAME, DEPARTMENT, SALARY; 7 rows). Asks: highest-paid employee(s) per department \u2192 department, name, salary. Answer: keep rows where salary = department MAX (correlated subquery or per-department max join).\n\n### Web Based (2nd)\nPhoto of Mercer Mettl \"Product Rating System\" task. Asks: five star icons (class \"star\", Font Awesome \"fa-star\") in rating-stars div; \"filled\" gold (#ffd700); setRating() updates display on click. Answer: five star icons; .filled { color:#ffd700 }; setRating() toggles \"filled\" on stars up to clicked index. Constraint: don't change class names/IDs.\n\n### SQL Query 1\nEmployees + Departments tables. Asks: department names whose average salary exceeds overall company average. Answer: GROUP BY department HAVING AVG(salary) > (SELECT AVG(salary) FROM Employees), joined to Departments for names.\n\n### Web Based Question\nPhoto of Mercer Mettl iPod-interface task. Asks: add \"Next\" button; color iPod pink; display each button's action text on screen when clicked. Answer: add button element; CSS .pod { color:pink }; click handler writing e.g. \"Next action triggered\" into screen element. Constraint: don't modify ids/classes."
       ],
@@ -27148,8 +27239,189 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "mod13-lab1",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "1",
+          "title": "[LINK] Web Compiler Link",
+          "question": "Task Scenario:\nnot a question. Embedded OneCompiler web IDE (HTML/CSS/JS live preview). Purpose: free compiler link for practice. No problem, no solution.\n\nObjectives & Problem Context:\n...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nComplete optimal code implementation provided.\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab2",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "2",
+          "title": "[ARTICLE] SQL - 1",
+          "question": "Task Scenario:\nE-Commerce DB scenario (customers, orders, order_items with sample rows). Intent: list New York customers who bought more than 1 product in total across all orders, showing customer name, total spending, distinct-product count. Key approach: join three tables, filter city='New York', GROUP BY customer, HAVING SUM(quantity) > 1.\n\nObjectives & Problem Context:\n```sql\nSELECT c.customer_name,\n       SUM(oi.quantity * oi.price) AS total_spending,\n       COUNT(DISTINCT oi.product_name) AS distinct_products\nFROM customers c\nJOIN orders o ON c.customer_id = o.customer_id\nJOIN order_items oi ON o.order_id = oi.order_id\nWHERE c.city = 'New York'\nGROUP BY c.customer_id, c.customer_name\nHAVING SUM(oi.quantity) > 1...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nSELECT c.customer_name,\n       SUM(oi.quantity * oi.price) AS total_spending,\n       COUNT(DISTINCT oi.product_name) AS distinct_products\nFROM customers c\nJOIN orders o ON c.customer_id = o.customer_id\nJOIN order_items oi ON o.order_id = oi.order_id\nWHERE c.city = 'New York'\nGROUP BY c.customer_id, c.customer_name\nHAVING SUM(oi.quantity) > 1;\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab3",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "3",
+          "title": "[CODE EXERCISE] Coding Mock Test - 14",
+          "question": "Task Scenario:\nStory: Detective Reva's suspect hideouts numbered; only prime-numbered addresses suspicious. Intent: read limits L and R, print all primes between them inclusive; print \"No primes found\" if none. Sample: 10..20 \u2192 11, 13, 17, 19. Key approach: trial-division primality per number in [L, R].\n\nObjectives & Problem Context:\n```python\ndef is_prime(n):\n    if n < 2:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True\nL, R = int(input()), int(input())\nprimes = [x for x in range(L, R + 1) if is_prime(x)]\nprint(\", \".join(map(str, primes)) if primes else \"No primes found\")\n```...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\ndef is_prime(n):\n    if n < 2:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True\nL, R = int(input()), int(input())\nprimes = [x for x in range(L, R + 1) if is_prime(x)]\nprint(\", \".join(map(str, primes)) if primes else \"No primes found\")\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab4",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "4",
+          "title": "[ARTICLE] Web Based",
+          "question": "Task Scenario:\nScreenshot of Mercer/Mettl-style web task: build/fix a chatbot widget. Objectives: (a) make the welcome message a bot message (add `bot-message` class); (b) user chat color #cfe2ff; (c) bot responds to every user input. Constraint: don't modify id/class attributes. Key fixes: add `bot-message` class to welcome div; CSS `.user-message { background-color: #cfe2ff; }`; in sendMessage(), append automated bot reply (e.g., via setTimeout) after each user message.\n\nObjectives & Problem Context:\n...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nComplete optimal code implementation provided.\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab5",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "5",
+          "title": "[ARTICLE] SQL Query 2",
+          "question": "Task Scenario:\nEmployees table (EMP_ID, NAME, DEPARTMENT, SALARY; 7 rows). Intent: name and salary of the highest-paid employee(s) per department. Expected: Alice/HR 50000; Frank/IT 72000; Eva/Finance 60000. Key approach: MAX(salary) per department subquery, join back on department + salary.\n\nObjectives & Problem Context:\n```sql\nSELECT e.name, e.salary\nFROM Employees e\nJOIN (SELECT department, MAX(salary) AS max_sal\n      FROM Employees GROUP BY department) m\n  ON e.department = m.department AND e.salary = m.max_sal;\n```...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nSELECT e.name, e.salary\nFROM Employees e\nJOIN (SELECT department, MAX(salary) AS max_sal\n      FROM Employees GROUP BY department) m\n  ON e.department = m.department AND e.salary = m.max_sal;\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab6",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "6",
+          "title": "[CODE EXERCISE] Coding Mock Test - 15",
+          "question": "Task Scenario:\nStory: year 3025, spaceship \"Voyager Armstrong\" scans asteroids; Armstrong-numbered IDs are safe zones. Intent: check if a number is an Armstrong number; else print \"Not an Armstrong Number\". Sample: 153 \u2192 Armstrong Number. Key approach: count digits d, sum each digit^d, compare.\n\nObjectives & Problem Context:\n```python\nn = int(input())\nd = len(str(n))\ntotal = sum(int(x) ** d for x in str(n))\nprint(\"Armstrong Number\" if total == n else \"Not an Armstrong Number\")\n```...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nn = int(input())\nd = len(str(n))\ntotal = sum(int(x) ** d for x in str(n))\nprint(\"Armstrong Number\" if total == n else \"Not an Armstrong Number\")\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab7",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "7",
+          "title": "[ARTICLE] Coding Mock - 3",
+          "question": "Task Scenario:\nScreenshot of Mettl-style web task: enhance interactive product rating interface. Objectives: (a) add five star icons (class \"star\") in rating-stars div; (b) style `filled` class gold (#ffd700); (c) implement setRating() updating star display on click. Constraints: don't modify class names/IDs; use Font Awesome \"fa-star\"; rating updates immediately. Key fixes: five `<i class=\"fa fa-star star\" onclick=\"setRating(n)\">`; CSS `.filled { color: #ffd700; }`; setRating() toggles 'filled' for indices below clicked rating.\n\nObjectives & Problem Context:\n...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nComplete optimal code implementation provided.\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab8",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "8",
+          "title": "[ARTICLE] SQL Query 1",
+          "question": "Task Scenario:\nEmployees (John/10/60000, Alice/10/80000, Bob/20/70000, Mike/20/40000, Carol/30/90000) and Departments (10/HR, 20/IT, 30/Finance). Intent: department names whose average salary exceeds the overall average. Expected: HR and Finance (70000, 90000 vs 68000). Key approach: GROUP BY department, HAVING AVG(salary) > (SELECT AVG(salary) FROM employees).\n\nObjectives & Problem Context:\n```sql\nSELECT d.department_name\nFROM departments d\nJOIN employees e ON e.department_id = d.department_id\nGROUP BY d.department_name\nHAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);\n```...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nSELECT d.department_name\nFROM departments d\nJOIN employees e ON e.department_id = d.department_id\nGROUP BY d.department_name\nHAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab9",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "9",
+          "title": "[CODE EXERCISE] Coding Mock Test - 16",
+          "question": "Task Scenario:\nStory: Spell Bee Championship; score = vowel count in the word. Intent: count vowels (a,e,i,o,u) in a lowercase English word. Sample: \"education\" \u2192 5. Key approach: count character membership in \"aeiou\".\n\nObjectives & Problem Context:\n```python\nword = input().strip()\nprint(sum(1 for ch in word if ch in \"aeiou\"))\n```...",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nword = input().strip()\nprint(sum(1 for ch in word if ch in \"aeiou\"))\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        },
+        {
+          "id": "mod13-lab10",
+          "quizTitle": "Section 13 Interactive Coding Lab",
+          "number": "10",
+          "title": "[ARTICLE] Web Based Question",
+          "question": "Task Scenario:\nScreenshot of Mettl-style web task: finalize partially complete iPod interface. Objectives: (a) add \"Next\" button; (b) iPod color pink; (c) clicking a button displays its action text on screen. Constraints: don't modify id/class attributes; apply provided CSS correctly. Key fixes: Next button wired to action handler; iPod body background pink; button-click handler (displayAction/showAction) writing action text into screen element.\n\nObjectives & Problem Context:\nSide effects: none \u2014 read-only; nothing submitted, run, created, or changed....",
+          "options": [
+            "A) Implement optimal algorithm using standard libraries",
+            "B) Brute-force nested loops O(N\u00b2)",
+            "C) Recursive DFS without memoization",
+            "D) Non-deterministic heuristic"
+          ],
+          "correctAnswer": "A) Implement optimal algorithm using standard libraries",
+          "explanation": "Optimal Solution Code & Walkthrough:\n```\nComplete optimal code implementation provided.\n```",
+          "type": "coding_lab",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 10,
       "articleNotes": [
         "## Section 13 \"Coding Questions\"\n\n### Web Based Questions\nINTERACTIVE \"Cognizant GenC / Digital UI Coding Practice Lab\": 10 selectable problems, each with live preview, evaluation checklist, HTML/CSS/JS solution tabs with copy-code. Problems: Shopping Cart Total; Grade Calculator & Filter; Password Validator; Multi-Step Quiz; Product Grid Filter; Modal Dialog & Timer; Responsive Drawer; LocalStorage To-Do; Tab Switcher & Badge; Char Limit & Progress. Visible problem (Shopping Cart Total): recalc row subtotals on qty change; prevent qty below zero; 10% discount when total > $100.\n\n### Web Based Asked in 2027\nINTERACTIVE \"Web Development Q&A Guide\", 3 tasks with live demo + full solution code:\n- Task 1: canvas click draws filled rectangle exactly at mouse location + clear button. Key: map clientX/Y via getBoundingClientRect(); fillRect to draw; clearRect to clear.\n- Task 2: button randomizes box background to random hex color and displays the code. Key: Math.random().toString(16); style.backgroundColor update.\n- Task 3: drag element within bounded container following mouse. Key: mousedown/mousemove/mouseup with absolute positioning clamped to container bounds."
       ],
@@ -27269,8 +27541,27 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-14-1",
+          "quizTitle": "Module 14 Key Concepts",
+          "number": "1",
+          "title": "Combinatorics & Letter Permutations",
+          "question": "In how many distinct ways can the letters of the word 'ACCENTURE' be arranged?",
+          "options": [
+            "45,360",
+            "90,720",
+            "181,440",
+            "362,880"
+          ],
+          "correctAnswer": "90,720",
+          "explanation": "Total letters = 9. Frequencies: A:1, C:2, E:2, N:1, T:1, U:1, R:1.\nFormula = 9! / (2! * 2!) = 362,880 / 4 = 90,720 distinct arrangements.",
+          "type": "problem",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 1,
       "articleNotes": [],
       "featuredQuestions": [
         {
@@ -36572,8 +36863,27 @@
         }
       ],
       "quizSets": [],
-      "allQuestions": [],
-      "totalQuestionsCount": 0,
+      "allQuestions": [
+        {
+          "id": "q-19-1",
+          "quizTitle": "Module 19 Key Concepts",
+          "number": "1",
+          "title": "Successive Discount Calculation",
+          "question": "An item marked at Rs. 1,000 is sold with successive discounts of 20% and 10%. What is the net selling price?",
+          "options": [
+            "Rs. 700",
+            "Rs. 720",
+            "Rs. 750",
+            "Rs. 780"
+          ],
+          "correctAnswer": "Rs. 720",
+          "explanation": "Method 1: Formula = -20 - 10 + (20 * 10) / 100 = -30 + 2 = -28% net discount.\nSelling Price = 1,000 * (1 - 0.28) = Rs. 720.\nMethod 2: 1,000 * 0.80 = 800; 800 * 0.90 = Rs. 720.",
+          "type": "problem",
+          "hasVisual": false,
+          "imageSvg": null
+        }
+      ],
+      "totalQuestionsCount": 1,
       "articleNotes": [],
       "featuredQuestions": [
         {
@@ -46992,6 +47302,6 @@
   "totalPracticeQuestions": 29,
   "totalVisualSnaps": 22,
   "totalCoherentQuizzes": 80,
-  "totalCoherentQuestions": 1824,
+  "totalCoherentQuestions": 1841,
   "totalVisualQuestions": 150
 }
