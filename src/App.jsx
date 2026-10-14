@@ -7,7 +7,8 @@ import {
   ChevronDown, ChevronUp, ExternalLink, Video, FileText, 
   HelpCircle, Code2, Layers, Filter, Award, Sparkles,
   BarChart3, ListChecks, Compass, ShieldCheck, Clock,
-  Eye, EyeOff, Image, Terminal, BrainCircuit, Grid
+  Eye, EyeOff, Image, Terminal, BrainCircuit, Grid,
+  BookMarked, ChevronRight
 } from 'lucide-react';
 
 export default function App() {
@@ -19,13 +20,25 @@ export default function App() {
   const [completionFilter, setCompletionFilter] = useState('all');
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
 
-  // Subtab for each module: { [moduleId]: 'lessons' | 'questions' | 'snaps' }
+  // Subtab for each module: { [moduleId]: 'lessons' | 'questions' | 'notes' | 'snaps' }
   const [moduleViewMode, setModuleViewMode] = useState({});
+
+  // Selected quiz set filter per module: { [moduleId]: 'ALL' | quizTitle }
+  const [selectedQuizSet, setSelectedQuizSet] = useState({});
+
+  // Question search filter per module: { [moduleId]: query }
+  const [modQuestionSearch, setModQuestionSearch] = useState({});
+
+  // Pagination limit per module: { [moduleId]: number }
+  const [questionDisplayLimit, setQuestionDisplayLimit] = useState({});
+
+  // Global question page limit for the global tab
+  const [globalQuestionLimit, setGlobalQuestionLimit] = useState(30);
 
   // Revealed solutions state for questions
   const [revealedSolutions, setRevealedSolutions] = useState(new Set());
 
-  // Initialize completion state from localStorage, falling back to initial course completion
+  // Initialize completion state from localStorage
   const [completedItems, setCompletedItems] = useState(() => {
     const saved = localStorage.getItem('accenture_completed_items');
     if (saved) {
@@ -147,11 +160,11 @@ export default function App() {
           if (searchQuery.trim()) {
             const q = searchQuery.toLowerCase();
             const matchTitle = lesson.title.toLowerCase().includes(q);
-            const matchNote = lesson.note.toLowerCase().includes(q);
+            const matchNote = (lesson.note || '').toLowerCase().includes(q);
             const matchMod = mod.title.toLowerCase().includes(q);
-            const matchCat = mod.category.toLowerCase().includes(q);
-            const matchQ = (mod.questions || []).some(
-              ques => ques.question.toLowerCase().includes(q) || ques.title.toLowerCase().includes(q)
+            const matchCat = (mod.category || '').toLowerCase().includes(q);
+            const matchQ = (mod.allQuestions || mod.questions || []).some(
+              ques => (ques.question || '').toLowerCase().includes(q) || (ques.title || '').toLowerCase().includes(q)
             );
             return matchTitle || matchNote || matchMod || matchCat || matchQ;
           }
@@ -159,7 +172,7 @@ export default function App() {
           return true;
         });
 
-        if (matchingLessons.length === 0 && searchQuery.trim() && !(mod.questions || []).some(q => q.question.toLowerCase().includes(searchQuery.toLowerCase()))) {
+        if (matchingLessons.length === 0 && searchQuery.trim() && !(mod.allQuestions || mod.questions || []).some(q => (q.question || '').toLowerCase().includes(searchQuery.toLowerCase()))) {
           return null;
         }
 
@@ -175,7 +188,7 @@ export default function App() {
   const totalItemsCount = courseData.totalItems;
   const completedCount = completedItems.size;
   const progressPercent = Math.round((completedCount / totalItemsCount) * 100);
-  const totalQuestions = courseData.totalPracticeQuestions || 29;
+  const totalQuestions = courseData.totalCoherentQuestions || 1824;
   const totalSnaps = courseData.totalVisualSnaps || 22;
 
   const getTypeIcon = (type) => {
@@ -201,7 +214,6 @@ export default function App() {
 
   // Render interactive 5x5 Path Finder Maze Grid
   const renderPathFinderGrid = () => {
-    // 5x5 grid cells
     const cells = [];
     const obstacles = new Set(['1,1', '2,3', '3,1', '3,2']);
     const path = new Set(['0,0', '1,0', '2,0', '2,1', '2,2', '3,2', '3,3', '4,3', '4,4']);
@@ -294,9 +306,9 @@ export default function App() {
           <div className="brand-info">
             <h1>
               Accenture Mock Series
-              <span className="pill-tag">KN Academy</span>
+              <span className="pill-tag">KN Academy Master Kit</span>
             </h1>
-            <p>Authorized Course Curriculum, Questions & Snaps Navigator</p>
+            <p>1,824 Questions • 206 Lessons • Visual Blueprints & Coherent Notes</p>
           </div>
         </div>
 
@@ -325,16 +337,15 @@ export default function App() {
         <div className="hero-content">
           <div className="hero-meta-row">
             <span className="pill-tag"><Award size={13} /> Official MNC Placement Prep</span>
-            <span className="pill-tag"><HelpCircle size={13} /> {totalQuestions} Practice Questions & Solutions</span>
+            <span className="pill-tag"><HelpCircle size={13} /> {totalQuestions} Coherent Exam Questions</span>
             <span className="pill-tag"><Image size={13} /> {totalSnaps} Visual Snaps & Blueprints</span>
             <span className="pill-tag"><ShieldCheck size={13} /> 100% Inspected & Verified</span>
           </div>
 
           <h2 className="hero-title">{courseData.courseTitle}</h2>
           <p className="hero-desc">
-            Complete, authoritative breakdown of the Accenture On-Campus & Off-Campus Hiring Assessment.
-            Features 21 modules covering Cognitive Game-Based tests, Technical MCQs, Pseudocode, 
-            Coding Challenges, Full-Length Mock Papers, and AI Voice Communication preparation.
+            Complete, authoritative placement prep portal with all <strong>1,824 questions</strong> and <strong>22 visual snapshots</strong> extracted from the KN Academy course kit. 
+            Coherently organized across all 21 modules with verified solutions, pseudocode dry-runs, interactive cognitive game simulators, and study walkthroughs.
           </p>
 
           {/* Stats Grid */}
@@ -351,7 +362,7 @@ export default function App() {
               <div className="stat-icon blue"><BookOpen size={22} /></div>
               <div className="stat-info">
                 <h3>{courseData.totalItems}</h3>
-                <p>Total Learning Items</p>
+                <p>Syllabus Items</p>
               </div>
             </div>
 
@@ -359,7 +370,7 @@ export default function App() {
               <div className="stat-icon emerald"><HelpCircle size={22} /></div>
               <div className="stat-info">
                 <h3>{totalQuestions}</h3>
-                <p>Questions with Answers</p>
+                <p>Exam Questions & Answers</p>
               </div>
             </div>
 
@@ -396,7 +407,7 @@ export default function App() {
             className={`tab-btn ${activeTab === 'questions' ? 'active' : ''}`}
             onClick={() => setActiveTab('questions')}
           >
-            <HelpCircle size={17} /> Practice Questions & Solutions ({totalQuestions})
+            <HelpCircle size={17} /> All Questions Bank ({totalQuestions})
           </button>
           <button 
             className={`tab-btn ${activeTab === 'snaps' ? 'active' : ''}`}
@@ -430,8 +441,7 @@ export default function App() {
             </div>
 
             {courseData.modules.map(mod => {
-              const modCompleted = mod.lessons.filter(l => completedItems.has(l.id)).length;
-              const isAllDone = modCompleted === mod.totalLessons && mod.totalLessons > 0;
+              const qCount = mod.totalQuestionsCount || (mod.allQuestions || []).length || (mod.questions || []).length;
               return (
                 <button
                   key={mod.id}
@@ -444,8 +454,8 @@ export default function App() {
                     </span>
                     <span style={{ overflow: 'hidden', textOverflow: 'ellipsis' }}>{mod.title}</span>
                   </span>
-                  <span style={{ fontSize: '0.7rem', padding: '0.1rem 0.4rem', borderRadius: '4px', background: isAllDone ? 'rgba(16, 185, 129, 0.2)' : 'rgba(255,255,255,0.06)', color: isAllDone ? '#34d399' : 'var(--text-muted)' }}>
-                    {modCompleted}/{mod.totalLessons}
+                  <span style={{ fontSize: '0.7rem', padding: '0.1rem 0.4rem', borderRadius: '4px', background: qCount > 0 ? 'rgba(56, 189, 248, 0.15)' : 'rgba(255,255,255,0.06)', color: qCount > 0 ? '#38bdf8' : 'var(--text-muted)' }}>
+                    {qCount > 0 ? `${qCount} Qs` : `${mod.totalLessons} items`}
                   </span>
                 </button>
               );
@@ -538,8 +548,28 @@ export default function App() {
             {/* Modules List */}
             {filteredModules.map(mod => {
               const isExpanded = expandedModules.has(mod.moduleIndex);
-              const modCompletedCount = mod.lessons.filter(l => completedItems.has(l.id)).length;
               const currentSubTab = moduleViewMode[mod.moduleIndex] || 'lessons';
+              const rawQuestions = mod.allQuestions && mod.allQuestions.length > 0 ? mod.allQuestions : (mod.questions || []);
+              const qCount = rawQuestions.length;
+              const quizSets = mod.quizSets || [];
+              const articleNotes = mod.articleNotes || [];
+              const currentSetFilter = selectedQuizSet[mod.moduleIndex] || 'ALL';
+              const questionSearch = (modQuestionSearch[mod.moduleIndex] || '').toLowerCase();
+              const displayLimit = questionDisplayLimit[mod.moduleIndex] || 15;
+
+              // Filter questions within this module
+              const displayQuestions = rawQuestions.filter(q => {
+                if (currentSetFilter !== 'ALL' && q.quizTitle !== currentSetFilter) {
+                  return false;
+                }
+                if (questionSearch.trim()) {
+                  const matchP = (q.question || '').toLowerCase().includes(questionSearch);
+                  const matchA = (q.correctAnswer || '').toLowerCase().includes(questionSearch);
+                  const matchT = (q.title || '').toLowerCase().includes(questionSearch);
+                  return matchP || matchA || matchT;
+                }
+                return true;
+              });
 
               return (
                 <div key={mod.id} id={`module-${mod.moduleIndex}`} className="module-card">
@@ -553,9 +583,15 @@ export default function App() {
                           <span>•</span>
                           <span>{mod.lessons.length} items</span>
                           <span>•</span>
-                          <span style={{ color: '#38bdf8' }}>{(mod.questions || []).length} questions</span>
+                          <span style={{ color: '#38bdf8', fontWeight: 600 }}>{qCount} questions</span>
                           <span>•</span>
-                          <span style={{ color: '#fbbf24' }}>{(mod.snaps || []).length} snaps</span>
+                          <span style={{ color: '#fbbf24', fontWeight: 600 }}>{(mod.snaps || []).length} snaps</span>
+                          {articleNotes.length > 0 && (
+                            <>
+                              <span>•</span>
+                              <span style={{ color: '#34d399', fontWeight: 600 }}>{articleNotes.length} notes</span>
+                            </>
+                          )}
                         </div>
                       </div>
                     </div>
@@ -598,8 +634,20 @@ export default function App() {
                             setModuleViewMode(prev => ({ ...prev, [mod.moduleIndex]: 'questions' }));
                           }}
                         >
-                          <HelpCircle size={14} /> Practice Questions ({(mod.questions || []).length})
+                          <HelpCircle size={14} /> Module Questions ({qCount})
                         </button>
+
+                        {articleNotes.length > 0 && (
+                          <button
+                            className={`subtab-btn ${currentSubTab === 'notes' ? 'active' : ''}`}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setModuleViewMode(prev => ({ ...prev, [mod.moduleIndex]: 'notes' }));
+                            }}
+                          >
+                            <BookMarked size={14} /> Study Notes ({articleNotes.length})
+                          </button>
+                        )}
 
                         <button
                           className={`subtab-btn ${currentSubTab === 'snaps' ? 'active' : ''}`}
@@ -654,58 +702,135 @@ export default function App() {
                         </div>
                       )}
 
-                      {/* Sub-View 2: Module Practice Questions */}
+                      {/* Sub-View 2: Module Questions (Coherently Grouped with Filter & Search) */}
                       {currentSubTab === 'questions' && (
                         <div className="questions-list">
-                          {(mod.questions || []).length === 0 ? (
+                          {/* Quiz Sets Filter Bar */}
+                          {quizSets.length > 1 && (
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap', padding: '0.5rem 0' }}>
+                              <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Filter Quiz Set:</span>
+                              <button
+                                className={`filter-chip ${currentSetFilter === 'ALL' ? 'active' : ''}`}
+                                onClick={() => setSelectedQuizSet(prev => ({ ...prev, [mod.moduleIndex]: 'ALL' }))}
+                              >
+                                All Sets ({qCount})
+                              </button>
+                              {quizSets.map(qs => (
+                                <button
+                                  key={qs.title}
+                                  className={`filter-chip ${currentSetFilter === qs.title ? 'active' : ''}`}
+                                  onClick={() => setSelectedQuizSet(prev => ({ ...prev, [mod.moduleIndex]: qs.title }))}
+                                >
+                                  {qs.title} ({qs.count})
+                                </button>
+                              ))}
+                            </div>
+                          )}
+
+                          {/* Search within this module's questions */}
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '0.25rem 0 0.5rem' }}>
+                            <input
+                              type="text"
+                              placeholder={`Search within ${mod.title} questions...`}
+                              value={modQuestionSearch[mod.moduleIndex] || ''}
+                              onChange={(e) => setModQuestionSearch(prev => ({ ...prev, [mod.moduleIndex]: e.target.value }))}
+                              className="search-input"
+                              style={{ padding: '0.5rem 1rem', fontSize: '0.8rem' }}
+                            />
+                            {modQuestionSearch[mod.moduleIndex] && (
+                              <button
+                                className="filter-chip"
+                                onClick={() => setModQuestionSearch(prev => ({ ...prev, [mod.moduleIndex]: '' }))}
+                              >
+                                Clear
+                              </button>
+                            )}
+                          </div>
+
+                          {displayQuestions.length === 0 ? (
                             <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', padding: '1rem 0' }}>
-                              No specific test questions recorded for this module yet.
+                              No questions match the current filter in this module.
                             </p>
                           ) : (
-                            (mod.questions || []).map(q => {
-                              const isRevealed = revealedSolutions.has(q.id);
-                              return (
-                                <div key={q.id} className="question-card">
-                                  <div className="question-header">
-                                    <span className="question-title">❓ {q.title}</span>
-                                    <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.type.toUpperCase()}</span>
+                            <>
+                              {displayQuestions.slice(0, displayLimit).map((q, qIndex) => {
+                                const isRevealed = revealedSolutions.has(q.id);
+                                return (
+                                  <div key={q.id} className="question-card">
+                                    <div className="question-header">
+                                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
+                                        <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#38bdf8', fontWeight: 700 }}>
+                                          #{qIndex + 1}
+                                        </span>
+                                        <span className="question-title">{q.title || `Question ${q.number || qIndex + 1}`}</span>
+                                      </div>
+                                      {q.quizTitle && (
+                                        <span className="pill-tag" style={{ fontSize: '0.7rem' }}>
+                                          {q.quizTitle}
+                                        </span>
+                                      )}
+                                    </div>
+
+                                    <div className="question-text">{q.question}</div>
+
+                                    {q.options && q.options.length > 0 && (
+                                      <div className="options-grid">
+                                        {q.options.map((opt, oIdx) => (
+                                          <div key={oIdx} className="option-item">
+                                            <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
+                                          </div>
+                                        ))}
+                                      </div>
+                                    )}
+
+                                    <button
+                                      className="filter-chip"
+                                      style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
+                                      onClick={() => toggleSolution(q.id)}
+                                    >
+                                      {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
+                                      {isRevealed ? 'Hide Answer & Explanation' : 'Reveal Solution & Explanation'}
+                                    </button>
+
+                                    {isRevealed && (
+                                      <div className="solution-box">
+                                        <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
+                                        <div className="solution-explanation">{q.explanation}</div>
+                                      </div>
+                                    )}
                                   </div>
+                                );
+                              })}
 
-                                  <div className="question-text">{q.question}</div>
-
-                                  {q.options && q.options.length > 0 && (
-                                    <div className="options-grid">
-                                      {q.options.map((opt, oIdx) => (
-                                        <div key={oIdx} className="option-item">
-                                          <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
-                                        </div>
-                                      ))}
-                                    </div>
-                                  )}
-
-                                  <button
-                                    className="filter-chip"
-                                    style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
-                                    onClick={() => toggleSolution(q.id)}
-                                  >
-                                    {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
-                                    {isRevealed ? 'Hide Solution' : 'View Verified Solution & Explanation'}
-                                  </button>
-
-                                  {isRevealed && (
-                                    <div className="solution-box">
-                                      <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
-                                      <div className="solution-explanation">{q.explanation}</div>
-                                    </div>
-                                  )}
-                                </div>
-                              );
-                            })
+                              {/* Load More Button */}
+                              {displayQuestions.length > displayLimit && (
+                                <button
+                                  className="filter-chip"
+                                  style={{ padding: '0.6rem 1.25rem', alignSelf: 'center', margin: '1rem 0' }}
+                                  onClick={() => setQuestionDisplayLimit(prev => ({ ...prev, [mod.moduleIndex]: displayLimit + 25 }))}
+                                >
+                                  Load More Questions (Showing {displayLimit} of {displayQuestions.length})
+                                </button>
+                              )}
+                            </>
                           )}
                         </div>
                       )}
 
-                      {/* Sub-View 3: Visual Snaps & Blueprints */}
+                      {/* Sub-View 3: Study Notes & Walkthroughs */}
+                      {currentSubTab === 'notes' && (
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                          {articleNotes.map((note, nIdx) => (
+                            <div key={nIdx} className="glass-panel" style={{ padding: '1.25rem' }}>
+                              <pre style={{ whiteSpace: 'pre-wrap', fontFamily: 'inherit', fontSize: '0.85rem', lineHeight: '1.6', color: 'var(--text-secondary)' }}>
+                                {note}
+                              </pre>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Sub-View 4: Visual Snaps & Blueprints */}
                       {currentSubTab === 'snaps' && (
                         <div className="snaps-list">
                           {(mod.snaps || []).length === 0 ? (
@@ -749,20 +874,41 @@ export default function App() {
           </div>
         )}
 
-        {/* Tab 2: Global Practice Questions Bank */}
+        {/* Tab 2: Global Practice Questions Bank (1,824 Questions) */}
         {activeTab === 'questions' && (
           <div className="content-column">
             <div className="glass-panel" style={{ padding: '1.5rem', marginBottom: '1rem' }}>
               <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>
-                Complete Accenture Placement Question Bank ({totalQuestions} Questions)
+                Complete Placement Question Bank ({totalQuestions} Questions)
               </h3>
               <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-                Master question sets spanning Game-based logic, Pseudocode outputs, Coding algorithms, Technical MCQs, and Verbal reasoning.
+                Exhaustive archive of all 1,824 verified questions from the KN Academy course kit. Filter by module or search by keyword below.
               </p>
             </div>
 
+            <div className="search-box" style={{ marginBottom: '1rem' }}>
+              <Search size={18} className="search-icon" />
+              <input
+                type="text"
+                placeholder="Search across all 1,824 questions, pseudocode, options, and explanations..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="search-input"
+              />
+            </div>
+
             <div className="questions-list">
-              {courseData.modules.flatMap(m => (m.questions || []).map(q => ({ ...q, moduleTitle: m.title, moduleIndex: m.moduleIndex }))).map(q => {
+              {courseData.modules.flatMap(m => {
+                const qs = m.allQuestions && m.allQuestions.length > 0 ? m.allQuestions : (m.questions || []);
+                return qs.map(q => ({ ...q, moduleTitle: m.title, moduleIndex: m.moduleIndex }));
+              })
+              .filter(q => {
+                if (!searchQuery.trim()) return true;
+                const s = searchQuery.toLowerCase();
+                return (q.question || '').toLowerCase().includes(s) || (q.correctAnswer || '').toLowerCase().includes(s) || (q.title || '').toLowerCase().includes(s) || (q.moduleTitle || '').toLowerCase().includes(s);
+              })
+              .slice(0, globalQuestionLimit)
+              .map((q, idx) => {
                 const isRevealed = revealedSolutions.has(q.id);
                 return (
                   <div key={q.id} className="question-card">
@@ -771,22 +917,12 @@ export default function App() {
                         <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#c084fc', marginRight: '0.5rem' }}>
                           MOD {String(q.moduleIndex).padStart(2, '0')}
                         </span>
-                        <span className="question-title">❓ {q.title}</span>
+                        <span className="question-title">{q.title}</span>
                       </div>
-                      <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.type.toUpperCase()}</span>
+                      <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.quizTitle || q.moduleTitle}</span>
                     </div>
 
                     <div className="question-text">{q.question}</div>
-
-                    {q.options && q.options.length > 0 && (
-                      <div className="options-grid">
-                        {q.options.map((opt, oIdx) => (
-                          <div key={oIdx} className="option-item">
-                            <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
-                          </div>
-                        ))}
-                      </div>
-                    )}
 
                     <button
                       className="filter-chip"
@@ -794,7 +930,7 @@ export default function App() {
                       onClick={() => toggleSolution(q.id)}
                     >
                       {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
-                      {isRevealed ? 'Hide Solution' : 'View Verified Solution & Explanation'}
+                      {isRevealed ? 'Hide Solution' : 'Reveal Solution & Explanation'}
                     </button>
 
                     {isRevealed && (
@@ -806,6 +942,17 @@ export default function App() {
                   </div>
                 );
               })}
+            </div>
+
+            {/* Load More Button for Global Tab */}
+            <div style={{ textAlign: 'center', marginTop: '1.5rem' }}>
+              <button
+                className="filter-chip"
+                style={{ padding: '0.75rem 2rem', fontSize: '0.9rem' }}
+                onClick={() => setGlobalQuestionLimit(prev => prev + 50)}
+              >
+                Load More Questions (Showing up to {globalQuestionLimit} of {totalQuestions})
+              </button>
             </div>
           </div>
         )}
@@ -882,11 +1029,11 @@ export default function App() {
                 </div>
                 <div className="glass-panel" style={{ padding: '1rem' }}>
                   <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Practice Questions & Solutions</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>{totalQuestions} Practice Questions</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#38bdf8' }}>{totalQuestions} Questions</div>
                 </div>
                 <div className="glass-panel" style={{ padding: '1rem' }}>
                   <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Visual Snaps & Blueprints</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>{totalSnaps} Visual Snaps</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#fbbf24' }}>{totalSnaps} Visual Snaps</div>
                 </div>
               </div>
 
@@ -901,6 +1048,7 @@ export default function App() {
                       <th>Items</th>
                       <th>Questions</th>
                       <th>Snaps</th>
+                      <th>Notes</th>
                       <th>Audit Status</th>
                     </tr>
                   </thead>
@@ -913,8 +1061,9 @@ export default function App() {
                         <td style={{ fontWeight: 600 }}>{mod.title}</td>
                         <td><span className="pill-tag" style={{ fontSize: '0.7rem' }}>{mod.category}</span></td>
                         <td>{mod.totalLessons}</td>
-                        <td style={{ color: '#38bdf8', fontWeight: 600 }}>{(mod.questions || []).length}</td>
+                        <td style={{ color: '#38bdf8', fontWeight: 600 }}>{mod.totalQuestionsCount || (mod.allQuestions || []).length || (mod.questions || []).length}</td>
                         <td style={{ color: '#fbbf24', fontWeight: 600 }}>{(mod.snaps || []).length}</td>
+                        <td style={{ color: '#34d399', fontWeight: 600 }}>{(mod.articleNotes || []).length}</td>
                         <td>
                           <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', color: '#10b981', fontWeight: 600, fontSize: '0.8rem' }}>
                             <CheckCircle2 size={14} /> Verified
@@ -990,10 +1139,10 @@ export default function App() {
       <footer className="app-footer">
         <p>
           Accenture Mock Test Series Course Portal • Built with React & Vite • 
-          Authorized content syllabus, verified questions & visual snaps based on KN Academy Course
+          Authorized content syllabus, 1,824 questions, 22 visual snaps & study notes
         </p>
         <p style={{ marginTop: '0.25rem', opacity: 0.6 }}>
-          100% of all 21 modules, 206 learning items, 29 practice questions & 22 visual snaps accounted for.
+          100% of all 21 modules, 206 learning items, 1,824 practice questions & 22 visual snaps accounted for.
         </p>
       </footer>
     </div>
