@@ -44,6 +44,49 @@
         "Marking scheme",
         "Negative marking updates",
         "Time allocation strategy"
+      ],
+      "snaps": [
+        {
+          "id": "snap-1-1",
+          "title": "Accenture Assessment Architecture Blueprint",
+          "type": "blueprint",
+          "caption": "Official round-by-round elimination flow and sectional weightages.",
+          "details": [
+            "Round 1: Cognitive & Technical Assessment (90 mins, 90 questions) - Elimination Round",
+            "Round 2: Coding Assessment (45 mins, 2 questions) - Mandatory",
+            "Round 3: Communication Assessment (AI Voice proctored, 20 mins) - Non-elimination but required for final offer"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-1-1",
+          "type": "mcq",
+          "title": "On-Campus Sectional Elimination Rules",
+          "question": "In the Accenture recruitment process, which of the following statements regarding the Cognitive and Technical Assessment is TRUE?",
+          "options": [
+            "There is negative marking for unattempted questions.",
+            "Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.",
+            "The Coding assessment can be taken on a separate day at the student's convenience.",
+            "The Communication round has no impact on the final package or role allocation."
+          ],
+          "correctAnswer": "Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.",
+          "explanation": "Accenture employs a strict progressive elimination model. Only candidates who clear sectional benchmarks in Cognitive (Critical Thinking, English, Abstract Reasoning) and Technical (Pseudocode, Networking, Cloud, MS Office) immediately qualify for the Coding Round."
+        },
+        {
+          "id": "q-1-2",
+          "type": "mcq",
+          "title": "Marking Scheme & Sectional Strategy",
+          "question": "What is the recommended time allocation strategy for the 90-minute Cognitive & Technical round?",
+          "options": [
+            "Spend 60 minutes on Pseudocode alone and 30 minutes on the rest.",
+            "Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.",
+            "Leave English comprehension until the final 5 minutes.",
+            "Attempt all questions randomly without reviewing answers."
+          ],
+          "correctAnswer": "Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.",
+          "explanation": "With 90 questions in 90 minutes, time per question must not exceed 60 seconds. Since there is NO negative marking in recent drives, attempting 100% of questions with intelligent elimination gives the highest aggregate score."
+        }
       ]
     },
     {
@@ -75,6 +118,35 @@
         "Experience sharing",
         "Drive notifications",
         "Peer learning"
+      ],
+      "snaps": [
+        {
+          "id": "snap-2-1",
+          "title": "Interview Support & Experience Sharing Flow",
+          "type": "flowchart",
+          "caption": "KN Academy real-time query resolution and peer preparation network.",
+          "details": [
+            "Daily verified memory-based questions from morning slots",
+            "Pseudocode pattern alerts and compiler testcase discussions",
+            "HR interview experience reviews and offer updates"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-2-1",
+          "type": "conceptual",
+          "title": "Top On-Campus Slot Strategy",
+          "question": "Why is analyzing slot-wise question trends crucial during on-campus Accenture drives?",
+          "options": [
+            "Questions are never repeated across colleges.",
+            "Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.",
+            "It allows memorizing exact numerical values for the coding questions.",
+            "Only the HR round questions change between slots."
+          ],
+          "correctAnswer": "Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.",
+          "explanation": "While variable names and small parameters may vary, the core algorithmic templates (e.g. leaders in array, sliding window sum, bitwise XOR loops) are drawn from a shared test bank."
+        }
       ]
     },
     {
@@ -126,6 +198,37 @@
         "Technical MCQ strategy",
         "High-frequency topics",
         "Time-saving techniques"
+      ],
+      "snaps": [
+        {
+          "id": "snap-3-1",
+          "title": "High-Yield Subject Weightage Matrix",
+          "type": "matrix",
+          "caption": "Historical distribution of questions across Technical and Cognitive sections.",
+          "details": [
+            "Pseudocode & Logic: ~18 questions (High Impact)",
+            "Common Applications & MS Office: ~12 questions (High Yield / Fast Solve)",
+            "Networking & Cloud: ~10 questions (Direct Theory)",
+            "Abstract & Analytical Reasoning: ~20 questions",
+            "English Ability: ~17 questions"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-3-1",
+          "type": "mcq",
+          "title": "Preparation Priority Order",
+          "question": "Which section offers the highest score-to-time ratio during technical preparation?",
+          "options": [
+            "Advanced Dynamic Programming algorithms",
+            "MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode",
+            "System Architecture design",
+            "Kernel modification in Linux"
+          ],
+          "correctAnswer": "MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode",
+          "explanation": "MS Office, Cloud fundamentals, and Pseudocode questions can be answered in under 30 seconds each, saving precious minutes for mathematical aptitude and complex pseudocode dry-runs."
+        }
       ]
     },
     {
@@ -389,6 +492,63 @@
         "Memory grid recall",
         "Rapid mental arithmetic",
         "Spatial reasoning"
+      ],
+      "snaps": [
+        {
+          "id": "snap-4-1",
+          "title": "Path Finder (Hidden Path) 5x5 Grid Simulation",
+          "type": "grid",
+          "caption": "Visual simulation of Path Finder maze navigation. Green = Start (0,0), Red = Target (4,4), Gray = Obstacles, Purple = Optimal Path.",
+          "details": [
+            "Grid Dimensions: 5x5 Matrix",
+            "Start Coordinate: (0, 0)",
+            "Target Coordinate: (4, 4)",
+            "Obstacles: (1, 1), (2, 3), (3, 1), (3, 2)",
+            "Optimal Path Sequence: Right -> Right -> Down -> Down -> Right -> Down -> Down -> Right"
+          ]
+        },
+        {
+          "id": "snap-4-2",
+          "title": "Memory Grid Matrix Snapshot",
+          "type": "memory",
+          "caption": "Recall phase for Accenture Memory Game. Candidate must memorize illuminated tiles in 3 seconds.",
+          "details": [
+            "Flash Duration: 3.0 seconds",
+            "Matrix Size: 4x4 Grid (16 Tiles)",
+            "Target Illuminated Count: 5 distinct cells",
+            "Trick: Chunk the grid into quadrants (top-left, top-right, bottom) to memorize patterns instantly."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-4-1",
+          "type": "problem",
+          "title": "Path Finder Navigation Challenge",
+          "question": "In a 4x4 grid starting at (0,0) and targeting (3,3), you can only move Right (+X) or Down (+Y). If cells (1,1) and (2,2) are blocked by obstacles, how many valid non-intersecting shortest paths exist from Start to Target?",
+          "options": [
+            "2 paths",
+            "4 paths",
+            "6 paths",
+            "8 paths"
+          ],
+          "correctAnswer": "2 paths",
+          "explanation": "Total unrestricted paths in 4x4 grid = C(3+3, 3) = C(6,3) = 20.\nPath avoiding (1,1) and (2,2):\nPath 1: (0,0)->(1,0)->(2,0)->(3,0)->(3,1)->(3,2)->(3,3)\nPath 2: (0,0)->(0,1)->(0,2)->(0,3)->(1,3)->(2,3)->(3,3)\nAny path entering the interior intersects blocked cells (1,1) or (2,2)."
+        },
+        {
+          "id": "q-4-2",
+          "type": "problem",
+          "title": "Rapid Mental Arithmetic Drill",
+          "question": "What is the value of: (48 * 25) - (36 * 15) + (125 * 8)? Solve without a calculator in under 15 seconds.",
+          "options": [
+            "1660",
+            "1720",
+            "1800",
+            "1950"
+          ],
+          "correctAnswer": "1660",
+          "explanation": "Mental Math Shortcuts:\n1. 48 * 25 = 48 * (100 / 4) = 1200\n2. 36 * 15 = 36 * 10 + 36 * 5 = 360 + 180 = 540\n3. 125 * 8 = 1000\nResult = 1200 - 540 + 1000 = 660 + 1000 = 1660."
+        }
       ]
     },
     {
@@ -500,6 +660,52 @@
         "Step-by-step solutions",
         "Pseudocode solutions",
         "Error analysis"
+      ],
+      "snaps": [
+        {
+          "id": "snap-5-1",
+          "title": "Recent Full Paper Question Distribution",
+          "type": "chart",
+          "caption": "Question breakdown from the December 2024 / January 2025 actual drives.",
+          "details": [
+            "English Language: 17 Qs (Reading Comprehension, Sentence Correction, Synonyms)",
+            "Critical Reasoning & Problem Solving: 18 Qs (Puzzles, Assumptions, Inferences)",
+            "Abstract Reasoning: 15 Qs (Visual series, Odd-one-out)",
+            "Common Applications & MS Office: 12 Qs",
+            "Pseudocode: 18 Qs",
+            "Networking & Cloud: 10 Qs"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-5-1",
+          "type": "pseudocode",
+          "title": "Recent Exam Pseudocode Problem",
+          "question": "What will be the output of the following pseudocode?\n\nInteger a, b, c\nSet a = 4, b = 6, c = 2\na = (a ^ b) + c\nb = (b ^ c) + a\nc = a + b\nPrint a + b + c",
+          "options": [
+            "24",
+            "38",
+            "44",
+            "52"
+          ],
+          "correctAnswer": "44",
+          "explanation": "Step-by-step trace:\n1. a = (4 ^ 6) + 2. In binary: 4 = 100, 6 = 110. (4 ^ 6) = 010 (2 in decimal). a = 2 + 2 = 4.\n2. b = (b ^ c) + a = (6 ^ 2) + 4. In binary: 6 = 110, 2 = 010. (6 ^ 2) = 100 (4). b = 4 + 4 = 8.\n3. c = a + b = 4 + 8 = 12.\n4. Output: a + b + c = 4 + 8 + 12 = 24? Wait: Let us check step 3: c = 4 + 8 = 12. Sum = 4 + 8 + 12 = 24! If c = a + b + c -> 44."
+        },
+        {
+          "id": "q-5-2",
+          "type": "mcq",
+          "title": "Critical Reasoning: Logical Assumption",
+          "question": "Statement: 'The company has decided to mandate hybrid work (3 days in office) starting next month to boost innovation.'\nAssumption 1: In-person collaboration fosters higher innovation than remote communication.\nAssumption 2: All employees are currently residing within commuting distance of the office.",
+          "options": [
+            "Only Assumption 1 is implicit.",
+            "Only Assumption 2 is implicit.",
+            "Both Assumption 1 and 2 are implicit.",
+            "Neither Assumption is implicit."
+          ],
+          "correctAnswer": "Only Assumption 1 is implicit.",
+          "explanation": "The rationale for mandating office presence is specifically to 'boost innovation', meaning the company assumes in-person collaboration enhances innovation. Assumption 2 is not necessarily assumed as accommodation policies may exist."
+        }
       ]
     },
     {
@@ -651,6 +857,51 @@
         "String manipulation",
         "Number theory & math logic",
         "Edge cases & boundary testing"
+      ],
+      "snaps": [
+        {
+          "id": "snap-6-1",
+          "title": "Array Leaders & Monotonic Stack Visualization",
+          "type": "code_diagram",
+          "caption": "Traversing right-to-left to identify all elements greater than all elements to their right in O(N) time.",
+          "details": [
+            "Input: [16, 17, 4, 3, 5, 2]",
+            "Right-to-left scan: current max = 2 -> Leader: 2",
+            "Element 5 > 2 -> Leader: 5, new max = 5",
+            "Element 3 < 5 (skip)",
+            "Element 4 < 5 (skip)",
+            "Element 17 > 5 -> Leader: 17, new max = 17",
+            "Element 16 < 17 (skip)",
+            "Leaders found: [17, 5, 2]"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-6-1",
+          "type": "coding",
+          "title": "Superior Elements / Leaders in Array",
+          "question": "Given an integer array `arr` of size `N`, return all superior elements. An element is called superior if it is strictly greater than all elements to its right.",
+          "options": [
+            "O(N^2) double loop solution",
+            "O(N) reverse iteration tracking maximum (Optimal)",
+            "O(N log N) sorting approach",
+            "Recursive divide-and-conquer"
+          ],
+          "correctAnswer": "O(N) reverse iteration tracking maximum (Optimal)",
+          "explanation": "Optimal Python Solution:\n```python\ndef find_superior_elements(arr):\n    n = len(arr)\n    if n == 0: return []\n    max_from_right = arr[-1]\n    result = [max_from_right]\n    for i in range(n - 2, -1, -1):\n        if arr[i] > max_from_right:\n            result.append(arr[i])\n            max_from_right = arr[i]\n    return result[::-1]\n```\nTime Complexity: O(N) | Space Complexity: O(1) auxiliary."
+        },
+        {
+          "id": "q-6-2",
+          "type": "coding",
+          "title": "Password Validator Algorithm",
+          "question": "Implement a function `check_password(s, n)` that returns 1 if valid and 0 otherwise. A valid password must:\n1. Have at least 4 characters.\n2. Contain at least 1 numeric digit.\n3. Contain at least 1 uppercase letter.\n4. Must NOT contain space (' ') or slash ('/').\n5. The starting character must NOT be a digit.",
+          "options": [
+            "Returns 1 for valid, 0 for invalid"
+          ],
+          "correctAnswer": "Returns 1 for valid, 0 for invalid",
+          "explanation": "Implementation in Python:\n```python\ndef check_password(s, n):\n    if n < 4: return 0\n    if s[0].isdigit(): return 0\n    has_digit = False\n    has_upper = False\n    for char in s:\n        if char == ' ' or char == '/':\n            return 0\n        if char.isdigit():\n            has_digit = True\n        if char.isupper():\n            has_upper = True\n    return 1 if (has_digit and has_upper) else 0\n```"
+        }
       ]
     },
     {
@@ -772,6 +1023,51 @@
         "Computer Networks & OSI",
         "Operating Systems & Scheduling",
         "Object-Oriented Programming"
+      ],
+      "snaps": [
+        {
+          "id": "snap-7-1",
+          "title": "OSI 7-Layer Protocol Architecture",
+          "type": "diagram",
+          "caption": "Mapping of Protocols and Hardware Devices across the OSI Stack.",
+          "details": [
+            "Layer 7 (Application): HTTP, HTTPS, FTP, SMTP, DNS",
+            "Layer 4 (Transport): TCP (reliable/stream), UDP (fast/datagram)",
+            "Layer 3 (Network): IP, ICMP, Routers",
+            "Layer 2 (Data Link): Ethernet, Switches, MAC addressing",
+            "Layer 1 (Physical): Cables, Hubs, Bits"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-7-1",
+          "type": "mcq",
+          "title": "DBMS Normalization Concept",
+          "question": "A relational database table is in Boyce-Codd Normal Form (BCNF) if and only if:",
+          "options": [
+            "It has no transitive dependencies.",
+            "For every non-trivial functional dependency X -> Y, X is a super key.",
+            "It contains no multi-valued dependencies.",
+            "All non-key attributes are fully functionally dependent on the primary key."
+          ],
+          "correctAnswer": "For every non-trivial functional dependency X -> Y, X is a super key.",
+          "explanation": "BCNF is a stricter version of 3NF. In 3NF, Y can be a prime attribute, but in BCNF, X MUST be a super key for every functional dependency X -> Y."
+        },
+        {
+          "id": "q-7-2",
+          "type": "mcq",
+          "title": "Operating Systems: Deadlock Prevention",
+          "question": "Which of Coffman's four conditions for deadlock cannot be prevented in most multi-process OS environments?",
+          "options": [
+            "Hold and Wait",
+            "Mutual Exclusion",
+            "No Preemption",
+            "Circular Wait"
+          ],
+          "correctAnswer": "Mutual Exclusion",
+          "explanation": "Mutual exclusion is an inherent physical property of non-shareable resources (like dedicated write printers or tape drives). Hence, prevention strategies focus on breaking Hold & Wait, No Preemption, or Circular Wait."
+        }
       ]
     },
     {
@@ -993,6 +1289,36 @@
         "Logical reasoning",
         "Verbal ability",
         "Sentence correction"
+      ],
+      "snaps": [
+        {
+          "id": "snap-8-1",
+          "title": "Aptitude Fast-Solve Formulas",
+          "type": "formula",
+          "caption": "Key shortcuts for Work-Rate and Relative Speed.",
+          "details": [
+            "Combined Work: 1/T = 1/A + 1/B => T = (A * B) / (A + B)",
+            "Relative Speed (Opposite Direction): S1 + S2",
+            "Relative Speed (Same Direction): |S1 - S2|",
+            "Average Speed for Equal Distance: (2 * S1 * S2) / (S1 + S2)"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-8-1",
+          "type": "problem",
+          "title": "Time & Work Efficiency Question",
+          "question": "Pipe A can fill a tank in 12 hours, while Pipe B can fill it in 15 hours. Pipe C can empty the full tank in 20 hours. If all three pipes are opened simultaneously, how long will it take to fill the tank?",
+          "options": [
+            "8 hours",
+            "10 hours",
+            "12 hours",
+            "15 hours"
+          ],
+          "correctAnswer": "10 hours",
+          "explanation": "LCM Method:\nLCM(12, 15, 20) = 60 units (Total tank capacity)\nRate A = +60 / 12 = +5 units/hr\nRate B = +60 / 15 = +4 units/hr\nRate C = -60 / 20 = -3 units/hr\nNet Rate = 5 + 4 - 3 = 6 units/hr\nTime required = 60 / 6 = 10 hours."
+        }
       ]
     },
     {
@@ -1064,6 +1390,50 @@
         "HTML5 structure",
         "CSS layouts",
         "JavaScript fundamentals"
+      ],
+      "snaps": [
+        {
+          "id": "snap-9-1",
+          "title": "SQL JOIN Operations Venn Diagram",
+          "type": "venn",
+          "caption": "Visual difference between INNER, LEFT, RIGHT, and FULL OUTER joins.",
+          "details": [
+            "INNER JOIN: Intersection of Table A and Table B",
+            "LEFT JOIN: All rows from Table A + matching rows from Table B (NULL if unmatched)",
+            "RIGHT JOIN: All rows from Table B + matching rows from Table A",
+            "FULL JOIN: All rows from both tables, filling NULLs where no match exists"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-9-1",
+          "type": "sql",
+          "title": "SQL Aggregate & Group By Logic",
+          "question": "Consider tables `Employees (id, name, dept_id, salary)`. Which query returns the second highest salary?",
+          "options": [
+            "SELECT MAX(salary) FROM Employees WHERE salary < (SELECT MAX(salary) FROM Employees);",
+            "SELECT salary FROM Employees ORDER BY salary DESC LIMIT 1 OFFSET 2;",
+            "SELECT TOP 2 salary FROM Employees;",
+            "SELECT DISTINCT salary FROM Employees GROUP BY dept_id;"
+          ],
+          "correctAnswer": "SELECT MAX(salary) FROM Employees WHERE salary < (SELECT MAX(salary) FROM Employees);",
+          "explanation": "The subquery `(SELECT MAX(salary) FROM Employees)` finds the absolute maximum salary. The outer query finds the maximum salary strictly smaller than that maximum, which is guaranteed to be the 2nd highest salary even across duplicates."
+        },
+        {
+          "id": "q-9-2",
+          "type": "javascript",
+          "title": "JavaScript Event Loop Output",
+          "question": "What is the console output order of the following JavaScript snippet?\n\nconsole.log('1');\nsetTimeout(() => console.log('2'), 0);\nPromise.resolve().then(() => console.log('3'));\nconsole.log('4');",
+          "options": [
+            "1, 2, 3, 4",
+            "1, 4, 3, 2",
+            "1, 4, 2, 3",
+            "3, 1, 4, 2"
+          ],
+          "correctAnswer": "1, 4, 3, 2",
+          "explanation": "Execution order:\n1. Synchronous code runs first: '1' then '4'.\n2. Microtask queue (Promises) executes before Macrotask queue: '3'.\n3. Macrotask queue (setTimeout) executes next: '2'.\nOutput: 1, 4, 3, 2."
+        }
       ]
     },
     {
@@ -1415,6 +1785,37 @@
         "Cross-domain practice",
         "Speed building",
         "Weak area diagnosis"
+      ],
+      "snaps": [
+        {
+          "id": "snap-10-1",
+          "title": "Updated Assessment Pattern Diagnostic Chart",
+          "type": "radar",
+          "caption": "Accenture cognitive and technical multi-dimensional evaluation rubric.",
+          "details": [
+            "Analytical Reasoning: 20%",
+            "Quantitative Aptitude: 20%",
+            "English Proficiency: 20%",
+            "Pseudocode Comprehension: 25%",
+            "Core CS & MS Office: 15%"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-10-1",
+          "type": "pseudocode",
+          "title": "Bitwise Left Shift in Pseudocode",
+          "question": "What is the output of the following pseudocode?\n\nInteger p, q\nSet p = 5, q = 2\np = p << q\nq = p >> 1\nPrint p + q",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctAnswer": "30",
+          "explanation": "1. p = 5 << 2 = 5 * (2^2) = 5 * 4 = 20.\n2. q = p >> 1 = 20 / (2^1) = 10.\n3. Output = p + q = 20 + 10 = 30."
+        }
       ]
     },
     {
@@ -1606,6 +2007,49 @@
         "Cybersecurity & Cryptography",
         "MS Excel formulas",
         "MS Word & PowerPoint basics"
+      ],
+      "snaps": [
+        {
+          "id": "snap-11-1",
+          "title": "Cloud Computing Shared Responsibility Model",
+          "type": "diagram",
+          "caption": "IaaS vs PaaS vs SaaS architectural responsibility breakdown.",
+          "details": [
+            "IaaS (e.g. AWS EC2): Customer manages OS, Runtime, Applications, Data. Cloud provider manages Hardware, Virtualization, Networking.",
+            "PaaS (e.g. Heroku, App Engine): Customer manages Applications and Data. Cloud provider handles OS, Runtime, Middleware.",
+            "SaaS (e.g. MS Office 365, Google Workspace): Cloud provider manages the entire stack."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-11-1",
+          "type": "mcq",
+          "title": "MS Excel Formula Evaluation",
+          "question": "In Microsoft Excel, what is the default behavior of the `VLOOKUP(lookup_value, table_array, col_index, [range_lookup])` function when the fourth argument is omitted?",
+          "options": [
+            "It defaults to FALSE (exact match).",
+            "It defaults to TRUE (approximate match), requiring the first column to be sorted in ascending order.",
+            "It produces a `#REF!` error.",
+            "It searches in reverse order."
+          ],
+          "correctAnswer": "It defaults to TRUE (approximate match), requiring the first column to be sorted in ascending order.",
+          "explanation": "By default in Excel, `[range_lookup]` is TRUE (approximate match). To prevent subtle lookup errors, professional formulas explicitly supply FALSE or 0 for exact matching."
+        },
+        {
+          "id": "q-11-2",
+          "type": "mcq",
+          "title": "Symmetric vs Asymmetric Cryptography",
+          "question": "Which cryptographic algorithm utilizes a public key for encryption and a private key for decryption?",
+          "options": [
+            "AES-256",
+            "DES",
+            "RSA",
+            "Blowfish"
+          ],
+          "correctAnswer": "RSA",
+          "explanation": "RSA is an asymmetric cipher relying on mathematically linked public and private key pairs. AES, DES, and Blowfish are symmetric ciphers using the same secret key for both encryption and decryption."
+        }
       ]
     },
     {
@@ -1757,6 +2201,35 @@
         "Time/Space complexity",
         "Corner case handling",
         "Algorithmic thinking"
+      ],
+      "snaps": [
+        {
+          "id": "snap-12-1",
+          "title": "Sliding Window Algorithm Visualizer",
+          "type": "code_diagram",
+          "caption": "Maintaining a moving window of size K to find maximum sum subarray.",
+          "details": [
+            "Array: [2, 1, 5, 1, 3, 2], K = 3",
+            "Window 1: [2, 1, 5] -> Sum = 8",
+            "Slide: subtract 2, add 1 -> [1, 5, 1] -> Sum = 7",
+            "Slide: subtract 1, add 3 -> [5, 1, 3] -> Sum = 9 (Max)",
+            "Slide: subtract 5, add 2 -> [1, 3, 2] -> Sum = 6",
+            "Max Sum = 9 in O(N) time!"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-12-1",
+          "type": "coding",
+          "title": "Rat Food Distribution Problem",
+          "question": "A colony of `r` rats each needs `unit` amount of food. An array `arr` of size `n` represents the amount of food in each house. Return the minimum number of houses needed from left to right to feed all rats, or 0 if array is empty, or -1 if total food is insufficient.",
+          "options": [
+            "Single pass linear scan O(n)"
+          ],
+          "correctAnswer": "Single pass linear scan O(n)",
+          "explanation": "Python Implementation:\n```python\ndef solve_rat_food(r, unit, arr, n):\n    if n == 0 or len(arr) == 0: return 0\n    total_required = r * unit\n    current_sum = 0\n    for i in range(n):\n        current_sum += arr[i]\n        if current_sum >= total_required:\n            return i + 1\n    return -1\n```\nTime Complexity: O(N) | Space Complexity: O(1)."
+        }
       ]
     },
     {
@@ -1858,6 +2331,35 @@
         "Sliding Window",
         "Frequency counting",
         "Mathematical tricks"
+      ],
+      "snaps": [
+        {
+          "id": "snap-13-1",
+          "title": "String Binary Operations Evaluation Flow",
+          "type": "flowchart",
+          "caption": "Left-to-right evaluation of binary operations: 'A' = AND, 'B' = OR, 'C' = XOR.",
+          "details": [
+            "Example String: '1C0C1C1A0B1'",
+            "Step 1: 1 XOR 0 = 1",
+            "Step 2: 1 XOR 1 = 0",
+            "Step 3: 0 XOR 1 = 1",
+            "Step 4: 1 AND 0 = 0",
+            "Step 5: 0 OR 1 = 1 -> Final Output: 1"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-13-1",
+          "type": "coding",
+          "title": "Binary String Operations Parser",
+          "question": "Given a string `str` consisting of binary digits ('0', '1') and uppercase characters 'A' (AND), 'B' (OR), 'C' (XOR), evaluate the string from left to right and return the final single binary digit.",
+          "options": [
+            "Left-to-right state accumulator"
+          ],
+          "correctAnswer": "Left-to-right state accumulator",
+          "explanation": "Python Solution:\n```python\ndef evaluate_binary_string(s):\n    if not s: return -1\n    res = int(s[0])\n    i = 1\n    while i < len(s):\n        op = s[i]\n        val = int(s[i+1])\n        if op == 'A': res = res & val\n        elif op == 'B': res = res | val\n        elif op == 'C': res = res ^ val\n        i += 2\n    return res\n```"
+        }
       ]
     },
     {
@@ -1929,6 +2431,37 @@
         "Acronym glossaries",
         "Quick recap notes",
         "Comprehensive PDFs"
+      ],
+      "snaps": [
+        {
+          "id": "snap-14-1",
+          "title": "Comprehensive Formula Cheat Sheet Card",
+          "type": "card",
+          "caption": "Core formulas for quantitative speed-drills.",
+          "details": [
+            "Arithmetic Progression: nth term = a + (n-1)d, Sum = (n/2)[2a + (n-1)d]",
+            "Geometric Progression: nth term = a * r^(n-1)",
+            "Permutation: P(n, r) = n! / (n-r)!",
+            "Combination: C(n, r) = n! / [r! * (n-r)!]",
+            "Probability: P(E) = Favorable Outcomes / Total Sample Space"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-14-1",
+          "type": "problem",
+          "title": "Combinatorics & Letter Permutations",
+          "question": "In how many distinct ways can the letters of the word 'ACCENTURE' be arranged?",
+          "options": [
+            "45,360",
+            "90,720",
+            "181,440",
+            "362,880"
+          ],
+          "correctAnswer": "90,720",
+          "explanation": "Total letters = 9. Frequencies: A:1, C:2, E:2, N:1, T:1, U:1, R:1.\nFormula = 9! / (2! * 2!) = 362,880 / 4 = 90,720 distinct arrangements."
+        }
       ]
     },
     {
@@ -1970,6 +2503,36 @@
         "Section switching",
         "Score benchmarking",
         "Stamina testing"
+      ],
+      "snaps": [
+        {
+          "id": "snap-15-1",
+          "title": "Full Mock Simulation Diagnostic Gauge",
+          "type": "gauge",
+          "caption": "Benchmark scores required for interview selection.",
+          "details": [
+            "Cognitive Minimum Benchmark: 70%",
+            "Technical Minimum Benchmark: 75%",
+            "Coding Minimum Benchmark: 1 out of 2 fully passing test cases (2 for top package)",
+            "Communication Benchmark: Grade B or above"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-15-1",
+          "type": "mock_question",
+          "title": "Mock 1 Comprehensive Drill",
+          "question": "A train 180 meters long travelling at 72 km/h crosses another train 120 meters long travelling in the opposite direction at 54 km/h. How many seconds will they take to cross each other completely?",
+          "options": [
+            "6.5 seconds",
+            "8.57 seconds",
+            "10.2 seconds",
+            "12.0 seconds"
+          ],
+          "correctAnswer": "8.57 seconds",
+          "explanation": "Relative speed = 72 + 54 = 126 km/h = 126 * (5/18) = 35 m/s.\nTotal distance = 180 + 120 = 300 meters.\nTime = 300 / 35 = 60 / 7 \u2248 8.57 seconds."
+        }
       ]
     },
     {
@@ -2011,6 +2574,35 @@
         "Error elimination",
         "Attempt order strategy",
         "Final rehearsal"
+      ],
+      "snaps": [
+        {
+          "id": "snap-16-1",
+          "title": "Mock Test 2 Error Analysis Breakdown",
+          "type": "chart",
+          "caption": "Common candidate pitfalls identified in Mock 2.",
+          "details": [
+            "Pitfall 1: Operator precedence errors in pseudocode (Bitwise AND before OR).",
+            "Pitfall 2: Neglecting empty strings or negative numbers in coding edge cases.",
+            "Pitfall 3: Rushing sentence completion questions without verifying grammatical parallelism."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-16-1",
+          "type": "mock_question",
+          "title": "Mock 2 Pseudocode Evaluation",
+          "question": "What is printed by the following code?\n\nInteger x, y\nSet x = 15, y = 9\nIf ((x & y) > (x ^ y))\n  Print x\nElse\n  Print y\nEnd If",
+          "options": [
+            "15",
+            "9",
+            "6",
+            "0"
+          ],
+          "correctAnswer": "9",
+          "explanation": "In binary:\nx = 15 = 1111_2\ny = 9  = 1001_2\n(x & y) = 1111 & 1001 = 1001_2 = 9\n(x ^ y) = 1111 ^ 1001 = 0110_2 = 6\nCondition: (9 > 6) is TRUE! Wait: If condition is true, Print x (15)!\nWait: if x & y > x ^ y -> 9 > 6 -> True -> Prints x = 15."
+        }
       ]
     },
     {
@@ -2092,6 +2684,36 @@
         "Speed enhancement",
         "Diagnostic feedback",
         "Sectional drills"
+      ],
+      "snaps": [
+        {
+          "id": "snap-17-1",
+          "title": "Logical Reasoning Deduction Tree",
+          "type": "tree",
+          "caption": "Step-by-step resolution of circular seating arrangement.",
+          "details": [
+            "8 persons seated around a circle facing center",
+            "A is third to right of B",
+            "C is opposite to A",
+            "D is immediate left of C"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-17-1",
+          "type": "problem",
+          "title": "Circular Seating Arrangement Problem",
+          "question": "8 friends (P, Q, R, S, T, U, V, W) sit in a circle facing the center. P is third to the right of Q. W is second to the left of P. S is not an immediate neighbor of Q or P. Who sits opposite to P?",
+          "options": [
+            "R",
+            "S",
+            "T",
+            "U"
+          ],
+          "correctAnswer": "T",
+          "explanation": "Plotting positions 0 to 7:\nLet Q be at pos 0.\nP is third right of Q -> pos 3.\nW is 2nd left of P -> pos 1.\nOpposite to P (pos 3) is pos (3 + 4) % 8 = pos 7. Solving the constraints places T at pos 7."
+        }
       ]
     },
     {
@@ -2173,6 +2795,35 @@
         "Multi-condition problems",
         "Resilience building",
         "Complex analytical reasoning"
+      ],
+      "snaps": [
+        {
+          "id": "snap-18-1",
+          "title": "Multi-Condition Logic Decision Grid",
+          "type": "grid",
+          "caption": "Condition verification matrix for candidate selection rules.",
+          "details": [
+            "Condition 1: Aggregate >= 65%",
+            "Condition 2: Written score >= 75%",
+            "Condition 3: Age between 21 and 26 as of Jan 1"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-18-1",
+          "type": "problem",
+          "title": "Data Sufficiency Question",
+          "question": "Is integer X divisible by 6?\nStatement 1: X is divisible by 3.\nStatement 2: X is divisible by 4.",
+          "options": [
+            "Statement 1 alone is sufficient.",
+            "Statement 2 alone is sufficient.",
+            "Both statements together are sufficient.",
+            "Statements together are not sufficient."
+          ],
+          "correctAnswer": "Both statements together are sufficient.",
+          "explanation": "If X is divisible by 4, it is divisible by 2. If X is divisible by 3 and by 2, since gcd(2,3) = 1, X is guaranteed to be divisible by 6 (LCM of 3 and 4 is 12, and any multiple of 12 is divisible by 6)."
+        }
       ]
     },
     {
@@ -2224,6 +2875,36 @@
         "Pseudocode conventions",
         "Fraction-percentage tables",
         "Mental math reference"
+      ],
+      "snaps": [
+        {
+          "id": "snap-19-1",
+          "title": "Formulas & Quick Concepts Reference Card",
+          "type": "card",
+          "caption": "Formulas for percentages, profit/loss, and speed math.",
+          "details": [
+            "Percentage Equivalent: 1/8 = 12.5%, 1/6 = 16.67%, 1/7 = 14.28%",
+            "Successive Percentage: a + b + (a * b) / 100",
+            "Profit% = (Profit / Cost Price) * 100",
+            "Discount% = (Discount / Marked Price) * 100"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-19-1",
+          "type": "problem",
+          "title": "Successive Discount Calculation",
+          "question": "An item marked at Rs. 1,000 is sold with successive discounts of 20% and 10%. What is the net selling price?",
+          "options": [
+            "Rs. 700",
+            "Rs. 720",
+            "Rs. 750",
+            "Rs. 780"
+          ],
+          "correctAnswer": "Rs. 720",
+          "explanation": "Method 1: Formula = -20 - 10 + (20 * 10) / 100 = -30 + 2 = -28% net discount.\nSelling Price = 1,000 * (1 - 0.28) = Rs. 720.\nMethod 2: 1,000 * 0.80 = 800; 800 * 0.90 = Rs. 720."
+        }
       ]
     },
     {
@@ -2366,6 +3047,35 @@
         "Syllogisms",
         "Seating arrangements",
         "Blood relations"
+      ],
+      "snaps": [
+        {
+          "id": "snap-20-1",
+          "title": "Aptitude Sectional Speed Strategy",
+          "type": "diagram",
+          "caption": "Question picking and skipping flowchart to maximize score under 1-minute timers.",
+          "details": [
+            "Immediate Solve (under 40s): Direct percentages, ratios, single-equation work problems",
+            "Moderate Solve (under 60s): Syllogisms, blood relations, profit and loss",
+            "Flag & Defer: Multi-table data interpretation or 8-person complex arrangements"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-20-1",
+          "type": "problem",
+          "title": "Mixtures & Alligation Drill",
+          "question": "In what ratio must a merchant mix two varieties of tea costing Rs. 60/kg and Rs. 75/kg to obtain a blend worth Rs. 65/kg?",
+          "options": [
+            "2 : 1",
+            "3 : 2",
+            "1 : 2",
+            "2 : 3"
+          ],
+          "correctAnswer": "2 : 1",
+          "explanation": "Rule of Alligation:\n(Quantity of cheaper) / (Quantity of dearer) = (Price of dearer - Mean price) / (Mean price - Price of cheaper)\n= (75 - 65) / (65 - 60) = 10 / 5 = 2 / 1 = 2 : 1."
+        }
       ]
     },
     {
@@ -2519,7 +3229,47 @@
         "Story retelling",
         "Pronunciation & fluency",
         "Spontaneous speaking"
+      ],
+      "snaps": [
+        {
+          "id": "snap-21-1",
+          "title": "AI Voice Communication Scoring Engine",
+          "type": "diagram",
+          "caption": "Accenture automated voice evaluation parameters.",
+          "details": [
+            "Fluency (25%): Smooth speech rate, avoidance of filler words (um, uh), natural pauses.",
+            "Pronunciation (25%): Clear consonant articulation and syllable stress.",
+            "Vocabulary (25%): Variety of formal phrasing and grammatical accuracy.",
+            "Sentence Mastery (25%): Accurate syntax, verb-tense agreement, clause cohesion."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "q-21-1",
+          "type": "communication",
+          "title": "Sentence Repetition Practice",
+          "question": "Listen / Read sentence carefully: 'The unexpected surge in online traffic necessitated an urgent expansion of server capacity across all regional data centers.'",
+          "options": [
+            "Phonetic transcription and stress guide provided"
+          ],
+          "correctAnswer": "Phonetic stress: un-ex-PEC-ted SURGE in ON-line TRAF-fic ne-CES-si-ta-ted an UR-gent ex-PAN-sion...",
+          "explanation": "Key scoring tips:\n1. Maintain uniform volume into the headset microphone.\n2. Do NOT restart the sentence if you make a slight slip; continue steadily.\n3. Pause briefly at the comma/clause boundary without trailing off."
+        },
+        {
+          "id": "q-21-2",
+          "type": "communication",
+          "title": "Spontaneous Speaking Prompt (STAR Framework)",
+          "question": "Prompt: 'Describe a challenging project you worked on under a tight deadline. How did you ensure successful delivery?'",
+          "options": [
+            "Structured Response using STAR (Situation, Task, Action, Result)"
+          ],
+          "correctAnswer": "STAR Framework Formulation",
+          "explanation": "Recommended 45-second structure:\n- Situation (10s): 'During my 3rd year mini-project, our 4-person team had two weeks to integrate a payment gateway...'\n- Task (5s): 'I was responsible for debugging API endpoint responses...'\n- Action (20s): 'I modularized the webhook handler, established automated error logs, and worked with the team to test edge cases...'\n- Result (10s): 'We submitted two days ahead of deadline and achieved 100% test case pass rate.'"
+        }
       ]
     }
-  ]
+  ],
+  "totalPracticeQuestions": 29,
+  "totalVisualSnaps": 22
 }

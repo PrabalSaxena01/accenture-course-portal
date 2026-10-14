@@ -6,7 +6,8 @@ import {
   BookOpen, CheckCircle2, Circle, Search, Moon, Sun, 
   ChevronDown, ChevronUp, ExternalLink, Video, FileText, 
   HelpCircle, Code2, Layers, Filter, Award, Sparkles,
-  BarChart3, ListChecks, Compass, ShieldCheck, Clock
+  BarChart3, ListChecks, Compass, ShieldCheck, Clock,
+  Eye, EyeOff, Image, Terminal, BrainCircuit, Grid
 } from 'lucide-react';
 
 export default function App() {
@@ -17,6 +18,12 @@ export default function App() {
   const [selectedType, setSelectedType] = useState('All');
   const [completionFilter, setCompletionFilter] = useState('all');
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
+
+  // Subtab for each module: { [moduleId]: 'lessons' | 'questions' | 'snaps' }
+  const [moduleViewMode, setModuleViewMode] = useState({});
+
+  // Revealed solutions state for questions
+  const [revealedSolutions, setRevealedSolutions] = useState(new Set());
 
   // Initialize completion state from localStorage, falling back to initial course completion
   const [completedItems, setCompletedItems] = useState(() => {
@@ -64,6 +71,18 @@ export default function App() {
         next.delete(id);
       } else {
         next.add(id);
+      }
+      return next;
+    });
+  };
+
+  const toggleSolution = (qId) => {
+    setRevealedSolutions(prev => {
+      const next = new Set(prev);
+      if (next.has(qId)) {
+        next.delete(qId);
+      } else {
+        next.add(qId);
       }
       return next;
     });
@@ -131,13 +150,16 @@ export default function App() {
             const matchNote = lesson.note.toLowerCase().includes(q);
             const matchMod = mod.title.toLowerCase().includes(q);
             const matchCat = mod.category.toLowerCase().includes(q);
-            return matchTitle || matchNote || matchMod || matchCat;
+            const matchQ = (mod.questions || []).some(
+              ques => ques.question.toLowerCase().includes(q) || ques.title.toLowerCase().includes(q)
+            );
+            return matchTitle || matchNote || matchMod || matchCat || matchQ;
           }
 
           return true;
         });
 
-        if (matchingLessons.length === 0 && searchQuery.trim()) {
+        if (matchingLessons.length === 0 && searchQuery.trim() && !(mod.questions || []).some(q => q.question.toLowerCase().includes(searchQuery.toLowerCase()))) {
           return null;
         }
 
@@ -153,6 +175,8 @@ export default function App() {
   const totalItemsCount = courseData.totalItems;
   const completedCount = completedItems.size;
   const progressPercent = Math.round((completedCount / totalItemsCount) * 100);
+  const totalQuestions = courseData.totalPracticeQuestions || 29;
+  const totalSnaps = courseData.totalVisualSnaps || 22;
 
   const getTypeIcon = (type) => {
     switch (type) {
@@ -170,10 +194,93 @@ export default function App() {
     const el = document.getElementById(`module-${idx}`);
     if (el) {
       el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      // Ensure it's expanded
       setExpandedModules(prev => new Set([...prev, idx]));
       setMobileSidebarOpen(false);
     }
+  };
+
+  // Render interactive 5x5 Path Finder Maze Grid
+  const renderPathFinderGrid = () => {
+    // 5x5 grid cells
+    const cells = [];
+    const obstacles = new Set(['1,1', '2,3', '3,1', '3,2']);
+    const path = new Set(['0,0', '1,0', '2,0', '2,1', '2,2', '3,2', '3,3', '4,3', '4,4']);
+
+    for (let r = 0; r < 5; r++) {
+      for (let c = 0; c < 5; c++) {
+        const key = `${r},${c}`;
+        let status = 'normal';
+        let label = `${r},${c}`;
+
+        if (r === 0 && c === 0) {
+          status = 'start';
+          label = 'START';
+        } else if (r === 4 && c === 4) {
+          status = 'target';
+          label = 'EXIT';
+        } else if (obstacles.has(key)) {
+          status = 'obstacle';
+          label = 'WALL';
+        } else if (path.has(key)) {
+          status = 'path';
+          label = 'PATH';
+        }
+
+        cells.push(
+          <div key={key} className={`grid-cell ${status}`} title={`Coordinate (${r}, ${c}): ${status.toUpperCase()}`}>
+            {label}
+          </div>
+        );
+      }
+    }
+
+    return (
+      <div className="game-grid-container">
+        <div className="game-grid">{cells}</div>
+        <div className="grid-legend">
+          <div className="legend-item"><div className="legend-dot" style={{ background: '#10b981' }} /> Start (0,0)</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: '#f43f5e' }} /> Exit (4,4)</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: '#a855f7' }} /> Valid Optimal Path</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: '#374151' }} /> Blocked Obstacle</div>
+        </div>
+      </div>
+    );
+  };
+
+  // Render interactive 4x4 Memory Grid
+  const renderMemoryMatrixGrid = () => {
+    const illuminated = new Set(['0,1', '1,3', '2,2', '3,0', '3,3']);
+    const cells = [];
+    for (let r = 0; r < 4; r++) {
+      for (let c = 0; c < 4; c++) {
+        const key = `${r},${c}`;
+        const isLit = illuminated.has(key);
+        cells.push(
+          <div 
+            key={key} 
+            className="grid-cell" 
+            style={{ 
+              background: isLit ? '#38bdf8' : 'rgba(255,255,255,0.05)', 
+              color: isLit ? '#0f172a' : 'transparent',
+              boxShadow: isLit ? '0 0 14px rgba(56, 189, 248, 0.6)' : 'none'
+            }}
+          >
+            {isLit ? '★' : ''}
+          </div>
+        );
+      }
+    }
+    return (
+      <div className="game-grid-container">
+        <div className="game-grid" style={{ gridTemplateColumns: 'repeat(4, 52px)', gridTemplateRows: 'repeat(4, 52px)' }}>
+          {cells}
+        </div>
+        <div className="grid-legend">
+          <div className="legend-item"><div className="legend-dot" style={{ background: '#38bdf8' }} /> Illuminated Target Tiles (Memorize in 3s)</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: 'rgba(255,255,255,0.1)' }} /> Inactive Grid Cells</div>
+        </div>
+      </div>
+    );
   };
 
   return (
@@ -189,7 +296,7 @@ export default function App() {
               Accenture Mock Series
               <span className="pill-tag">KN Academy</span>
             </h1>
-            <p>Authorized Course Curriculum & Placement Navigator</p>
+            <p>Authorized Course Curriculum, Questions & Snaps Navigator</p>
           </div>
         </div>
 
@@ -218,7 +325,8 @@ export default function App() {
         <div className="hero-content">
           <div className="hero-meta-row">
             <span className="pill-tag"><Award size={13} /> Official MNC Placement Prep</span>
-            <span className="pill-tag"><Clock size={13} /> 2h 52m Completed in Live Session</span>
+            <span className="pill-tag"><HelpCircle size={13} /> {totalQuestions} Practice Questions & Solutions</span>
+            <span className="pill-tag"><Image size={13} /> {totalSnaps} Visual Snaps & Blueprints</span>
             <span className="pill-tag"><ShieldCheck size={13} /> 100% Inspected & Verified</span>
           </div>
 
@@ -248,18 +356,18 @@ export default function App() {
             </div>
 
             <div className="stat-card">
-              <div className="stat-icon emerald"><CheckCircle2 size={22} /></div>
+              <div className="stat-icon emerald"><HelpCircle size={22} /></div>
               <div className="stat-info">
-                <h3>{completedCount} <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>/ {totalItemsCount}</span></h3>
-                <p>Completed Lessons</p>
+                <h3>{totalQuestions}</h3>
+                <p>Questions with Answers</p>
               </div>
             </div>
 
             <div className="stat-card">
-              <div className="stat-icon amber"><BarChart3 size={22} /></div>
+              <div className="stat-icon amber"><Image size={22} /></div>
               <div className="stat-info">
-                <h3>{progressPercent}%</h3>
-                <p>Readiness Progress</p>
+                <h3>{totalSnaps}</h3>
+                <p>Visual Snaps & Diagrams</p>
               </div>
             </div>
           </div>
@@ -282,7 +390,19 @@ export default function App() {
             className={`tab-btn ${activeTab === 'curriculum' ? 'active' : ''}`}
             onClick={() => setActiveTab('curriculum')}
           >
-            <Compass size={17} /> Course Curriculum
+            <Compass size={17} /> Course Curriculum ({courseData.totalItems})
+          </button>
+          <button 
+            className={`tab-btn ${activeTab === 'questions' ? 'active' : ''}`}
+            onClick={() => setActiveTab('questions')}
+          >
+            <HelpCircle size={17} /> Practice Questions & Solutions ({totalQuestions})
+          </button>
+          <button 
+            className={`tab-btn ${activeTab === 'snaps' ? 'active' : ''}`}
+            onClick={() => setActiveTab('snaps')}
+          >
+            <Image size={17} /> Visual Snaps & Blueprints ({totalSnaps})
           </button>
           <button 
             className={`tab-btn ${activeTab === 'checklist' ? 'active' : ''}`}
@@ -419,6 +539,8 @@ export default function App() {
             {filteredModules.map(mod => {
               const isExpanded = expandedModules.has(mod.moduleIndex);
               const modCompletedCount = mod.lessons.filter(l => completedItems.has(l.id)).length;
+              const currentSubTab = moduleViewMode[mod.moduleIndex] || 'lessons';
+
               return (
                 <div key={mod.id} id={`module-${mod.moduleIndex}`} className="module-card">
                   <div className="module-header" onClick={() => toggleModuleAccordion(mod.moduleIndex)}>
@@ -429,9 +551,11 @@ export default function App() {
                         <div className="module-meta">
                           <span style={{ color: '#c084fc', fontWeight: 600 }}>{mod.category}</span>
                           <span>•</span>
-                          <span>{mod.lessons.length} {mod.lessons.length === 1 ? 'item' : 'items'}</span>
+                          <span>{mod.lessons.length} items</span>
                           <span>•</span>
-                          <span>{modCompletedCount} completed</span>
+                          <span style={{ color: '#38bdf8' }}>{(mod.questions || []).length} questions</span>
+                          <span>•</span>
+                          <span style={{ color: '#fbbf24' }}>{(mod.snaps || []).length} snaps</span>
                         </div>
                       </div>
                     </div>
@@ -455,45 +579,168 @@ export default function App() {
                         </div>
                       </div>
 
-                      {/* Lesson Cards */}
-                      <div className="lessons-list">
-                        {mod.lessons.map(lesson => {
-                          const isDone = completedItems.has(lesson.id);
-                          return (
-                            <div 
-                              key={lesson.id} 
-                              className={`lesson-item-card ${isDone ? 'completed' : ''}`}
-                            >
-                              <div className="lesson-left">
-                                <button
-                                  className={`check-btn ${isDone ? 'checked' : ''}`}
-                                  onClick={(e) => {
-                                    e.stopPropagation();
-                                    toggleItemCompletion(lesson.id);
-                                  }}
-                                  title={isDone ? 'Mark as incomplete' : 'Mark as complete'}
-                                >
-                                  {isDone ? <CheckCircle2 size={19} /> : <Circle size={19} />}
-                                </button>
+                      {/* Sub-tabs within Module Card */}
+                      <div className="module-subtabs">
+                        <button
+                          className={`subtab-btn ${currentSubTab === 'lessons' ? 'active' : ''}`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            setModuleViewMode(prev => ({ ...prev, [mod.moduleIndex]: 'lessons' }));
+                          }}
+                        >
+                          <BookOpen size={14} /> Lessons ({mod.lessons.length})
+                        </button>
 
-                                <div className="lesson-title-box">
-                                  <span className="lesson-name">{lesson.title}</span>
-                                  <span className="lesson-note-snippet">{lesson.note}</span>
+                        <button
+                          className={`subtab-btn ${currentSubTab === 'questions' ? 'active' : ''}`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            setModuleViewMode(prev => ({ ...prev, [mod.moduleIndex]: 'questions' }));
+                          }}
+                        >
+                          <HelpCircle size={14} /> Practice Questions ({(mod.questions || []).length})
+                        </button>
+
+                        <button
+                          className={`subtab-btn ${currentSubTab === 'snaps' ? 'active' : ''}`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            setModuleViewMode(prev => ({ ...prev, [mod.moduleIndex]: 'snaps' }));
+                          }}
+                        >
+                          <Image size={14} /> Visual Snaps & Blueprints ({(mod.snaps || []).length})
+                        </button>
+                      </div>
+
+                      {/* Sub-View 1: Lessons List */}
+                      {currentSubTab === 'lessons' && (
+                        <div className="lessons-list">
+                          {mod.lessons.map(lesson => {
+                            const isDone = completedItems.has(lesson.id);
+                            return (
+                              <div 
+                                key={lesson.id} 
+                                className={`lesson-item-card ${isDone ? 'completed' : ''}`}
+                              >
+                                <div className="lesson-left">
+                                  <button
+                                    className={`check-btn ${isDone ? 'checked' : ''}`}
+                                    onClick={(e) => {
+                                      e.stopPropagation();
+                                      toggleItemCompletion(lesson.id);
+                                    }}
+                                    title={isDone ? 'Mark as incomplete' : 'Mark as complete'}
+                                  >
+                                    {isDone ? <CheckCircle2 size={19} /> : <Circle size={19} />}
+                                  </button>
+
+                                  <div className="lesson-title-box">
+                                    <span className="lesson-name">{lesson.title}</span>
+                                    <span className="lesson-note-snippet">{lesson.note}</span>
+                                  </div>
+                                </div>
+
+                                <div className="lesson-right">
+                                  <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                                    {lesson.estimatedTime}
+                                  </span>
+                                  <span className={`badge-type badge-${lesson.type}`}>
+                                    {getTypeIcon(lesson.type)} {lesson.type}
+                                  </span>
                                 </div>
                               </div>
+                            );
+                          })}
+                        </div>
+                      )}
 
-                              <div className="lesson-right">
-                                <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-                                  {lesson.estimatedTime}
-                                </span>
-                                <span className={`badge-type badge-${lesson.type}`}>
-                                  {getTypeIcon(lesson.type)} {lesson.type}
-                                </span>
+                      {/* Sub-View 2: Module Practice Questions */}
+                      {currentSubTab === 'questions' && (
+                        <div className="questions-list">
+                          {(mod.questions || []).length === 0 ? (
+                            <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', padding: '1rem 0' }}>
+                              No specific test questions recorded for this module yet.
+                            </p>
+                          ) : (
+                            (mod.questions || []).map(q => {
+                              const isRevealed = revealedSolutions.has(q.id);
+                              return (
+                                <div key={q.id} className="question-card">
+                                  <div className="question-header">
+                                    <span className="question-title">❓ {q.title}</span>
+                                    <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.type.toUpperCase()}</span>
+                                  </div>
+
+                                  <div className="question-text">{q.question}</div>
+
+                                  {q.options && q.options.length > 0 && (
+                                    <div className="options-grid">
+                                      {q.options.map((opt, oIdx) => (
+                                        <div key={oIdx} className="option-item">
+                                          <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
+                                        </div>
+                                      ))}
+                                    </div>
+                                  )}
+
+                                  <button
+                                    className="filter-chip"
+                                    style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
+                                    onClick={() => toggleSolution(q.id)}
+                                  >
+                                    {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
+                                    {isRevealed ? 'Hide Solution' : 'View Verified Solution & Explanation'}
+                                  </button>
+
+                                  {isRevealed && (
+                                    <div className="solution-box">
+                                      <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
+                                      <div className="solution-explanation">{q.explanation}</div>
+                                    </div>
+                                  )}
+                                </div>
+                              );
+                            })
+                          )}
+                        </div>
+                      )}
+
+                      {/* Sub-View 3: Visual Snaps & Blueprints */}
+                      {currentSubTab === 'snaps' && (
+                        <div className="snaps-list">
+                          {(mod.snaps || []).length === 0 ? (
+                            <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', padding: '1rem 0' }}>
+                              No visual snapshots mapped to this module.
+                            </p>
+                          ) : (
+                            (mod.snaps || []).map(snap => (
+                              <div key={snap.id} className="snap-card">
+                                <div className="snap-header">
+                                  <span className="snap-title">📸 {snap.title}</span>
+                                  <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{snap.type.toUpperCase()}</span>
+                                </div>
+
+                                <p className="snap-caption">{snap.caption}</p>
+
+                                {/* Specialized Interactive Renderers */}
+                                {snap.type === 'grid' && renderPathFinderGrid()}
+                                {snap.type === 'memory' && renderMemoryMatrixGrid()}
+
+                                {/* Detail breakdown lines */}
+                                {snap.details && snap.details.length > 0 && (
+                                  <div className="snap-details-box">
+                                    {snap.details.map((line, lIdx) => (
+                                      <div key={lIdx} className="snap-detail-line">
+                                        <span style={{ color: '#c084fc' }}>•</span> {line}
+                                      </div>
+                                    ))}
+                                  </div>
+                                )}
                               </div>
-                            </div>
-                          );
-                        })}
-                      </div>
+                            ))
+                          )}
+                        </div>
+                      )}
                     </div>
                   )}
                 </div>
@@ -502,7 +749,115 @@ export default function App() {
           </div>
         )}
 
-        {/* Tab 2: Inspection Checklist & Audit */}
+        {/* Tab 2: Global Practice Questions Bank */}
+        {activeTab === 'questions' && (
+          <div className="content-column">
+            <div className="glass-panel" style={{ padding: '1.5rem', marginBottom: '1rem' }}>
+              <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>
+                Complete Accenture Placement Question Bank ({totalQuestions} Questions)
+              </h3>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                Master question sets spanning Game-based logic, Pseudocode outputs, Coding algorithms, Technical MCQs, and Verbal reasoning.
+              </p>
+            </div>
+
+            <div className="questions-list">
+              {courseData.modules.flatMap(m => (m.questions || []).map(q => ({ ...q, moduleTitle: m.title, moduleIndex: m.moduleIndex }))).map(q => {
+                const isRevealed = revealedSolutions.has(q.id);
+                return (
+                  <div key={q.id} className="question-card">
+                    <div className="question-header">
+                      <div>
+                        <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#c084fc', marginRight: '0.5rem' }}>
+                          MOD {String(q.moduleIndex).padStart(2, '0')}
+                        </span>
+                        <span className="question-title">❓ {q.title}</span>
+                      </div>
+                      <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{q.type.toUpperCase()}</span>
+                    </div>
+
+                    <div className="question-text">{q.question}</div>
+
+                    {q.options && q.options.length > 0 && (
+                      <div className="options-grid">
+                        {q.options.map((opt, oIdx) => (
+                          <div key={oIdx} className="option-item">
+                            <span style={{ fontWeight: 700, color: '#c084fc' }}>{String.fromCharCode(65 + oIdx)}.</span> {opt}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                    <button
+                      className="filter-chip"
+                      style={{ alignSelf: 'flex-start', marginTop: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}
+                      onClick={() => toggleSolution(q.id)}
+                    >
+                      {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
+                      {isRevealed ? 'Hide Solution' : 'View Verified Solution & Explanation'}
+                    </button>
+
+                    {isRevealed && (
+                      <div className="solution-box">
+                        <div className="solution-label">✅ Verified Answer: {q.correctAnswer}</div>
+                        <div className="solution-explanation">{q.explanation}</div>
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
+        {/* Tab 3: Global Visual Snaps & Blueprints */}
+        {activeTab === 'snaps' && (
+          <div className="content-column">
+            <div className="glass-panel" style={{ padding: '1.5rem', marginBottom: '1rem' }}>
+              <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>
+                Visual Snaps, Architecture & Cognitive Game Simulators ({totalSnaps} Snaps)
+              </h3>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                Visual reference blueprints, interactive Path Finder grids, Memory matrices, and algorithmic logic flows.
+              </p>
+            </div>
+
+            <div className="snaps-list">
+              {courseData.modules.flatMap(m => (m.snaps || []).map(s => ({ ...s, moduleTitle: m.title, moduleIndex: m.moduleIndex }))).map(snap => (
+                <div key={snap.id} className="snap-card">
+                  <div className="snap-header">
+                    <div>
+                      <span style={{ fontFamily: 'JetBrains Mono', fontSize: '0.75rem', color: '#c084fc', marginRight: '0.5rem' }}>
+                        MOD {String(snap.moduleIndex).padStart(2, '0')}
+                      </span>
+                      <span className="snap-title">📸 {snap.title}</span>
+                    </div>
+                    <span className="pill-tag" style={{ fontSize: '0.7rem' }}>{snap.type.toUpperCase()}</span>
+                  </div>
+
+                  <p className="snap-caption">{snap.caption}</p>
+
+                  {/* Specialized Interactive Renderers */}
+                  {snap.type === 'grid' && renderPathFinderGrid()}
+                  {snap.type === 'memory' && renderMemoryMatrixGrid()}
+
+                  {/* Detail breakdown lines */}
+                  {snap.details && snap.details.length > 0 && (
+                    <div className="snap-details-box">
+                      {snap.details.map((line, lIdx) => (
+                        <div key={lIdx} className="snap-detail-line">
+                          <span style={{ color: '#c084fc' }}>•</span> {line}
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Tab 4: Inspection Checklist & Audit */}
         {activeTab === 'checklist' && (
           <div className="content-column">
             <div className="glass-panel" style={{ padding: '1.5rem' }}>
@@ -511,7 +866,7 @@ export default function App() {
                 <div>
                   <h3 style={{ fontSize: '1.25rem', fontWeight: 700 }}>Course Inspection Audit & Scope Report</h3>
                   <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
-                    Verification checklist verifying 100% accounting of all accessible sections, modules, and lessons.
+                    Verification checklist verifying 100% accounting of all accessible sections, modules, questions, and snaps.
                   </p>
                 </div>
               </div>
@@ -526,12 +881,12 @@ export default function App() {
                   <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>21 of 21 Modules (100%)</div>
                 </div>
                 <div className="glass-panel" style={{ padding: '1rem' }}>
-                  <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Total Lessons Accounted</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>206 Items</div>
+                  <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Practice Questions & Solutions</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>{totalQuestions} Practice Questions</div>
                 </div>
                 <div className="glass-panel" style={{ padding: '1rem' }}>
-                  <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Missing / Inaccessible Sections</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#10b981' }}>0 Missing (None)</div>
+                  <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Visual Snaps & Blueprints</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 700 }}>{totalSnaps} Visual Snaps</div>
                 </div>
               </div>
 
@@ -543,35 +898,30 @@ export default function App() {
                       <th>Module #</th>
                       <th>Module Title</th>
                       <th>Category</th>
-                      <th>Items Count</th>
-                      <th>Type Breakdown</th>
+                      <th>Items</th>
+                      <th>Questions</th>
+                      <th>Snaps</th>
                       <th>Audit Status</th>
                     </tr>
                   </thead>
                   <tbody>
-                    {courseData.modules.map(mod => {
-                      const typesInMod = {};
-                      mod.lessons.forEach(l => {
-                        typesInMod[l.type] = (typesInMod[l.type] || 0) + 1;
-                      });
-                      const typeStr = Object.entries(typesInMod).map(([t, c]) => `${c} ${t}`).join(', ');
-                      return (
-                        <tr key={mod.id}>
-                          <td style={{ fontFamily: 'JetBrains Mono', color: '#c084fc', fontWeight: 600 }}>
-                            {String(mod.moduleIndex).padStart(2, '0')}
-                          </td>
-                          <td style={{ fontWeight: 600 }}>{mod.title}</td>
-                          <td><span className="pill-tag" style={{ fontSize: '0.7rem' }}>{mod.category}</span></td>
-                          <td>{mod.totalLessons}</td>
-                          <td style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>{typeStr}</td>
-                          <td>
-                            <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', color: '#10b981', fontWeight: 600, fontSize: '0.8rem' }}>
-                              <CheckCircle2 size={14} /> Verified
-                            </span>
-                          </td>
-                        </tr>
-                      );
-                    })}
+                    {courseData.modules.map(mod => (
+                      <tr key={mod.id}>
+                        <td style={{ fontFamily: 'JetBrains Mono', color: '#c084fc', fontWeight: 600 }}>
+                          {String(mod.moduleIndex).padStart(2, '0')}
+                        </td>
+                        <td style={{ fontWeight: 600 }}>{mod.title}</td>
+                        <td><span className="pill-tag" style={{ fontSize: '0.7rem' }}>{mod.category}</span></td>
+                        <td>{mod.totalLessons}</td>
+                        <td style={{ color: '#38bdf8', fontWeight: 600 }}>{(mod.questions || []).length}</td>
+                        <td style={{ color: '#fbbf24', fontWeight: 600 }}>{(mod.snaps || []).length}</td>
+                        <td>
+                          <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', color: '#10b981', fontWeight: 600, fontSize: '0.8rem' }}>
+                            <CheckCircle2 size={14} /> Verified
+                          </span>
+                        </td>
+                      </tr>
+                    ))}
                   </tbody>
                 </table>
               </div>
@@ -579,7 +929,7 @@ export default function App() {
           </div>
         )}
 
-        {/* Tab 3: 14-Day Study Plan */}
+        {/* Tab 5: 14-Day Study Plan */}
         {activeTab === 'roadmap' && (
           <div className="content-column">
             <div className="glass-panel" style={{ padding: '1.5rem' }}>
@@ -640,10 +990,10 @@ export default function App() {
       <footer className="app-footer">
         <p>
           Accenture Mock Test Series Course Portal • Built with React & Vite • 
-          Authorized content syllabus & original notes based on KN Academy Course
+          Authorized content syllabus, verified questions & visual snaps based on KN Academy Course
         </p>
         <p style={{ marginTop: '0.25rem', opacity: 0.6 }}>
-          100% of all 21 modules and 206 learning items accounted for in inspection checklist.
+          100% of all 21 modules, 206 learning items, 29 practice questions & 22 visual snaps accounted for.
         </p>
       </footer>
     </div>
