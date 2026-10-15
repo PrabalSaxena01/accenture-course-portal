@@ -1,0 +1,26 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#f59e0b" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">FIREWALL &amp; WEB FILTER DEFENSE IN DEPTH</text>
+  <g transform="translate(25, 45)">
+    <rect width="100" height="80" rx="6" fill="#1e293b" stroke="#ef4444" stroke-width="1.5"/>
+    <text x="50" y="35" fill="#f87171" font-weight="bold" font-size="11" text-anchor="middle">Stateful</text>
+    <text x="50" y="52" fill="#f87171" font-weight="bold" font-size="11" text-anchor="middle">Firewall</text>
+    <text x="50" y="70" fill="#94a3b8" font-size="8" text-anchor="middle">L3 / L4 Filtering</text>
+  </g>
+  <path d="M 130 85 L 185 85" stroke="#f59e0b" stroke-width="2" stroke-dasharray="3,3"/>
+  <text x="158" y="75" fill="#f59e0b" font-size="8" text-anchor="middle">Inspect</text>
+  <g transform="translate(190, 45)">
+    <rect width="120" height="80" rx="6" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="60" y="35" fill="#60a5fa" font-weight="bold" font-size="11" text-anchor="middle">Web Filter /</text>
+    <text x="60" y="52" fill="#60a5fa" font-weight="bold" font-size="11" text-anchor="middle">Proxy Gateway</text>
+    <text x="60" y="70" fill="#94a3b8" font-size="8" text-anchor="middle">L7 URL / Content</text>
+  </g>
+  <path d="M 315 85 L 370 85" stroke="#10b981" stroke-width="2"/>
+  <g transform="translate(375, 45)">
+    <rect width="135" height="80" rx="6" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+    <text x="67" y="35" fill="#a7f3d0" font-weight="bold" font-size="11" text-anchor="middle">Protected Internal</text>
+    <text x="67" y="52" fill="#a7f3d0" font-weight="bold" font-size="11" text-anchor="middle">Corporate LAN</text>
+    <text x="67" y="70" fill="#cbd5e1" font-size="8" text-anchor="middle">Trusted Domain</text>
+  </g>
+  <text x="270" y="145" fill="#cbd5e1" font-size="9" text-anchor="middle">Trust relationship ensures tight layered defense across network &amp; application tiers</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">COMPILE-TIME (STATIC) POLYMORPHISM: OVERLOADING</text>
+  <g transform="translate(30, 42)">
+    <rect width="480" height="95" rx="6" fill="#1e293b" stroke="#334155"/>
+    <text x="20" y="26" fill="#60a5fa" font-family="monospace" font-size="11">class TeaMac {</text>
+    <text x="40" y="46" fill="#cbd5e1" font-family="monospace" font-size="10">void brew() { ... }                   <tspan fill="#94a3b8">// Signature 1: 0 params</tspan></text>
+    <text x="40" y="66" fill="#cbd5e1" font-family="monospace" font-size="10">void brew(int temp) { ... }           <tspan fill="#94a3b8">// Signature 2: 1 param</tspan></text>
+    <text x="40" y="86" fill="#cbd5e1" font-family="monospace" font-size="10">void brew(int temp, int sugar) { ... }<tspan fill="#10b981">// Signature 3: 2 params (Resolved at compile-time)</tspan></text>
+  </g>
+</svg>

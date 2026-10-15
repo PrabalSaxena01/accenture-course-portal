@@ -1,0 +1,10 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#eab308" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">POWERPOINT: 'BY PARAGRAPH' SEQUENTIAL BULLET ANIMATION</text>
+  <g transform="translate(70, 45)">
+    <rect width="400" height="90" rx="5" fill="#1e293b" stroke="#eab308"/>
+    <text x="20" y="28" fill="#34d399" font-size="11" font-weight="bold">✓ Bullet 1: Reveals First on Click 1</text>
+    <text x="20" y="52" fill="#cbd5e1" font-size="11">• Bullet 2: Reveals Second on Click 2</text>
+    <text x="20" y="74" fill="#64748b" font-size="11">• Bullet 3: Reveals Third on Click 3</text>
+  </g>
+</svg>

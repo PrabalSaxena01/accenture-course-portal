@@ -1,0 +1,23 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">REMOTE-ACCESS VPN ARCHITECTURE FOR HYBRID WORKERS</text>
+  <g transform="translate(30, 45)">
+    <rect width="110" height="75" rx="5" fill="#1e293b" stroke="#38bdf8"/>
+    <text x="55" y="32" fill="#38bdf8" font-size="10" font-weight="bold" text-anchor="middle">Remote Laptop</text>
+    <text x="55" y="55" fill="#94a3b8" font-size="8" text-anchor="middle">VPN Client App</text>
+  </g>
+  <g transform="translate(150, 75)">
+    <line x1="0" y1="10" x2="100" y2="10" stroke="#10b981" stroke-width="3" stroke-dasharray="4,2"/>
+    <text x="50" y="0" fill="#34d399" font-size="9" font-weight="bold" text-anchor="middle">SSL/TLS Tunnel</text>
+  </g>
+  <g transform="translate(260, 45)">
+    <rect width="110" height="75" rx="5" fill="#1e1e38" stroke="#a855f7"/>
+    <text x="55" y="32" fill="#c084fc" font-size="10" font-weight="bold" text-anchor="middle">VPN Gateway</text>
+    <text x="55" y="55" fill="#94a3b8" font-size="8" text-anchor="middle">Corporate Edge</text>
+  </g>
+  <g transform="translate(380, 45)">
+    <rect width="130" height="75" rx="5" fill="#064e3b" stroke="#10b981"/>
+    <text x="65" y="32" fill="#a7f3d0" font-size="10" font-weight="bold" text-anchor="middle">Internal Intranet</text>
+    <text x="65" y="55" fill="#cbd5e1" font-size="8" text-anchor="middle">Internal Resources</text>
+  </g>
+</svg>

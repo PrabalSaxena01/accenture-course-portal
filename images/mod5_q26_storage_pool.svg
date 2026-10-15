@@ -1,0 +1,17 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">CLOUD MULTI-TENANT STORAGE POOL ELASTICITY</text>
+  <g transform="translate(60, 45)">
+    <rect width="420" height="85" rx="6" fill="#064e3b" stroke="#10b981"/>
+    <text x="210" y="24" fill="#a7f3d0" font-size="11" font-weight="bold" text-anchor="middle">Global Shared Storage Pool (Exabyte Scale)</text>
+    <g transform="translate(20, 38)">
+      <rect width="110" height="35" rx="3" fill="#022c22" stroke="#10b981"/><text x="55" y="22" fill="#fff" font-size="9" text-anchor="middle">Tenant A: 10 TB</text>
+    </g>
+    <g transform="translate(150, 38)">
+      <rect width="110" height="35" rx="3" fill="#022c22" stroke="#10b981"/><text x="55" y="22" fill="#fff" font-size="9" text-anchor="middle">Tenant B: 250 TB</text>
+    </g>
+    <g transform="translate(280, 38)">
+      <rect width="120" height="35" rx="3" fill="#0284c7" stroke="#38bdf8"/><text x="60" y="22" fill="#fff" font-size="9" text-anchor="middle">Dynamic Burst +50TB</text>
+    </g>
+  </g>
+</svg>

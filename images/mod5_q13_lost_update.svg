@@ -1,0 +1,18 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#f43f5e" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">CONCURRENCY PHENOMENON: LOST UPDATE ANOMALY</text>
+  <g transform="translate(40, 45)">
+    <text x="50" y="15" fill="#38bdf8" font-size="10" font-weight="bold">Tx 1 (Read X=100)</text>
+    <line x1="0" y1="25" x2="160" y2="25" stroke="#38bdf8" stroke-width="2"/>
+    <text x="50" y="45" fill="#38bdf8" font-size="10">Write X=150</text>
+  </g>
+  <g transform="translate(320, 45)">
+    <text x="50" y="15" fill="#f59e0b" font-size="10" font-weight="bold">Tx 2 (Read X=100)</text>
+    <line x1="0" y1="25" x2="160" y2="25" stroke="#f59e0b" stroke-width="2"/>
+    <text x="50" y="45" fill="#f59e0b" font-size="10">Write X=200 (Overwrites Tx1!)</text>
+  </g>
+  <g transform="translate(140, 110)">
+    <rect width="260" height="35" rx="4" fill="#881337" stroke="#f43f5e"/>
+    <text x="130" y="22" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">⚠️ Tx 1 Update is Lost! Requires Locking/MVCC</text>
+  </g>
+</svg>

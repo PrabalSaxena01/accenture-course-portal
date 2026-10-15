@@ -1,0 +1,10 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#ef4444" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">POST-BREACH HARDENING: LEAST PRIVILEGE ACCESS CONTROL</text>
+  <g transform="translate(40, 45)">
+    <rect width="460" height="85" rx="5" fill="#1e293b" stroke="#ef4444"/>
+    <text x="20" y="28" fill="#f87171" font-size="11" font-weight="bold">Core Security Remediations:</text>
+    <text x="20" y="50" fill="#cbd5e1" font-size="10">1. Enforce Role-Based Access Control (RBAC) &amp; Privileged Access Management (PAM)</text>
+    <text x="20" y="68" fill="#34d399" font-size="10">2. Revoke default root/admin privileges across compromised endpoints</text>
+  </g>
+</svg>
