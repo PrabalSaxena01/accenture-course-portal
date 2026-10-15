@@ -19,21 +19,26 @@ A colony of `r` rats each needs `unit` amount of food. An array `arr` of size `n
 **Options:**
 - Single pass linear scan O(n)
 
-**✅ Correct Answer:** `Single pass linear scan O(n)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Python Implementation:
-```python
-def solve_rat_food(r, unit, arr, n):
-    if n == 0 or len(arr) == 0: return 0
-    total_required = r * unit
-    current_sum = 0
-    for i in range(n):
-        current_sum += arr[i]
-        if current_sum >= total_required:
-            return i + 1
-    return -1
-```
-Time Complexity: O(N) | Space Complexity: O(1).
+> **✅ Correct Answer:** `Single pass linear scan O(n)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Python Implementation:
+> ```python
+> def solve_rat_food(r, unit, arr, n):
+>     if n == 0 or len(arr) == 0: return 0
+>     total_required = r * unit
+>     current_sum = 0
+>     for i in range(n):
+>         current_sum += arr[i]
+>         if current_sum >= total_required:
+>             return i + 1
+>     return -1
+> ```
+> Time Complexity: O(N) | Space Complexity: O(1).
+
+</details>
 
 ---

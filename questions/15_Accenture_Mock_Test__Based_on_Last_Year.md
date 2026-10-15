@@ -22,10 +22,15 @@ incorrect part in "Neither of the answers were correct."
 - C) Contradictory hypothesis to "were"
 - D) "were"
 
-**✅ Correct Answer:** `D) "were"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Neither" is singular → "was".
+> **✅ Correct Answer:** `D) "were"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Neither" is singular → "was".
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ order Emily's hike story.
 - C) DBA
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) DBA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) DBA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ fix infinitive in "asked the students to not submit".
 - C) Both A and B
 - D) Contradictory hypothesis to "not to submit"
 
-**✅ Correct Answer:** `A) "not to submit"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "not to submit"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ fill "We ____ here since morning."
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "have been waiting"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "have been waiting"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ order artist-painting sentences.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) CBD`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-sketch → colors → details → unveil.
+> **✅ Correct Answer:** `A) CBD`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> sketch → colors → details → unveil.
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ narrator's feeling entering reception.
 - C) Contradictory hypothesis to "Nervous yet determined"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Nervous yet determined"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Nervous yet determined"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ meaning of "fragility" (accident passage).
 - C) Both A and B
 - D) "Delicate and vulnerable"
 
-**✅ Correct Answer:** `D) "Delicate and vulnerable"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Delicate and vulnerable"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ fill "By the end of this year, we ____ in New York for a decade."
 - C) Contradictory hypothesis to "will have lived"
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "will have lived"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-future perfect.
+> **✅ Correct Answer:** `A) "will have lived"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> future perfect.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ order time-management paragraph.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) DCB`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) DCB`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -220,10 +265,15 @@ article before "dishonest person".
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "a"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "a"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -242,10 +292,15 @@ idiom "To cry wolf".
 - C) Both A and B
 - D) Contradictory hypothesis to "To give false alarm"
 
-**✅ Correct Answer:** `B) "To give false alarm"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "To give false alarm"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -264,10 +319,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "To take a difficult task"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "To take a difficult task"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -286,10 +346,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to "Imminent danger"
 
-**✅ Correct Answer:** `B) "Imminent danger"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Imminent danger"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -308,10 +373,15 @@ what boosts fresh MSME loans (I waiver, II extra Rs 20,000 cr liquidity, III joi
 - C) Both A and B
 - D) Contradictory hypothesis to "Only II and III"
 
-**✅ Correct Answer:** `A) "Only II and III"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Only II and III"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -330,10 +400,15 @@ which statement the author would agree with.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Only II"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Only II"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -352,10 +427,15 @@ tone of bank passage.
 - C) Both A and B
 - D) Contradictory hypothesis to "none of the above"
 
-**✅ Correct Answer:** `A) "none of the above"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "none of the above"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -374,10 +454,15 @@ suitable title for passage.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "Clearance to take off for stalled credit"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Clearance to take off for stalled credit"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -396,10 +481,15 @@ train-boarding puzzle — who boards just before K?
 - C) Contradictory hypothesis to "G"
 - D) "G"
 
-**✅ Correct Answer:** `D) "G"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "G"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -418,10 +508,15 @@ flowchart symbol for multi-outcome decisions.
 - C) Contradictory hypothesis to "Diamond"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "Diamond"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Diamond"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -440,10 +535,15 @@ stacked boxes P–U — which on top?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to "R"
 
-**✅ Correct Answer:** `B) "R"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "R"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -462,10 +562,15 @@ circular seating B–G — who between C and E?
 - C) Contradictory hypothesis to "F"
 - D) "F"
 
-**✅ Correct Answer:** `D) "F"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "F"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -484,10 +589,15 @@ flowchart parallelogram meaning.
 - C) Both A and B
 - D) "Input/Output"
 
-**✅ Correct Answer:** `D) "Input/Output"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Input/Output"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -506,10 +616,15 @@ statement-conclusion (modern man influences destiny).
 - C) Both A and B
 - D) Contradictory hypothesis to "Conclusion I follows"
 
-**✅ Correct Answer:** `A) "Conclusion I follows"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Conclusion I follows"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -522,9 +637,12 @@ Verified Accenture placement test pattern.
 syllogism "No vegetable is sweet. Some sweet things are tasty."
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Cognitive Mock-1] Question 24](./images/mod15_q24_accenture_cognitive_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) "I and II follows."
@@ -532,10 +650,15 @@ syllogism "No vegetable is sweet. Some sweet things are tasty."
 - C) Contradictory hypothesis to "I and II follows."
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "I and II follows."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-per Venn diagram.
+> **✅ Correct Answer:** `A) "I and II follows."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> per Venn diagram.
+
+</details>
 
 ---
 
@@ -554,10 +677,15 @@ data sufficiency for x (I. 2x+3=7; II. x positive integer).
 - C) "I alone sufficient, II alone not"
 - D) Contradictory hypothesis to "I alone sufficient, II a
 
-**✅ Correct Answer:** `C) "I alone sufficient, II alone not"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "I alone sufficient, II alone not"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -576,10 +704,15 @@ Carla's maternal grandmother is Rachel's mother — relation?
 - C) "Mother-daughter"
 - D) Contradictory hypothesis to "Mother-daughter"
 
-**✅ Correct Answer:** `C) "Mother-daughter"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "Mother-daughter"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -598,10 +731,15 @@ facing west, turn 360° right — direction?
 - C) Contradictory hypothesis to "West"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "West"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "West"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -620,10 +758,15 @@ scholarship/intelligent conclusions.
 - C) "Only conclusion II follows"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "Only conclusion II follows"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "Only conclusion II follows"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -642,10 +785,15 @@ Radha's east/right-turn walk — total distance.
 - C) Contradictory hypothesis to "11.5 km"
 - D) "11.5 km"
 
-**✅ Correct Answer:** `D) "11.5 km"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "11.5 km"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -664,10 +812,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) "Only I and II follow"
 
-**✅ Correct Answer:** `D) "Only I and II follow"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Only I and II follow"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -686,10 +839,15 @@ apples/guavas/oranges/papayas conclusions.
 - C) Both A and B
 - D) "Only conclusion III follows"
 
-**✅ Correct Answer:** `D) "Only conclusion III follows"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Only conclusion III follows"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -708,10 +866,15 @@ data sufficiency — flour cost price.
 - C) "Both I and II together sufficient, neither alone"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "Both I and II together sufficient, neither alone"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "Both I and II together sufficient, neither alone"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -730,10 +893,15 @@ next in AYBZC, DWEXF, GUHVI, JSKTL, ?.
 - C) Contradictory hypothesis to "MQNRO"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "MQNRO"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "MQNRO"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -752,10 +920,15 @@ who is middle in row (A–E) — sufficiency.
 - C) Contradictory hypothesis to "Either I or II sufficien
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Either I or II sufficient"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Either I or II sufficient"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -774,10 +947,15 @@ wrong number in 3, 4, 10, 34, 136, 685, 4116.
 - C) Contradictory hypothesis to "34"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "34"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "34"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -796,10 +974,15 @@ odd one out: Kilogram, Meter, Second, Newton.
 - C) Contradictory hypothesis to "Newton"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "Newton"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Newton"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -818,10 +1001,15 @@ figure formed from figure X's pieces.
 - C) Legacy standard alternative
 - D) "3"
 
-**✅ Correct Answer:** `D) "3"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "3"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -834,9 +1022,12 @@ Verified Accenture placement test pattern.
 unfolded paper-folding figure Z.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Cognitive Mock-1] Question 38](./images/mod15_q38_accenture_cognitive_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to "3"
@@ -844,10 +1035,15 @@ unfolded paper-folding figure Z.
 - C) Both A and B
 - D) "3"
 
-**✅ Correct Answer:** `D) "3"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "3"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -866,10 +1062,15 @@ complete the main figure.
 - C) "B"
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "B"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "B"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -882,9 +1083,12 @@ Verified Accenture placement test pattern.
 paper-folding/unfolding (image).
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Cognitive Mock-1] Question 40](./images/mod15_q40_accenture_cognitive_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to "4"
@@ -892,10 +1096,15 @@ paper-folding/unfolding (image).
 - C) Both A and B
 - D) "4"
 
-**✅ Correct Answer:** `D) "4"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "4"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -914,10 +1123,15 @@ analogy Plane : Clouds :: Submarine : ?.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Ocean"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Ocean"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -930,9 +1144,12 @@ Verified Accenture placement test pattern.
 unfolded paper-folding figure Z.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Cognitive Mock-1] Question 42](./images/mod15_q42_accenture_cognitive_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to "3"
@@ -940,10 +1157,15 @@ unfolded paper-folding figure Z.
 - C) Both A and B
 - D) "3"
 
-**✅ Correct Answer:** `D) "3"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "3"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -962,10 +1184,15 @@ code "DETAIL"→"GGWCLN"; code "BRANCH"?
 - C) Contradictory hypothesis to "ETDPFJ"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "ETDPFJ"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "ETDPFJ"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -984,10 +1211,15 @@ odd one out: BDG, FHK, OQT, NPT.
 - C) Both A and B
 - D) "NPT"
 
-**✅ Correct Answer:** `D) "NPT"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "NPT"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1006,10 +1238,15 @@ next in 12, 20, 33, 51, ?, 102.
 - C) Contradictory hypothesis to "74"
 - D) "74"
 
-**✅ Correct Answer:** `D) "74"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-diffs +8,+13,+18,+23,+28; 51+23=74.
+> **✅ Correct Answer:** `D) "74"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> diffs +8,+13,+18,+23,+28; 51+23=74.
+
+</details>
 
 ---
 
@@ -1028,10 +1265,15 @@ next in CEG, PSU, KMO, XAC, SUW, ?.
 - C) "FIK"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "FIK"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "FIK"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1050,10 +1292,15 @@ code "PACEMAKING"→"UEFGNFOLPH"; code "KABALISTIC"?
 - C) Contradictory hypothesis to "PEECMNWWKD"
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "PEECMNWWKD"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "PEECMNWWKD"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1066,9 +1313,12 @@ Verified Accenture placement test pattern.
 unfolded paper-folding figure Z.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Cognitive Mock-1] Question 48](./images/mod15_q48_accenture_cognitive_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to "4"
@@ -1076,10 +1326,15 @@ unfolded paper-folding figure Z.
 - C) Both A and B
 - D) "4"
 
-**✅ Correct Answer:** `D) "4"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "4"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1098,10 +1353,15 @@ odd one out: Gold, Silver, Bronze, Diamond.
 - C) Contradictory hypothesis to "D" (Diamond)
 - D) "D" (Diamond)
 
-**✅ Correct Answer:** `D) "D" (Diamond)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "D" (Diamond)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1120,10 +1380,15 @@ next in A, D, G, J, ?.
 - C) "M"
 - D) Contradictory hypothesis to "M"
 
-**✅ Correct Answer:** `C) "M"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "M"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1142,10 +1407,15 @@ Photo Editor's name from Office 2003 onward.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Picture Manager"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Picture Manager"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1164,10 +1434,15 @@ most crucial network device.
 - C) Legacy standard alternative
 - D) "Network Server"
 
-**✅ Correct Answer:** `D) "Network Server"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Network Server"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1186,10 +1461,15 @@ Excel element showing current cell info.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Formula Bar"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Formula Bar"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1208,10 +1488,15 @@ Office Assistant's role.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "An animated character providing assistance and suggestions"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "An animated character providing assistance and suggestions"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1230,10 +1515,15 @@ what word wrap does.
 - C) Both A and B
 - D) Contradictory hypothesis to "automatically moves text
 
-**✅ Correct Answer:** `B) "automatically moves text to the next line when necessary"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "automatically moves text to the next line when necessary"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1252,10 +1542,15 @@ shortcut to run PowerPoint slideshow.
 - C) Legacy standard alternative
 - D) "F5"
 
-**✅ Correct Answer:** `D) "F5"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "F5"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1274,10 +1569,15 @@ purpose of Word Layout-tab icon (image).
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "To change the page size"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "To change the page size"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1296,10 +1596,15 @@ key to repeat last action in Word.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "F4"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "F4"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1312,9 +1617,12 @@ Verified Accenture placement test pattern.
 value after merging eight shown cells (image).
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Technical Mock-1] Question 9](./images/mod15_q59_accenture_technical_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Legacy standard alternative
@@ -1322,10 +1630,15 @@ value after merging eight shown cells (image).
 - C) Contradictory hypothesis to "1"
 - D) "1"
 
-**✅ Correct Answer:** `D) "1"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "1"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1338,9 +1651,12 @@ Verified Accenture placement test pattern.
 what Excel cursor shape indicates.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Accenture Technical Mock-1] Question 10](./images/mod15_q60_accenture_technical_mock_1_que.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to "Column resizing"
@@ -1348,10 +1664,15 @@ what Excel cursor shape indicates.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "Column resizing"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Column resizing"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1370,10 +1691,15 @@ how to double-underline a word.
 - C) Contradictory hypothesis to "Select text → Format >> 
 - D) "Select text → Format >> Font → Underline Style → Double Underline"
 
-**✅ Correct Answer:** `D) "Select text → Format >> Font → Underline Style → Double Underline"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Select text → Format >> Font → Underline Style → Double Underline"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1392,10 +1718,15 @@ remove paragraph formatting.
 - C) Legacy standard alternative
 - D) "Ctrl + Q"
 
-**✅ Correct Answer:** `D) "Ctrl + Q"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Ctrl + Q"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1414,10 +1745,15 @@ C code output (sum 1..100).
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "5050"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "5050"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1436,10 +1772,15 @@ pseudocode output (i=140 variant).
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "139"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "139"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1458,10 +1799,15 @@ C code output (MOD/loop).
 - C) "49,3,1"
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "49,3,1"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "49,3,1"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1480,10 +1826,15 @@ C output (int x=9,y=2,z=6; a = x & y | z).
 - C) Both A and B
 - D) "6"
 
-**✅ Correct Answer:** `D) "6"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "6"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1502,10 +1853,15 @@ pseudocode output (sum n, f=6 while n<g=9).
 - C) Contradictory hypothesis to "21"
 - D) "21"
 
-**✅ Correct Answer:** `D) "21"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "21"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1524,10 +1880,15 @@ pseudocode output
 - C) 159
 - D) 163
 
-**✅ Correct Answer:** `B) 156`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 156`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1546,10 +1907,15 @@ pseudocode output
 - C) 24
 - D) 28
 
-**✅ Correct Answer:** `B) 21`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 21`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1568,10 +1934,15 @@ pseudocode output
 - C) 44
 - D) 48
 
-**✅ Correct Answer:** `B) 41`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 41`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1590,10 +1961,15 @@ pseudocode output
 - C) 93
 - D) 97
 
-**✅ Correct Answer:** `B) 90`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 90`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1612,10 +1988,15 @@ how many times 'i' checked.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "4"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "4"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1634,10 +2015,15 @@ pseudocode output
 - C) 44
 - D) 48
 
-**✅ Correct Answer:** `B) 41`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 41`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1656,10 +2042,15 @@ program output.
 - C) "Getting out is printed infinite times"
 - D) Contradictory hypothesis to "Getting out is printed i
 
-**✅ Correct Answer:** `C) "Getting out is printed infinite times"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "Getting out is printed infinite times"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1678,10 +2069,15 @@ advantage of 'AndAlso' over 'And'.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "short-circuit evaluation — skips second condition if first is false"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "short-circuit evaluation — skips second condition if first is false"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1700,10 +2096,15 @@ C code output.
 - C) Legacy standard alternative
 - D) "2 3 4 5 6"
 
-**✅ Correct Answer:** `D) "2 3 4 5 6"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "2 3 4 5 6"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1722,10 +2123,15 @@ bitwise (1010 & 1100).
 - C) "1000"
 - D) Contradictory hypothesis to "1000"
 
-**✅ Correct Answer:** `C) "1000"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "1000"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1744,10 +2150,15 @@ pseudocode output (sum i², i=1..7).
 - C) "140"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "140"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "140"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1766,10 +2177,15 @@ pseudocode output (sizeof int).
 - C) Contradictory hypothesis to "4"
 - D) "4"
 
-**✅ Correct Answer:** `D) "4"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "4"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1788,10 +2204,15 @@ pseudocode output (bit-counting loop).
 - C) Contradictory hypothesis to "6"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "6"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "6"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1810,10 +2231,15 @@ DDoS stands for.
 - C) Contradictory hypothesis to "Distributed Denial of Se
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "Distributed Denial of Service"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Distributed Denial of Service"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1832,10 +2258,15 @@ primary goal of IDS.
 - C) Both A and B
 - D) Contradictory hypothesis to "detect and respond to un
 
-**✅ Correct Answer:** `B) "detect and respond to unauthorized access or activities"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "detect and respond to unauthorized access or activities"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1854,10 +2285,15 @@ which is NOT a wireless security protocol.
 - C) Both A and B
 - D) "HTTPS"
 
-**✅ Correct Answer:** `D) "HTTPS"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "HTTPS"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1876,10 +2312,15 @@ encryption key for individual packets.
 - C) Contradictory hypothesis to "Session key"
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Session key"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Session key"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1898,10 +2339,15 @@ faster, storage-efficient backup.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to "Incremental backup"
 
-**✅ Correct Answer:** `B) "Incremental backup"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Incremental backup"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1920,10 +2366,15 @@ router command given privilege levels (image).
 - C) Contradictory hypothesis to "show ip interface Ethern
 - D) "show ip interface Ethernet 0"
 
-**✅ Correct Answer:** `D) "show ip interface Ethernet 0"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "show ip interface Ethernet 0"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1942,10 +2393,15 @@ ACL to permit SMTP to 1.1.1.1.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "access-list 110 permit tcp any host 1.1.1.1 eq smtp"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "access-list 110 permit tcp any host 1.1.1.1 eq smtp"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1964,10 +2420,15 @@ SSLv3 padding bits.
 - C) Legacy standard alternative
 - D) "Concatenated"
 
-**✅ Correct Answer:** `D) "Concatenated"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Concatenated"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1986,10 +2447,15 @@ packet appearing as something else.
 - C) "Spoofing"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "Spoofing"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "Spoofing"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2008,9 +2474,14 @@ network ID in 192.168.10.51.
 - C) Legacy standard alternative
 - D) "192.168.10"
 
-**✅ Correct Answer:** `D) "192.168.10"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "192.168.10"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

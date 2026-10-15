@@ -22,10 +22,15 @@ In the Accenture recruitment process, which of the following statements regardin
 - The Coding assessment can be taken on a separate day at the student's convenience.
 - The Communication round has no impact on the final package or role allocation.
 
-**✅ Correct Answer:** `Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Accenture employs a strict progressive elimination model. Only candidates who clear sectional benchmarks in Cognitive (Critical Thinking, English, Abstract Reasoning) and Technical (Pseudocode, Networking, Cloud, MS Office) immediately qualify for the Coding Round.
+> **✅ Correct Answer:** `Sectional cut-offs must be cleared in both Cognitive and Technical parts to unlock the Coding round.`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Accenture employs a strict progressive elimination model. Only candidates who clear sectional benchmarks in Cognitive (Critical Thinking, English, Abstract Reasoning) and Technical (Pseudocode, Networking, Cloud, MS Office) immediately qualify for the Coding Round.
+
+</details>
 
 ---
 
@@ -44,9 +49,14 @@ What is the recommended time allocation strategy for the 90-minute Cognitive & T
 - Leave English comprehension until the final 5 minutes.
 - Attempt all questions randomly without reviewing answers.
 
-**✅ Correct Answer:** `Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-With 90 questions in 90 minutes, time per question must not exceed 60 seconds. Since there is NO negative marking in recent drives, attempting 100% of questions with intelligent elimination gives the highest aggregate score.
+> **✅ Correct Answer:** `Allocate approximately 1 minute per question, maintaining a minimum 75% accuracy threshold across all sections.`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> With 90 questions in 90 minutes, time per question must not exceed 60 seconds. Since there is NO negative marking in recent drives, attempting 100% of questions with intelligent elimination gives the highest aggregate score.
+
+</details>
 
 ---

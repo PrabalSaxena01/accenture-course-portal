@@ -22,10 +22,15 @@ flowchart maps X→Y via three branches (prime → X²+1, even → 2X+4, odd com
 - C) 3
 - D) 7
 
-**✅ Correct Answer:** `B) 0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-no two X<50 give same Y across formulas.
+> **✅ Correct Answer:** `B) 0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> no two X<50 give same Y across formulas.
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ if/else-if ladder on x prints "Brinda" if x>4, "Karthik" if x>10, "Pradeep" if x
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) none`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Karthik" branch reachable only when x≤4, contradicting x>10 — never prints.
+> **✅ Correct Answer:** `B) none`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Karthik" branch reachable only when x≤4, contradicting x>10 — never prints.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ trace snippet (m=9, n=6, increments, comparison using N=n−1); printed value?
 - C) 18
 - D) 22
 
-**✅ Correct Answer:** `B) 15`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 15`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -82,9 +97,12 @@ Verified Accenture placement test pattern.
 trace recursive fun(x,y) recursing (x−2, y+2) while x>1, printing y on unwind, x=4, y=5.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudo Mock-2] Question 4](./images/js_object_duplicate_keys.svg)
+
+</details>
 
 **Options:**
 - A) Legacy standard alternative
@@ -92,10 +110,15 @@ trace recursive fun(x,y) recursing (x−2, y+2) while x>1, printing y on unwind,
 - C) 9 7 5
 - D) Both A and B
 
-**✅ Correct Answer:** `C) 9 7 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 9 7 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -114,10 +137,15 @@ C code printing char 'A' with %d.
 - C) 68
 - D) 72
 
-**✅ Correct Answer:** `B) 65`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-ASCII of 'A'.
+> **✅ Correct Answer:** `B) 65`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> ASCII of 'A'.
+
+</details>
 
 ---
 
@@ -136,10 +164,15 @@ evaluate funn(a=9, b=5) with if testing (b^a < b&a).
 - C) 12
 - D) 16
 
-**✅ Correct Answer:** `B) 9`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-12<1 false → return a=9.
+> **✅ Correct Answer:** `B) 9`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 12<1 false → return a=9.
+
+</details>
 
 ---
 
@@ -158,10 +191,15 @@ snippet a=3,b=4,c=6; c→18; conditional b-doubling; print a+b+c.
 - C) 28
 - D) 32
 
-**✅ Correct Answer:** `B) 25`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(c−6)<(6−c) → 12<−12 false; 3+4+18=25.
+> **✅ Correct Answer:** `B) 25`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (c−6)<(6−c) → 12<−12 false; 3+4+18=25.
+
+</details>
 
 ---
 
@@ -180,10 +218,15 @@ two-loop function with XOR/AND (a=2,b=6,c=7); return a+b.
 - C) 124
 - D) 128
 
-**✅ Correct Answer:** `B) 121`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-first loop drives a→121; second zeroes b.
+> **✅ Correct Answer:** `B) 121`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> first loop drives a→121; second zeroes b.
+
+</details>
 
 ---
 
@@ -202,10 +245,15 @@ nested if/else with XOR/AND (a=1,b=4,c=4); return a+b+c.
 - C) 53
 - D) 57
 
-**✅ Correct Answer:** `B) 50`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 50`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -224,10 +272,15 @@ cuboid snippet (w=d=h=2); displayed volume/surface area.
 - C) Contradictory hypothesis to 8 24
 - D) 8 24
 
-**✅ Correct Answer:** `D) 8 24`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2³=8; 2×(4+4+4)=24.
+> **✅ Correct Answer:** `D) 8 24`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2³=8; 2×(4+4+4)=24.
+
+</details>
 
 ---
 
@@ -246,10 +299,15 @@ recursive function with 5 prints "Welcome" while num>0 then num--; how many prin
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -268,10 +326,15 @@ what does snippet do (stores string, loops last index→0 printing chars)?
 - C) Legacy standard alternative
 - D) Reverses string and prints it
 
-**✅ Correct Answer:** `D) Reverses string and prints it`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Reverses string and prints it`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -290,10 +353,15 @@ float 20.45→int, then (post-dec + pre-dec − pre-inc); printed?
 - C) 22
 - D) 26
 
-**✅ Correct Answer:** `B) 19`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-20+18−19=19.
+> **✅ Correct Answer:** `B) 19`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 20+18−19=19.
+
+</details>
 
 ---
 
@@ -312,10 +380,15 @@ trace funn(a=4,b=2): a=a+b+2; a=a*2; if(a) return a−b else a+b.
 - C) 17
 - D) 21
 
-**✅ Correct Answer:** `B) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-a→8→16 (truthy) → 16−2=14.
+> **✅ Correct Answer:** `B) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> a→8→16 (truthy) → 16−2=14.
+
+</details>
 
 ---
 
@@ -334,10 +407,15 @@ for-loop (x 1→11) containing x=x+2; printed x?
 - C) 16
 - D) 20
 
-**✅ Correct Answer:** `B) 13`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 13`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -356,10 +434,15 @@ while loop (a=125,b=122): if (a+b) odd, repeat b=a+b, a//=5 until a=0; print b.
 - C) 281
 - D) 285
 
-**✅ Correct Answer:** `B) 278`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-b: 247→272→277→278 as a: 125→25→5→1→0.
+> **✅ Correct Answer:** `B) 278`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> b: 247→272→277→278 as a: 125→25→5→1→0.
+
+</details>
 
 ---
 
@@ -378,10 +461,15 @@ arithmetic/MOD (x=16,y=6): x=x+y; y=x/10; x=(x−y)MOD5; x=x+6; print x,y.
 - C) Legacy standard alternative
 - D) 6 2
 
-**✅ Correct Answer:** `D) 6 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 6 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -400,10 +488,15 @@ array updates (a={0,1,0}; additions; if a[0] then a[3]=5; m=m+a[3]); printed m?
 - C) 9
 - D) 13
 
-**✅ Correct Answer:** `B) 6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-a[3]=5; m=1+5=6.
+> **✅ Correct Answer:** `B) 6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> a[3]=5; m=1+5=6.
+
+</details>
 
 ---
 
@@ -422,10 +515,15 @@ summation (f=6,g=9): if g>f, loop n from f while n<g accumulating; print sum.
 - C) Contradictory hypothesis to 21 (6+7+8)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) 21 (6+7+8)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 21 (6+7+8)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -444,10 +542,15 @@ z = x++ + ++y, x=2,y=4; printed z?
 - C) 10
 - D) 14
 
-**✅ Correct Answer:** `B) 7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2+5=7.
+> **✅ Correct Answer:** `B) 7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2+5=7.
+
+</details>
 
 ---
 
@@ -460,9 +563,12 @@ z = x++ + ++y, x=2,y=4; printed z?
 adjacent-sum transform (arr=[1,2,3,4,5], arr[i]+=arr[i+1]); print array.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 1 (10 questions; no explanations shown)] Question 1](./images/css_box_model.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to 3 5 7 9 5
@@ -470,10 +576,15 @@ adjacent-sum transform (arr=[1,2,3,4,5], arr[i]+=arr[i+1]); print array.
 - C) Legacy standard alternative
 - D) 3 5 7 9 5
 
-**✅ Correct Answer:** `D) 3 5 7 9 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 3 5 7 9 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -486,9 +597,12 @@ Verified Accenture placement test pattern.
 x=0,y=3,z=11; evaluate if(x+(1|2) && y+(2|3)); predict x+y+z.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 1 (10 questions; no explanations shown)] Question 2](./images/css_box_model.svg)
+
+</details>
 
 **Options:**
 - A) 2
@@ -496,10 +610,15 @@ x=0,y=3,z=11; evaluate if(x+(1|2) && y+(2|3)); predict x+y+z.
 - C) 10
 - D) 14
 
-**✅ Correct Answer:** `B) 7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -518,10 +637,15 @@ operation of loop printing string array last→first.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to reverses the string
 
-**✅ Correct Answer:** `B) reverses the string`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) reverses the string`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -540,10 +664,15 @@ recursive solve(x,y), x=10,y=5.
 - C) 21
 - D) 25
 
-**✅ Correct Answer:** `B) 18`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 18`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -562,10 +691,15 @@ adjacent-difference transform (arr=[5,4,3,2,1], arr[i]−=arr[i+1]); print array
 - C) Both A and B
 - D) Contradictory hypothesis to 1 1 1 1 1
 
-**✅ Correct Answer:** `A) 1 1 1 1 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 1 1 1 1 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -584,10 +718,15 @@ recursive solve(n,m) with (n>4 && m<7), n=5,m=6.
 - C) 16
 - D) 20
 
-**✅ Correct Answer:** `B) 13`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 13`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -600,9 +739,12 @@ Verified Accenture placement test pattern.
 operation of loop printing string array first→last.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 1 (10 questions; no explanations shown)] Question 7](./images/html_image_link.svg)
+
+</details>
 
 **Options:**
 - A) Both A and B
@@ -610,10 +752,15 @@ operation of loop printing string array first→last.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to prints the original strin
 
-**✅ Correct Answer:** `B) prints the original string`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) prints the original string`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -632,10 +779,15 @@ adjacent-product transform (arr=[5,4,3,2,1], arr[i]*=arr[i+1]); print array.
 - C) Contradictory hypothesis to 20 12 6 2 1
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) 20 12 6 2 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 20 12 6 2 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -654,10 +806,15 @@ nested loops (w=21,x=11; y 21–30; z −1–0; w decrement w/ continue/jump); p
 - C) 15
 - D) 19
 
-**✅ Correct Answer:** `B) 12`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 12`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -676,10 +833,15 @@ conditionals (x=10,y=16,z=3; else y=x/2; nested if; y=z/2); printed x+y+z?
 - C) 17
 - D) 21
 
-**✅ Correct Answer:** `B) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -698,10 +860,15 @@ operation of loop running once (l=0→0) printing word[0].
 - C) Contradictory hypothesis to prints first character
 - D) prints first character
 
-**✅ Correct Answer:** `D) prints first character`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) prints first character`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -720,10 +887,15 @@ x=−2,y=3,z=1; evaluate if(x+(2&2) && y+(3&3) && z+(2^2)); predict x+y+z.
 - C) 6
 - D) 10
 
-**✅ Correct Answer:** `B) 3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -742,10 +914,15 @@ y=7 mod 2, x=9 mod 2 in funn; return x+y.
 - C) 5
 - D) 9
 
-**✅ Correct Answer:** `B) 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -764,10 +941,15 @@ nested conditionals (x=8,y=6,z=4); printed value?
 - C) 17
 - D) 21
 
-**✅ Correct Answer:** `B) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -786,10 +968,15 @@ nested loops (a=1,b=1; c 1–2; d −2–0; a+=2 w/ continue); printed a+b?
 - C) 17
 - D) 21
 
-**✅ Correct Answer:** `B) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -808,10 +995,15 @@ p=3,q=8,r=1 (sum 12); compound AND condition; printed message?
 - C) Fail
 - D) Contradictory hypothesis to Fail
 
-**✅ Correct Answer:** `C) Fail`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Fail`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -830,10 +1022,15 @@ nested loops (w=1,x=1; y 11–20; z −3–0; w+=5 w/ continue/jump); printed w+
 - C) 5
 - D) 9
 
-**✅ Correct Answer:** `B) 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -852,10 +1049,15 @@ conditionals (x=10,y=16,z=3; else y=x); printed value?
 - C) 19
 - D) 23
 
-**✅ Correct Answer:** `B) 16`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 16`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -874,10 +1076,15 @@ recursive solve(a,b) with (a<3 && b<4), a=11,b=12.
 - C) 26
 - D) 30
 
-**✅ Correct Answer:** `B) 23`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 23`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -896,10 +1103,15 @@ multiply-recursive solve(x,y), x=4,y=9.
 - C) 44
 - D) 48
 
-**✅ Correct Answer:** `B) 41`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 41`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -918,10 +1130,15 @@ JS reduce summing [1,2,3] from 0.
 - C) 9
 - D) 13
 
-**✅ Correct Answer:** `B) 6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -934,9 +1151,12 @@ Verified Accenture placement test pattern.
 Python set intersection {1,2,3} & {3,4,5}.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 3] Question 2](./images/css_box_sizing_calculation.svg)
+
+</details>
 
 **Options:**
 - A) Legacy standard alternative
@@ -944,10 +1164,15 @@ Python set intersection {1,2,3} & {3,4,5}.
 - C) Both A and B
 - D) {3}
 
-**✅ Correct Answer:** `D) {3}`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) {3}`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -960,9 +1185,12 @@ Verified Accenture placement test pattern.
 C bitwise OR 5|3.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 3] Question 3](./images/css_box_sizing_calculation.svg)
+
+</details>
 
 **Options:**
 - A) 2
@@ -970,10 +1198,15 @@ C bitwise OR 5|3.
 - C) 10
 - D) 14
 
-**✅ Correct Answer:** `B) 7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-101|011=111.
+> **✅ Correct Answer:** `B) 7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 101|011=111.
+
+</details>
 
 ---
 
@@ -992,10 +1225,15 @@ JS [1,2,3].map(x*2).filter(x>4).
 - C) Both A and B
 - D) [6]
 
-**✅ Correct Answer:** `D) [6]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) [6]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1014,10 +1252,15 @@ JS 1+"2"+3.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "123"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-string concatenation via "2".
+> **✅ Correct Answer:** `A) "123"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> string concatenation via "2".
+
+</details>
 
 ---
 
@@ -1036,10 +1279,15 @@ Python aliasing (y=x; y.append(4); print(x)).
 - C) Contradictory hypothesis to [1, 2, 3, 4]
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) [1, 2, 3, 4]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-same list reference.
+> **✅ Correct Answer:** `A) [1, 2, 3, 4]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> same list reference.
+
+</details>
 
 ---
 
@@ -1052,9 +1300,12 @@ same list reference.
 C short-circuit (a=5,b=0; if(a && b++)).
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 3] Question 7](./images/code_short_circuit_eval.svg)
+
+</details>
 
 **Options:**
 - A) -5
@@ -1062,10 +1313,15 @@ C short-circuit (a=5,b=0; if(a && b++)).
 - C) 3
 - D) 7
 
-**✅ Correct Answer:** `B) 0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-b++ not evaluated.
+> **✅ Correct Answer:** `B) 0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> b++ not evaluated.
+
+</details>
 
 ---
 
@@ -1084,10 +1340,15 @@ JS typeof null.
 - C) "object" (reported as true)
 - D) Contradictory hypothesis to "object" (reported as tru
 
-**✅ Correct Answer:** `C) "object" (reported as true)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-legacy quirk.
+> **✅ Correct Answer:** `C) "object" (reported as true)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> legacy quirk.
+
+</details>
 
 ---
 
@@ -1106,10 +1367,15 @@ Python x,y = y,x+y (x=10,y=20).
 - C) Contradictory hypothesis to 20, 30
 - D) 20, 30
 
-**✅ Correct Answer:** `D) 20, 30`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 20, 30`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1128,10 +1394,15 @@ in-place array reversal on [1,2,3,4].
 - C) Legacy standard alternative
 - D) [4, 3, 2, 1]
 
-**✅ Correct Answer:** `D) [4, 3, 2, 1]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) [4, 3, 2, 1]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1150,10 +1421,15 @@ count primes 1–20 via isPrime.
 - C) 10
 - D) 14
 
-**✅ Correct Answer:** `B) 7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1172,10 +1448,15 @@ Verified Accenture placement test pattern.
 - C) 11
 - D) 15
 
-**✅ Correct Answer:** `B) 8`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 8`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1188,9 +1469,12 @@ Verified Accenture placement test pattern.
 what does mystery(x) compute (halve evens, 3x+1 odds, count steps to 1)?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Pseudocode - 4] Question 3](./images/web_url_structure.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for ollatz step count
@@ -1198,10 +1482,15 @@ what does mystery(x) compute (halve evens, 3x+1 odds, count steps to 1)?
 - C) ollatz step count
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ollatz step count`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ollatz step count`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1220,10 +1509,15 @@ final z after while loop (y←3,z←0, x+=2).
 - C) 24
 - D) 28
 
-**✅ Correct Answer:** `B) 21`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 21`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1242,10 +1536,15 @@ compute(6) for compute(x)=compute(x−1)+compute(x−2).
 - C) 24
 - D) 28
 
-**✅ Correct Answer:** `B) 21`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Fibonacci; compute(6)=21.
+> **✅ Correct Answer:** `B) 21`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Fibonacci; compute(6)=21.
+
+</details>
 
 ---
 
@@ -1264,10 +1563,15 @@ y after nested loops (x←5; i 1..x, j 1..i: y←y+j).
 - C) 38
 - D) 42
 
-**✅ Correct Answer:** `B) 35`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 35`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1286,10 +1590,15 @@ recursive mystery(n) = n*mystery(n−1).
 - C) Contradictory hypothesis to Factorial
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Factorial`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Factorial`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1308,10 +1617,15 @@ output of while loop (x←10,y←5; y updated by x's parity).
 - C) Contradictory hypothesis to -5
 - D) -5
 
-**✅ Correct Answer:** `D) -5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) -5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1330,10 +1644,15 @@ Verified Accenture placement test pattern.
 - C) 4
 - D) 8
 
-**✅ Correct Answer:** `B) 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1352,10 +1671,15 @@ sum of integers 1–100.
 - C) 5053
 - D) 5057
 
-**✅ Correct Answer:** `B) 5050`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5050`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1374,10 +1698,15 @@ recursive calculate_value(4), x*f(x−1) − f(x−2), f(x)=x for x<2.
 - C) 21
 - D) 25
 
-**✅ Correct Answer:** `B) 18`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unwind 2, 5, 4×5−2=18.
+> **✅ Correct Answer:** `B) 18`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unwind 2, 5, 4×5−2=18.
+
+</details>
 
 ---
 
@@ -1396,10 +1725,15 @@ recursive TransformString("abcde") splitting/swapping halves.
 - C) "edcba"
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "edcba"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "edcba"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1418,10 +1752,15 @@ recursive CalculateArray summing elements divisible by 3 (skip next after hit).
 - C) 30
 - D) 34
 
-**✅ Correct Answer:** `B) 27`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-hits 6,9,12.
+> **✅ Correct Answer:** `B) 27`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> hits 6,9,12.
+
+</details>
 
 ---
 
@@ -1440,10 +1779,15 @@ G(n)=3·G(n−1)−2·G(n−2), G(0)=1,G(1)=2, n=5.
 - C) 35
 - D) 39
 
-**✅ Correct Answer:** `B) 32`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-powers of 2.
+> **✅ Correct Answer:** `B) 32`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> powers of 2.
+
+</details>
 
 ---
 
@@ -1462,10 +1806,15 @@ recursive binomial AnalyzePattern(4,2).
 - C) 9
 - D) 13
 
-**✅ Correct Answer:** `B) 6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-C(4,2).
+> **✅ Correct Answer:** `B) 6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> C(4,2).
+
+</details>
 
 ---
 
@@ -1484,10 +1833,15 @@ recursive CountPaths(3,3).
 - C) 9
 - D) 13
 
-**✅ Correct Answer:** `B) 6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1506,10 +1860,15 @@ recursive digital root of 9875.
 - C) 5
 - D) 9
 
-**✅ Correct Answer:** `B) 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-29→11→2.
+> **✅ Correct Answer:** `B) 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 29→11→2.
+
+</details>
 
 ---
 
@@ -1528,10 +1887,15 @@ any subset summing to target (CheckCombinationC)?
 - C) Contradictory hypothesis to TRUE
 - D) TRUE
 
-**✅ Correct Answer:** `D) TRUE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-e.g. [4,5]→9.
+> **✅ Correct Answer:** `D) TRUE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> e.g. [4,5]→9.
+
+</details>
 
 ---
 
@@ -1550,10 +1914,15 @@ distinct arrangements of "AAB" (CountArrangementsD).
 - C) 3 (AAB, ABA, BAA)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) 3 (AAB, ABA, BAA)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 3 (AAB, ABA, BAA)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1572,10 +1941,15 @@ doubling recurrence X for 4 items (base 1).
 - C) 19
 - D) 23
 
-**✅ Correct Answer:** `B) 16`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2^4.
+> **✅ Correct Answer:** `B) 16`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2^4.
+
+</details>
 
 ---
 
@@ -1594,10 +1968,15 @@ doubling recurrence X for 4 items (base 1).
 - C) 58
 - D) 62
 
-**✅ Correct Answer:** `B) 55`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-5|50=55.
+> **✅ Correct Answer:** `B) 55`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 5|50=55.
+
+</details>
 
 ---
 
@@ -1616,10 +1995,15 @@ doubling recurrence X for 4 items (base 1).
 - C) 243
 - D) 247
 
-**✅ Correct Answer:** `B) 240`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-960>>2.
+> **✅ Correct Answer:** `B) 240`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 960>>2.
+
+</details>
 
 ---
 
@@ -1638,10 +2022,15 @@ doubling recurrence X for 4 items (base 1).
 - C) 171
 - D) 175
 
-**✅ Correct Answer:** `B) 168`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-42×4.
+> **✅ Correct Answer:** `B) 168`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 42×4.
+
+</details>
 
 ---
 
@@ -1660,10 +2049,15 @@ doubling recurrence X for 4 items (base 1).
 - C) 21
 - D) 25
 
-**✅ Correct Answer:** `B) 18`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-9+61−52.
+> **✅ Correct Answer:** `B) 18`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 9+61−52.
+
+</details>
 
 ---
 
@@ -1682,10 +2076,15 @@ b=NOT a (a=32), c=b>>4.
 - C) depends on machine
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) depends on machine`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-arithmetic vs logical shift.
+> **✅ Correct Answer:** `C) depends on machine`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> arithmetic vs logical shift.
+
+</details>
 
 ---
 
@@ -1704,10 +2103,15 @@ arithmetic vs logical shift.
 - C) Both A and B
 - D) 0xFFFFFF9D
 
-**✅ Correct Answer:** `D) 0xFFFFFF9D`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 0xFFFFFF9D`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1726,10 +2130,15 @@ chained bitwise on a=73,b=109,c=167.
 - C) 112
 - D) 116
 
-**✅ Correct Answer:** `B) 109`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 109`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1748,10 +2157,15 @@ Verified Accenture placement test pattern.
 - C) 39
 - D) 43
 
-**✅ Correct Answer:** `B) 36`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 36`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1770,10 +2184,15 @@ identify bit hack (x − ((x>>1) & 0x55555555), ...).
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to population count (Hamming
 
-**✅ Correct Answer:** `B) population count (Hamming weight)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) population count (Hamming weight)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1792,10 +2211,15 @@ d = (3^11) & 32.
 - C) 3
 - D) 7
 
-**✅ Correct Answer:** `B) 0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-8 & 32 share no bits.
+> **✅ Correct Answer:** `B) 0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 8 & 32 share no bits.
+
+</details>
 
 ---
 
@@ -1814,10 +2238,15 @@ d = (3^11) & 32.
 - C) 18
 - D) 22
 
-**✅ Correct Answer:** `B) 15`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-= x|y.
+> **✅ Correct Answer:** `B) 15`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> = x|y.
+
+</details>
 
 ---
 
@@ -1836,10 +2265,15 @@ expression testing exactly one of bits 5/6 set.
 - C) ((x & 0x10) != 0) ^ ((x & 0x20) != 0)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) ((x & 0x10) != 0) ^ ((x & 0x20) != 0)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ((x & 0x10) != 0) ^ ((x & 0x20) != 0)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1858,10 +2292,15 @@ what does bit-spreading fn compute (x|=x>>1; x|=x>>2; ...; x−(x>>1))?
 - C) Both A and B
 - D) highest set bit's value
 
-**✅ Correct Answer:** `D) highest set bit's value`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) highest set bit's value`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1880,10 +2319,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to 0x02
 - D) 0x02
 
-**✅ Correct Answer:** `D) 0x02`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-0x2A & 0x97.
+> **✅ Correct Answer:** `D) 0x02`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 0x2A & 0x97.
+
+</details>
 
 ---
 
@@ -1902,10 +2346,15 @@ expressions swapping two variables without temp.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) ll of the above (arithmetic, mul/div, XOR — each with caveats`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) ll of the above (arithmetic, mul/div, XOR — each with caveats`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1924,10 +2373,15 @@ network type built on top of another network.
 - C) Contradictory hypothesis to overlay network
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) overlay network`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-e.g. VPN, P2P.
+> **✅ Correct Answer:** `A) overlay network`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> e.g. VPN, P2P.
+
+</details>
 
 ---
 
@@ -1946,10 +2400,15 @@ which is NOT a network-layer function.
 - C) Contradictory hypothesis to error control
 - D) Both A and B
 
-**✅ Correct Answer:** `B) error control`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-L3 provides routing paths.
+> **✅ Correct Answer:** `B) error control`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> L3 provides routing paths.
+
+</details>
 
 ---
 
@@ -1968,10 +2427,15 @@ topology best describing the Internet.
 - C) Contradictory hypothesis to Mesh
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Mesh`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-multiple paths between any two points.
+> **✅ Correct Answer:** `B) Mesh`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> multiple paths between any two points.
+
+</details>
 
 ---
 
@@ -1990,10 +2454,15 @@ command viewing current IP config.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) oth ipconfig and ifconfig`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Windows vs Unix.
+> **✅ Correct Answer:** `B) oth ipconfig and ifconfig`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Windows vs Unix.
+
+</details>
 
 ---
 
@@ -2012,10 +2481,15 @@ what does "ping localhost" do?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) sends ICMP echo requests to local machine`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) sends ICMP echo requests to local machine`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2034,10 +2508,15 @@ IP 10.16.3.65/23 — which two statements describe it?
 - C) 2 and 4 (lowest host 10.16.2.1; broadcast 10.16.3.255)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) 2 and 4 (lowest host 10.16.2.1; broadcast 10.16.3.255)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 2 and 4 (lowest host 10.16.2.1; broadcast 10.16.3.255)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2050,9 +2529,12 @@ Verified Accenture placement test pattern.
 two hosts wired directly, no connectivity (figure) — fixes?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Networking Mock-1] Question 7](./images/mod10_q92_networking_mock_1_question_7.svg)
+
+</details>
 
 **Options:**
 - A) Legacy standard alternative
@@ -2060,10 +2542,15 @@ two hosts wired directly, no connectivity (figure) — fixes?
 - C) 1 and 5 (crossover cable; mask 255.255.255.0)
 - D) Contradictory hypothesis to 1 and 5 (crossover cable;
 
-**✅ Correct Answer:** `C) 1 and 5 (crossover cable; mask 255.255.255.0)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 1 and 5 (crossover cable; mask 255.255.255.0)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2082,10 +2569,15 @@ max host IPs on subnet [prefix truncated].
 - C) 33
 - D) 37
 
-**✅ Correct Answer:** `B) 30`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 30`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2104,10 +2596,15 @@ port number of POP.
 - C) 113
 - D) 117
 
-**✅ Correct Answer:** `B) 110`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 110`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2126,10 +2623,15 @@ MAC address length.
 - C) Legacy standard alternative
 - D) 48 bits
 
-**✅ Correct Answer:** `D) 48 bits`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 48 bits`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2148,10 +2650,15 @@ proxy server also known as?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) pplication level gateway`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) pplication level gateway`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2170,10 +2677,15 @@ command displaying RIP updates.
 - C) Contradictory hypothesis to debug ip rip
 - D) debug ip rip
 
-**✅ Correct Answer:** `D) debug ip rip`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) debug ip rip`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2192,10 +2704,15 @@ what is "split horizon"?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) route info not sent back where the update came from`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) route info not sent back where the update came from`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2214,10 +2731,15 @@ layer converting bits to electromagnetic signals.
 - C) Contradictory hypothesis to Physical
 - D) Physical
 
-**✅ Correct Answer:** `D) Physical`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Physical`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2236,10 +2758,15 @@ computer↔keyboard transmission mode.
 - C) Simplex
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Simplex`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Simplex`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2258,10 +2785,15 @@ sharing one channel among multiple signals.
 - C) Contradictory hypothesis to multiplexing
 - D) multiplexing
 
-**✅ Correct Answer:** `D) multiplexing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) multiplexing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2280,10 +2812,15 @@ endpoint of inter-process communication flow across network.
 - C) Contradictory hypothesis to socket
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) socket`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) socket`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2302,10 +2839,15 @@ in virtual-circuit network, each packet contains?
 - C) Contradictory hypothesis to a short VC number (VCID)
 - D) a short VC number (VCID)
 
-**✅ Correct Answer:** `D) a short VC number (VCID)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) a short VC number (VCID)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2324,10 +2866,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to 32 kbps (4000×8)
 - D) 32 kbps (4000×8)
 
-**✅ Correct Answer:** `D) 32 kbps (4000×8)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 32 kbps (4000×8)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2346,10 +2893,15 @@ command testing connectivity + tracing path.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) tracert (traceroute on Unix)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) tracert (traceroute on Unix)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2368,10 +2920,15 @@ web app sends but can't receive — malfunctioning layer?
 - C) Both A and B
 - D) Transport
 
-**✅ Correct Answer:** `D) Transport`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-end-to-end delivery.
+> **✅ Correct Answer:** `D) Transport`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> end-to-end delivery.
+
+</details>
 
 ---
 
@@ -2390,10 +2947,15 @@ standard Ethernet frame size.
 - C) Contradictory hypothesis to 64 to 1518 bytes
 - D) 64 to 1518 bytes
 
-**✅ Correct Answer:** `D) 64 to 1518 bytes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 64 to 1518 bytes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2412,10 +2974,15 @@ primary benefit of EIGRP over RIP.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) Faster convergence`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Faster convergence`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2434,10 +3001,15 @@ OSPF loop-prevention mechanism.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) rea designations`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) rea designations`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2456,10 +3028,15 @@ host bits to borrow for [given] subnet mask.
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2478,10 +3055,15 @@ why parity bits used.
 - C) Both A and B
 - D) Contradictory hypothesis to To detect error
 
-**✅ Correct Answer:** `A) To detect error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) To detect error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2500,10 +3082,15 @@ SMTP port.
 - C) 28
 - D) 32
 
-**✅ Correct Answer:** `B) 25`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 25`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2522,10 +3109,15 @@ asymmetric crypto — who keeps private key?
 - C) Both A and B
 - D) Receiver
 
-**✅ Correct Answer:** `D) Receiver`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Receiver`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2544,10 +3136,15 @@ bit-oriented protocol.
 - C) HDLC
 - D) Contradictory hypothesis to HDLC
 
-**✅ Correct Answer:** `C) HDLC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) HDLC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2566,10 +3163,15 @@ what is "route poisoning"?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to router sets metric of dow
 
-**✅ Correct Answer:** `B) router sets metric of downed link to infinity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) router sets metric of downed link to infinity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2588,10 +3190,15 @@ IGRP default path parameters.
 - C) Contradictory hypothesis to 3 and 5 (cumulative delay
 - D) 3 and 5 (cumulative delay; path bandwidth)
 
-**✅ Correct Answer:** `D) 3 and 5 (cumulative delay; path bandwidth)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 3 and 5 (cumulative delay; path bandwidth)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2610,10 +3217,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to 1 and 4
 - D) 1 and 4
 
-**✅ Correct Answer:** `D) 1 and 4`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 1 and 4`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2632,10 +3244,15 @@ attack rendering a resource unavailable.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) denial-of-service`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) denial-of-service`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2654,10 +3271,15 @@ HTTP code for CREATED via POST/PUT.
 - C) 204
 - D) 208
 
-**✅ Correct Answer:** `B) 201`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 201`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2676,10 +3298,15 @@ in REST, server provides resource access; client accesses/modifies?
 - C) Both A and B
 - D) True
 
-**✅ Correct Answer:** `D) True`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) True`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2698,10 +3325,15 @@ domain registrars accredited by whom?
 - C) Legacy standard alternative
 - D) ICANN
 
-**✅ Correct Answer:** `D) ICANN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ICANN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2720,10 +3352,15 @@ open-loop congestion control policies applied to what end?
 - C) Prevent before congestion occurs
 - D) Contradictory hypothesis to Prevent before congestion
 
-**✅ Correct Answer:** `C) Prevent before congestion occurs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Prevent before congestion occurs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2742,10 +3379,15 @@ Go-Back-N timeout — which packets resent?
 - C) Contradictory hypothesis to only lost/corrupted ones 
 - D) Both A and B
 
-**✅ Correct Answer:** `B) only lost/corrupted ones (Selective Repeat behavior)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) only lost/corrupted ones (Selective Repeat behavior)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2764,10 +3406,15 @@ new network not in routing tables — check first?
 - C) Network advertisements
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Network advertisements`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Network advertisements`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2786,10 +3433,15 @@ SNMP message agent→manager for events.
 - C) Contradictory hypothesis to TRAP
 - D) Both A and B
 
-**✅ Correct Answer:** `B) TRAP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) TRAP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2808,10 +3460,15 @@ office LAN packet loss on one segment only — faulty device?
 - C) Switch
 - D) Contradictory hypothesis to Switch
 
-**✅ Correct Answer:** `C) Switch`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-per-segment switch/port failure.
+> **✅ Correct Answer:** `C) Switch`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> per-segment switch/port failure.
+
+</details>
 
 ---
 
@@ -2830,10 +3487,15 @@ video calls slow during high bandwidth — implement?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to QoS for voice/video
 
-**✅ Correct Answer:** `B) QoS for voice/video`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) QoS for voice/video`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2852,10 +3514,15 @@ two LANs joined — device limiting broadcasts?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) ridge`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-L2 filtering.
+> **✅ Correct Answer:** `B) ridge`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> L2 filtering.
+
+</details>
 
 ---
 
@@ -2874,10 +3541,15 @@ isolate guests on same switch.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) separate VLANs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) separate VLANs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2896,10 +3568,15 @@ mask changed /24→/25, some devices can't communicate — why?
 - C) devices in different subnets
 - D) Contradictory hypothesis to devices in different subn
 
-**✅ Correct Answer:** `C) devices in different subnets`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) devices in different subnets`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2918,10 +3595,15 @@ crowded conference Wi-Fi disconnects — cause?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) P signal interference (overlapping channels`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) P signal interference (overlapping channels`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2940,10 +3622,15 @@ branch slow DB access over leased line — cause?
 - C) insufficient leased-line bandwidth
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) insufficient leased-line bandwidth`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) insufficient leased-line bandwidth`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2962,10 +3649,15 @@ intranet unreachable but Internet works — check first?
 - C) Both A and B
 - D) Contradictory hypothesis to local DNS server config
 
-**✅ Correct Answer:** `A) local DNS server config`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) local DNS server config`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2984,10 +3676,15 @@ ping by IP works, not by hostname — issue?
 - C) None of the listed implementations
 - D) NS server settings
 
-**✅ Correct Answer:** `D) NS server settings`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) NS server settings`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3006,10 +3703,15 @@ new office wireless — highest-security setting?
 - C) WPA3
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) WPA3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) WPA3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3028,10 +3730,15 @@ total connectivity loss after switch firmware update — investigate which layer
 - C) Physical layer
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Physical layer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Physical layer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3050,10 +3757,15 @@ TCP sent 1001–2000, ACK=1501 — meaning?
 - C) Both A and B
 - D) Contradictory hypothesis to receiver got bytes throug
 
-**✅ Correct Answer:** `A) receiver got bytes through 1500 (cumulative ACK)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) receiver got bytes through 1500 (cumulative ACK)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3072,10 +3784,15 @@ client SYN sent, SYN-ACK lost — client should?
 - C) Contradictory hypothesis to Resend SYN
 - D) Resend SYN
 
-**✅ Correct Answer:** `D) Resend SYN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Resend SYN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3094,10 +3811,15 @@ distance-vector router gets shorter-path update — guard mechanism?
 - C) Contradictory hypothesis to Hold-down timer
 - D) Hold-down timer
 
-**✅ Correct Answer:** `D) Hold-down timer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Hold-down timer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3116,10 +3838,15 @@ Wi-Fi user moves away, system auto-adjusts — mechanism?
 - C) Both A and B
 - D) Rate adaptation
 
-**✅ Correct Answer:** `D) Rate adaptation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Rate adaptation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3138,10 +3865,15 @@ router between 100 Mbps LAN and 10 Mbps WAN, queue filling — phenomenon?
 - C) Legacy standard alternative
 - D) Queuing delay buildup
 
-**✅ Correct Answer:** `D) Queuing delay buildup`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Queuing delay buildup`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3160,10 +3892,15 @@ IPv6-only network, can't ping IPv4 server — cause?
 - C) Contradictory hypothesis to no dual-stack/NAT64 trans
 - D) Both A and B
 
-**✅ Correct Answer:** `A) no dual-stack/NAT64 translation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) no dual-stack/NAT64 translation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3182,10 +3919,15 @@ router gets TTL=1 packet, discards + responds — which ICMP?
 - C) ICMP Time Exceeded
 - D) Contradictory hypothesis to ICMP Time Exceeded
 
-**✅ Correct Answer:** `C) ICMP Time Exceeded`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ICMP Time Exceeded`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3204,10 +3946,15 @@ OSPF router returns online, immediate problems — cause?
 - C) Both A and B
 - D) routing table convergence delay
 
-**✅ Correct Answer:** `D) routing table convergence delay`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) routing table convergence delay`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3226,10 +3973,15 @@ private-IP network with NAT, local web server unreachable from Internet — fix?
 - C) port forwarding on NAT
 - D) Contradictory hypothesis to port forwarding on NAT
 
-**✅ Correct Answer:** `C) port forwarding on NAT`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) port forwarding on NAT`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3248,10 +4000,15 @@ legacy Ethernet high collisions — replace hub with?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Layer 2 switch
 
-**✅ Correct Answer:** `B) Layer 2 switch`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-isolates collision domains.
+> **✅ Correct Answer:** `B) Layer 2 switch`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> isolates collision domains.
+
+</details>
 
 ---
 
@@ -3270,10 +4027,15 @@ which layer determines TCP MSS?
 - C) Contradictory hypothesis to Transport Layer
 - D) Transport Layer
 
-**✅ Correct Answer:** `D) Transport Layer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Transport Layer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3292,10 +4054,15 @@ budget office network topology?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) us topology`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) us topology`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3314,10 +4081,15 @@ FTP ports/channels?
 - C) Legacy standard alternative
 - D) TCP 21 (control), TCP 20 (data)
 
-**✅ Correct Answer:** `D) TCP 21 (control), TCP 20 (data)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) TCP 21 (control), TCP 20 (data)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3336,10 +4108,15 @@ core router very high CPU [routing-loop symptoms] — cause?
 - C) routing loop
 - D) Contradictory hypothesis to routing loop
 
-**✅ Correct Answer:** `C) routing loop`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) routing loop`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3358,10 +4135,15 @@ OSI-spanning protocol [truncated].
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) MPLS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) MPLS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3380,10 +4162,15 @@ stateful firewall, outbound web connection — return traffic?
 - C) Contradictory hypothesis to auto-permitted as establi
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) auto-permitted as established connection`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) auto-permitted as established connection`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3402,10 +4189,15 @@ intermittent dropouts on some devices — cause?
 - C) Contradictory hypothesis to cable >100 m or EMI (L1 i
 - D) cable >100 m or EMI (L1 issue)
 
-**✅ Correct Answer:** `D) cable >100 m or EMI (L1 issue)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) cable >100 m or EMI (L1 issue)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3424,10 +4216,15 @@ client 10.1.1.10/24 sending to different subnet — does what?
 - C) Contradictory hypothesis to consults routing table fo
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) consults routing table for next-hop (default gateway)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) consults routing table for next-hop (default gateway)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3446,10 +4243,15 @@ automatic addressing on DHCP-less segment — mechanism name?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) PIPA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) PIPA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3468,10 +4270,15 @@ poor video conferencing during backups — implement?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Traffic Shaping and Queui
 
-**✅ Correct Answer:** `B) Traffic Shaping and Queuing (QoS)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Traffic Shaping and Queuing (QoS)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3490,10 +4297,15 @@ forward proxy for outbound web — which feature serves user requests?
 - C) aching
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) aching`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) aching`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3512,10 +4324,15 @@ packet goes one path, returns another — what?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) symmetrical routing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) symmetrical routing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3534,10 +4351,15 @@ load balancer using HTTP headers/URL/cookies — operates at?
 - C) Layer 7 (Application)
 - D) Contradictory hypothesis to Layer 7 (Application)
 
-**✅ Correct Answer:** `C) Layer 7 (Application)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Layer 7 (Application)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3556,10 +4378,15 @@ WPA3-Personal key security mechanism?
 - C) Legacy standard alternative
 - D) SAE (Simultaneous Authentication of Equals)
 
-**✅ Correct Answer:** `D) SAE (Simultaneous Authentication of Equals)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) SAE (Simultaneous Authentication of Equals)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3578,10 +4405,15 @@ remote employee secure file access — edge device terminating tunnel?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) VPN Gateway/Concentrator`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) VPN Gateway/Concentrator`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3600,10 +4432,15 @@ Europe user types www.mycompany.asia first time; after local DNS, next server ty
 - C) Contradictory hypothesis to TLD server
 - D) Both A and B
 
-**✅ Correct Answer:** `B) TLD server`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) TLD server`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3622,10 +4459,15 @@ slow Wi-Fi only when microwave on — cause?
 - C) Both A and B
 - D) 2.4 GHz non-Wi-Fi interference
 
-**✅ Correct Answer:** `D) 2.4 GHz non-Wi-Fi interference`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 2.4 GHz non-Wi-Fi interference`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3644,10 +4486,15 @@ router learns 172.16.0.0/16 via OSPF and EIGRP — deciding parameter?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) dministrative Distance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) dministrative Distance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3666,10 +4513,15 @@ two routers, one LAN, high availability — protocol?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to VRRP or HSRP
 
-**✅ Correct Answer:** `B) VRRP or HSRP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) VRRP or HSRP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3688,10 +4540,15 @@ network address for 192.168.1.150/27.
 - C) Legacy standard alternative
 - D) 192.168.1.128
 
-**✅ Correct Answer:** `D) 192.168.1.128`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-/27 block size 32; 150 in 128–159.
+> **✅ Correct Answer:** `D) 192.168.1.128`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> /27 block size 32; 150 in 128–159.
+
+</details>
 
 ---
 
@@ -3710,10 +4567,15 @@ usable hosts with mask 255.255.255.240.
 - C) 17
 - D) 21
 
-**✅ Correct Answer:** `B) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-4 host bits → 16−2.
+> **✅ Correct Answer:** `B) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 4 host bits → 16−2.
+
+</details>
 
 ---
 
@@ -3732,10 +4594,15 @@ subnet mask for /26.
 - C) Both A and B
 - D) Contradictory hypothesis to 255.255.255.192
 
-**✅ Correct Answer:** `B) 255.255.255.192`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 255.255.255.192`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3754,10 +4621,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) 10 Mbps`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-80 Mb/8 s.
+> **✅ Correct Answer:** `B) 10 Mbps`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 80 Mb/8 s.
+
+</details>
 
 ---
 
@@ -3776,10 +4648,15 @@ subnet mask for /24.
 - C) Both A and B
 - D) Contradictory hypothesis to 255.255.255.0
 
-**✅ Correct Answer:** `B) 255.255.255.0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 255.255.255.0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3798,10 +4675,15 @@ broadcast for 10.1.1.0/24.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to 10.1.1.255
 
-**✅ Correct Answer:** `B) 10.1.1.255`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 10.1.1.255`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3820,10 +4702,15 @@ megabits in 2 megabytes?
 - C) 19
 - D) 23
 
-**✅ Correct Answer:** `B) 16`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2M bytes × 8.
+> **✅ Correct Answer:** `B) 16`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2M bytes × 8.
+
+</details>
 
 ---
 
@@ -3842,10 +4729,15 @@ megabits in 2 megabytes?
 - C) Both A and B
 - D) Contradictory hypothesis to router with NAT + private
 
-**✅ Correct Answer:** `A) router with NAT + private 192.168.1.1–25`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) router with NAT + private 192.168.1.1–25`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3864,10 +4756,15 @@ can ping 8.8.8.8 but not open google.com (others can) — cause?
 - C) None of the listed implementations
 - D) NS server config issue
 
-**✅ Correct Answer:** `D) NS server config issue`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) NS server config issue`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3886,10 +4783,15 @@ two offices 50 miles apart, share files as one network — solution?
 - C) Contradictory hypothesis to Site-to-Site VPN
 - D) Site-to-Site VPN
 
-**✅ Correct Answer:** `D) Site-to-Site VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Site-to-Site VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3908,10 +4810,15 @@ coffee-shop Wi-Fi slow, single router — fix?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) multiple APs, same SSID, proper channel planning`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) multiple APs, same SSID, proper channel planning`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3930,10 +4837,15 @@ exposed SSH (22) with weak passwords — immediate action?
 - C) Contradictory hypothesis to disable SSH or restrict t
 - D) disable SSH or restrict to internal network
 
-**✅ Correct Answer:** `D) disable SSH or restrict to internal network`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) disable SSH or restrict to internal network`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3952,10 +4864,15 @@ slow video editing — OS function deciding next CPU process?
 - C) Process Scheduling
 - D) Contradictory hypothesis to Process Scheduling
 
-**✅ Correct Answer:** `C) Process Scheduling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Process Scheduling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3974,10 +4891,15 @@ critical system files deleted — mechanism restricting access?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) CLs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) CLs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3996,10 +4918,15 @@ large memory block managed via secondary storage — technique?
 - C) Virtual Memory
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Virtual Memory`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Virtual Memory`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4018,10 +4945,15 @@ app crashes from memory exhaustion despite free RAM — what?
 - C) Memory Leak
 - D) Contradictory hypothesis to Memory Leak
 
-**✅ Correct Answer:** `C) Memory Leak`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Memory Leak`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4040,10 +4972,15 @@ old printer on modern OS — what enables communication?
 - C) None of the listed implementations
 - D) evice Driver
 
-**✅ Correct Answer:** `D) evice Driver`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) evice Driver`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4062,10 +4999,15 @@ multiple remote users simultaneously — OS type?
 - C) Multi-User OS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Multi-User OS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Multi-User OS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4084,10 +5026,15 @@ OS refuses to load invalid program file — responsible component?
 - C) File System
 - D) Both A and B
 
-**✅ Correct Answer:** `C) File System`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) File System`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4106,10 +5053,15 @@ unresponsive server process, can't terminate normally — state?
 - C) Zombie
 - D) Contradictory hypothesis to Zombie
 
-**✅ Correct Answer:** `C) Zombie`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Zombie`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4128,10 +5080,15 @@ FCFS scheduling, three processes [given] — metric?
 - C) Contradictory hypothesis to 12 ms
 - D) Both A and B
 
-**✅ Correct Answer:** `A) 12 ms`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 12 ms`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4150,10 +5107,15 @@ Verified Accenture placement test pattern.
 - C) 5
 - D) 9
 
-**✅ Correct Answer:** `B) 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-address/page size, integer part.
+> **✅ Correct Answer:** `B) 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> address/page size, integer part.
+
+</details>
 
 ---
 
@@ -4172,10 +5134,15 @@ address/page size, integer part.
 - C) 9
 - D) 13
 
-**✅ Correct Answer:** `B) 6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4194,10 +5161,15 @@ P1–P4 bursts 10,5,2,3 — avg waiting?
 - C) 4 ms
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) 4 ms`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 4 ms`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4216,10 +5188,15 @@ Verified Accenture placement test pattern.
 - C) 13
 - D) 17
 
-**✅ Correct Answer:** `B) 10`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-40/4.
+> **✅ Correct Answer:** `B) 10`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 40/4.
+
+</details>
 
 ---
 
@@ -4238,10 +5215,15 @@ kernel for highly secure transactions [truncated] — architecture?
 - C) Contradictory hypothesis to Microkernel
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Microkernel`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-services in user space → isolation.
+> **✅ Correct Answer:** `A) Microkernel`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> services in user space → isolation.
+
+</details>
 
 ---
 
@@ -4260,10 +5242,15 @@ slow printer, OS collects output to free CPU — technique?
 - C) Contradictory hypothesis to Spooling
 - D) Spooling
 
-**✅ Correct Answer:** `D) Spooling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Spooling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4282,10 +5269,15 @@ process reads file data not in user space — mediating mechanism?
 - C) System Call
 - D) Both A and B
 
-**✅ Correct Answer:** `C) System Call`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) System Call`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4304,10 +5296,15 @@ Verified Accenture placement test pattern.
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4326,10 +5323,15 @@ deterministic request→response DB server — which OS?
 - C) Hard Real-Time OS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Hard Real-Time OS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Hard Real-Time OS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4348,10 +5350,15 @@ multithreaded process — what's unique per thread?
 - C) Contradictory hypothesis to Program Counter (PC)
 - D) Program Counter (PC)
 
-**✅ Correct Answer:** `D) Program Counter (PC)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Program Counter (PC)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4370,10 +5377,15 @@ constant paging, CPU idle — degradation state?
 - C) Contradictory hypothesis to Thrashing
 - D) Thrashing
 
-**✅ Correct Answer:** `D) Thrashing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Thrashing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4392,10 +5404,15 @@ program makes file-read OS request — kernel executes in which mode?
 - C) Both A and B
 - D) Kernel Mode
 
-**✅ Correct Answer:** `D) Kernel Mode`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Kernel Mode`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4414,10 +5431,15 @@ legacy app must run at boot bypassing startup — enabling component?
 - C) Both A and B
 - D) Shell (command interpreter)/init script
 
-**✅ Correct Answer:** `D) Shell (command interpreter)/init script`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Shell (command interpreter)/init script`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4436,10 +5458,15 @@ OS rapidly switching between apps — concept?
 - C) oncurrency
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) oncurrency`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) oncurrency`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4458,10 +5485,15 @@ kernel security patch without reboot — technique?
 - C) Contradictory hypothesis to Kernel Hot-Swapping (live
 - D) Kernel Hot-Swapping (live patching)
 
-**✅ Correct Answer:** `D) Kernel Hot-Swapping (live patching)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Kernel Hot-Swapping (live patching)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4480,10 +5512,15 @@ variable-sized segments for large block — technique?
 - C) Segmentation
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Segmentation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Segmentation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4502,10 +5539,15 @@ P1 writes pipe, P2 reads — IPC model?
 - C) Legacy standard alternative
 - D) Producer-Consumer
 
-**✅ Correct Answer:** `D) Producer-Consumer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Producer-Consumer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4524,10 +5566,15 @@ P1(AT=0,BT=7), P2, P3 [scheduling, truncated] — ms?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to 2.00 ms
 
-**✅ Correct Answer:** `B) 2.00 ms`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 2.00 ms`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4546,10 +5593,15 @@ disk 10 surfaces × 500 tracks × 50 sectors × 1 KB — capacity?
 - C) 250 MB
 - D) Both A and B
 
-**✅ Correct Answer:** `C) 250 MB`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) 250 MB`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4568,10 +5620,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) 2^19`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 2^19`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4590,10 +5647,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) 90.9%
 
-**✅ Correct Answer:** `D) 90.9%`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 90.9%`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4612,10 +5674,15 @@ FIFO, 3 frames, ref string [truncated] — final frames?
 - C) Both A and B
 - D) Contradictory hypothesis to 4, 2, 3
 
-**✅ Correct Answer:** `A) 4, 2, 3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 4, 2, 3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4634,10 +5701,15 @@ Banker's algorithm, R=5 instances, P1/P2/P3 hold 2/1/1 [truncated] — safe resu
 - C) 4
 - D) 8
 
-**✅ Correct Answer:** `B) 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4656,10 +5728,15 @@ threads share counter via mutex spinlock [truncated] — main downside?
 - C) Both A and B
 - D) wasting CPU in busy waiting
 
-**✅ Correct Answer:** `D) wasting CPU in busy waiting`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) wasting CPU in busy waiting`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4678,10 +5755,15 @@ microkernel user-space services — how do user processes reach them?
 - C) Both A and B
 - D) message-passing IPC primitives
 
-**✅ Correct Answer:** `D) message-passing IPC primitives`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) message-passing IPC primitives`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4700,10 +5782,15 @@ kernel module hits uninitialized memory — most dangerous in which architecture
 - C) Both A and B
 - D) Contradictory hypothesis to Monolithic kernel (shared
 
-**✅ Correct Answer:** `A) Monolithic kernel (shared privileged address space)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Monolithic kernel (shared privileged address space)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4722,10 +5809,15 @@ limit resources for a process group — feature?
 - C) Contradictory hypothesis to cgroups
 - D) cgroups
 
-**✅ Correct Answer:** `D) cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4744,10 +5836,15 @@ I/O devices accessing memory directly, bypassing CPU — what?
 - C) None of the listed implementations
 - D) MA
 
-**✅ Correct Answer:** `D) MA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) MA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4766,10 +5863,15 @@ ASLR randomizes memory layout — mitigates?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) uffer overflow + ROP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) uffer overflow + ROP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4788,10 +5890,15 @@ new thread with ULT/KLT support — better choice?
 - C) Kernel-Level Thread — blocking is independent
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Kernel-Level Thread — blocking is independent`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Kernel-Level Thread — blocking is independent`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4810,10 +5917,15 @@ repeated preemption while holding resource needed by high-priority task; missed 
 - C) Priority inversion; priority inheritance
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Priority inversion; priority inheritance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Priority inversion; priority inheritance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4832,10 +5944,15 @@ immediate next step after SIEM alerts successful intrusion into financial DB via
 - C) Isolate the DB server from the network and revoke the compromised credentials
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Isolate the DB server from the network and revoke the compromised credentials`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Containment" — stops attacker spread.
+> **✅ Correct Answer:** `C) Isolate the DB server from the network and revoke the compromised credentials`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Containment" — stops attacker spread.
+
+</details>
 
 ---
 
@@ -4854,10 +5971,15 @@ which evidence to collect first at a crime scene, per volatility.
 - C) Contradictory hypothesis to System memory (RAM) dump
 - D) Both A and B
 
-**✅ Correct Answer:** `A) System memory (RAM) dump`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-most volatile first.
+> **✅ Correct Answer:** `A) System memory (RAM) dump`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> most volatile first.
+
+</details>
 
 ---
 
@@ -4876,10 +5998,15 @@ what's wrong with relying on client-side JS for input sanitization.
 - C) Both A and B
 - D) attackers bypass client-side code, sending malicious requests straight to server (e.g. via Burp Suite)
 
-**✅ Correct Answer:** `D) attackers bypass client-side code, sending malicious requests straight to server (e.g. via Burp Suite)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) attackers bypass client-side code, sending malicious requests straight to server (e.g. via Burp Suite)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4898,10 +6025,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to SQL Injection; parameteri
 - D) SQL Injection; parameterized queries (prepared statements)
 
-**✅ Correct Answer:** `D) SQL Injection; parameterized queries (prepared statements)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-input never treated as code.
+> **✅ Correct Answer:** `D) SQL Injection; parameterized queries (prepared statements)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> input never treated as code.
+
+</details>
 
 ---
 
@@ -4920,10 +6052,15 @@ which crypto method proves a sender actually sent a document (non-repudiation).
 - C) None of the listed implementations
 - D) igital signatures (sender's private key
 
-**✅ Correct Answer:** `D) igital signatures (sender's private key`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-hashing gives integrity only.
+> **✅ Correct Answer:** `D) igital signatures (sender's private key`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> hashing gives integrity only.
+
+</details>
 
 ---
 
@@ -4942,10 +6079,15 @@ best encryption design for large transfers (performance).
 - C) Contradictory hypothesis to asymmetric (RSA/ECC) for 
 - D) asymmetric (RSA/ECC) for key exchange + symmetric (AES) for data
 
-**✅ Correct Answer:** `D) asymmetric (RSA/ECC) for key exchange + symmetric (AES) for data`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-hybrid = how TLS works.
+> **✅ Correct Answer:** `D) asymmetric (RSA/ECC) for key exchange + symmetric (AES) for data`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> hybrid = how TLS works.
+
+</details>
 
 ---
 
@@ -4964,10 +6106,15 @@ pen tester has low-priv shell, wants admin — which attack phase.
 - C) Post-Exploitation (privilege escalation)
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Post-Exploitation (privilege escalation)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Post-Exploitation (privilege escalation)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4986,10 +6133,15 @@ scanner flags vuln already mitigated by manual hardening — action?
 - C) Contradictory hypothesis to accept risk, mark "False 
 - D) accept risk, mark "False Positive"/"Mitigated by Compensating Control", document it
 
-**✅ Correct Answer:** `D) accept risk, mark "False Positive"/"Mitigated by Compensating Control", document it`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) accept risk, mark "False Positive"/"Mitigated by Compensating Control", document it`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5008,10 +6160,15 @@ EU "Right to Erasure" — CIA triad area + implementation.
 - C) onfidentiality and Integrity; data-retention/disposal policy with auditable deletion
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) onfidentiality and Integrity; data-retention/disposal policy with auditable deletion`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) onfidentiality and Integrity; data-retention/disposal policy with auditable deletion`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5030,10 +6187,15 @@ Risk A (high likelihood, low impact) vs Risk B (low likelihood, high impact) —
 - C) Risk B
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Risk B`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-high impact outweighs.
+> **✅ Correct Answer:** `C) Risk B`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> high impact outweighs.
+
+</details>
 
 ---
 
@@ -5052,10 +6214,15 @@ distributed ledger, all nodes agree on shared immutable history — what enables
 - C) Legacy standard alternative
 - D) hashing + consensus algorithm (PoW/PoS)
 
-**✅ Correct Answer:** `D) hashing + consensus algorithm (PoW/PoS)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) hashing + consensus algorithm (PoW/PoS)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5074,10 +6241,15 @@ thousands of open-source deps, SolarWinds-style risk — best proactive tool?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Software Composition Analysis (SCA) scanning deps for vulns/licenses`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Software Composition Analysis (SCA) scanning deps for vulns/licenses`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5096,10 +6268,15 @@ personalized email from seemingly legit vendor citing real transaction, asking t
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Spear phishing — targeted
 
-**✅ Correct Answer:** `B) Spear phishing — targeted with tailored info`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Spear phishing — targeted with tailored info`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5118,10 +6295,15 @@ data encrypted before leaving app, stays encrypted at rest, key inaccessible to 
 - C) lient-Side Encryption with customer-managed key from third-party KMS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) lient-Side Encryption with customer-managed key from third-party KMS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) lient-Side Encryption with customer-managed key from third-party KMS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5140,10 +6322,15 @@ in network forensics, which artifact indicates LAN MITM?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) RP replies mapping same MAC to two different IPs (ARP poisoning`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) RP replies mapping same MAC to two different IPs (ARP poisoning`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5162,10 +6349,15 @@ ransomware exfiltrating via DNS TXT records — channel + why it evades?
 - C) None of the listed implementations
 - D) NS tunneling — DNS almost always permitted outbound, rarely deeply inspected
 
-**✅ Correct Answer:** `D) NS tunneling — DNS almost always permitted outbound, rarely deeply inspected`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) NS tunneling — DNS almost always permitted outbound, rarely deeply inspected`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5184,10 +6376,15 @@ XXE vulnerability — critical failures from exploitation?
 - C) Contradictory hypothesis to disclosure of local serve
 - D) disclosure of local server files, or SSRF against internal systems
 
-**✅ Correct Answer:** `D) disclosure of local server files, or SSRF against internal systems`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) disclosure of local server files, or SSRF against internal systems`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5206,10 +6403,15 @@ encryption key hardcoded in source repo — violated principle + risk?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) key confidentiality/secure storage — total data compromise if repo breached`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) key confidentiality/secure storage — total data compromise if repo breached`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5228,10 +6430,15 @@ policy says "Critical" vulns fixed in 7 days, but owner claims non-prod/air-gapp
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to formal risk exception/acc
 
-**✅ Correct Answer:** `A) formal risk exception/acceptance with documentation, C-level approval, compensating-control review`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) formal risk exception/acceptance with documentation, C-level approval, compensating-control review`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5250,10 +6457,15 @@ industry-standard protocol for cross-domain auth + claims authorization (SSO)?
 - C) SAML
 - D) Contradictory hypothesis to SAML
 
-**✅ Correct Answer:** `C) SAML`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SAML`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5272,10 +6484,15 @@ company with remote sites/workers needs secure remote access — which VPN?
 - C) IPSec VPN
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) IPSec VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-secure, corporate-compatible (PPTP outdated).
+> **✅ Correct Answer:** `C) IPSec VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> secure, corporate-compatible (PPTP outdated).
+
+</details>
 
 ---
 
@@ -5294,10 +6511,15 @@ attack injecting malicious routes to mis-forward traffic?
 - C) Contradictory hypothesis to routing table poisoning (
 - D) routing table poisoning (route hijacking)
 
-**✅ Correct Answer:** `D) routing table poisoning (route hijacking)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) routing table poisoning (route hijacking)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5316,10 +6538,15 @@ audit finds IoT on outdated protocols — action?
 - C) upgrade to secure protocols
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) upgrade to secure protocols`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) upgrade to secure protocols`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5338,10 +6565,15 @@ web server vulnerable to SQL injection — fix?
 - C) Contradictory hypothesis to sanitize/validate user in
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) sanitize/validate user inputs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) sanitize/validate user inputs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5360,10 +6592,15 @@ official company URL redirects to fake login — attack?
 - C) None of the listed implementations
 - D) NS hijacking (vs MITM = live interception
 
-**✅ Correct Answer:** `D) NS hijacking (vs MITM = live interception`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) NS hijacking (vs MITM = live interception`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5382,10 +6619,15 @@ clicked link downloads script that self-spreads across network — malware?
 - C) Worm
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Worm`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Worm`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5404,10 +6646,15 @@ security device actively blocking malicious traffic (not just detecting)?
 - C) IPS (vs IDS detects, SIEM correlates, NAC controls access)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) IPS (vs IDS detects, SIEM correlates, NAC controls access)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) IPS (vs IDS detects, SIEM correlates, NAC controls access)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5426,10 +6673,15 @@ primary benefit of data-center micro-segmentation?
 - C) Contradictory hypothesis to restricts lateral movemen
 - D) Both A and B
 
-**✅ Correct Answer:** `A) restricts lateral movement after foothold`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) restricts lateral movement after foothold`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5448,10 +6700,15 @@ ALE given SLE $500,000 and 4 failures/year?
 - C) Contradictory hypothesis to $2,000,000
 - D) $2,000,000
 
-**✅ Correct Answer:** `D) $2,000,000`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-ALE = SLE × ARO.
+> **✅ Correct Answer:** `D) $2,000,000`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> ALE = SLE × ARO.
+
+</details>
 
 ---
 
@@ -5470,10 +6727,15 @@ new worm, constantly changing payload signature — type?
 - C) Both A and B
 - D) Polymorphic malware
 
-**✅ Correct Answer:** `D) Polymorphic malware`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Polymorphic malware`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5492,10 +6754,15 @@ smart camera auto-connects to unknown open Wi-Fi — vulnerability?
 - C) Contradictory hypothesis to rogue access point / back
 - D) Both A and B
 
-**✅ Correct Answer:** `A) rogue access point / backdoor bridge`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) rogue access point / backdoor bridge`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5514,10 +6781,15 @@ Zero Trust best description?
 - C) Legacy standard alternative
 - D) "Never trust, always verify."
 
-**✅ Correct Answer:** `D) "Never trust, always verify."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Never trust, always verify."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5536,10 +6808,15 @@ app protected by WAF + IPS + strong access — principle?
 - C) None of the listed implementations
 - D) efense in depth
 
-**✅ Correct Answer:** `D) efense in depth`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) efense in depth`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5558,10 +6835,15 @@ main goal of SOAR adoption?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) reduce MTTR by automating repetitive IR tasks`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) reduce MTTR by automating repetitive IR tasks`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5580,10 +6862,15 @@ technique giving integrity + authenticity with one shared symmetric key?
 - C) Legacy standard alternative
 - D) HMAC
 
-**✅ Correct Answer:** `D) HMAC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) HMAC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5602,10 +6889,15 @@ bank breached via over-permissioned serverless fn with cross-account S3 — fail
 - C) Contradictory hypothesis to least-privilege violation
 - D) Both A and B
 
-**✅ Correct Answer:** `B) least-privilege violation + shadow-IT governance failure`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) least-privilege violation + shadow-IT governance failure`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5624,10 +6916,15 @@ critical RCE in popular open-source logging lib — best containment before patc
 - C) Contradictory hypothesis to restrict all outbound con
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) restrict all outbound connections via firewall/security groups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) restrict all outbound connections via firewall/security groups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5646,10 +6943,15 @@ employee copied customer list to USB then deleted it; process logging off — mi
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) the exact command line of the copy utility`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) the exact command line of the copy utility`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5668,10 +6970,15 @@ Alex installed free unreleased "Cosmic Quest" from sketchy forum — infection?
 - C) Contradictory hypothesis to Trojan horse
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) Trojan horse`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Trojan horse`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5690,10 +6997,15 @@ Maria got urgent fake "IT Helpdesk" email asking for sensitive info — best def
 - C) Contradictory hypothesis to spam filtering + domain w
 - D) Both A and B
 
-**✅ Correct Answer:** `B) spam filtering + domain whitelisting`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) spam filtering + domain whitelisting`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5712,10 +7024,15 @@ who invented OOP?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) lan Kay (Goldberg → Smalltalk; Ritchie → C`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) lan Kay (Goldberg → Smalltalk; Ritchie → C`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5734,10 +7051,15 @@ which is NOT a general OOP feature?
 - C) duplicate/redundant data
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) duplicate/redundant data`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) duplicate/redundant data`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5756,10 +7078,15 @@ which is NOT a basic OOP concept?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Functions
 
-**✅ Correct Answer:** `B) Functions`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Functions`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5778,10 +7105,15 @@ output of Python snippet (Animal/Dog, overridden speak()).
 - C) "barks"
 - D) Contradictory hypothesis to "barks"
 
-**✅ Correct Answer:** `C) "barks"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "barks"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5800,10 +7132,15 @@ Java class-creation keyword?
 - C) Legacy standard alternative
 - D) class
 
-**✅ Correct Answer:** `D) class`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) class`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5822,10 +7159,15 @@ which OOP feature indicates reusability?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Inheritance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Inheritance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5844,10 +7186,15 @@ specifier applying to constructors only?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Explicit (prevents implicit conversions)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Explicit (prevents implicit conversions)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5866,10 +7213,15 @@ a constructor _______.
 - C) has no return type (not even void)
 - D) Contradictory hypothesis to has no return type (not e
 
-**✅ Correct Answer:** `C) has no return type (not even void)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) has no return type (not even void)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5888,10 +7240,15 @@ where is object memory allocated?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to RAM
 
-**✅ Correct Answer:** `B) RAM`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) RAM`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5910,10 +7267,15 @@ what determines when a variable comes into existence in memory?
 - C) Contradictory hypothesis to Storage class
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Storage class`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Storage class`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5932,10 +7294,15 @@ correct constructor name?
 - C) same as the class
 - D) Both A and B
 
-**✅ Correct Answer:** `C) same as the class`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) same as the class`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5954,10 +7321,15 @@ how to access class data members?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to dot or arrow operator as 
 
-**✅ Correct Answer:** `B) dot or arrow operator as required`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) dot or arrow operator as required`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5976,10 +7348,15 @@ total C++ access specifiers?
 - C) Legacy standard alternative
 - D) 3 (private, public, protected)
 
-**✅ Correct Answer:** `D) 3 (private, public, protected)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 3 (private, public, protected)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5998,10 +7375,15 @@ instances of an abstract class creatable?
 - C) 3
 - D) 7
 
-**✅ Correct Answer:** `B) 0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6020,10 +7402,15 @@ why is Java only partially object-oriented?
 - C) Contradictory hypothesis to primitive data type decla
 - D) primitive data type declarations
 
-**✅ Correct Answer:** `D) primitive data type declarations`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) primitive data type declarations`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6042,10 +7429,15 @@ correct inheritance syntax?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) class derived : access base { ... };`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) class derived : access base { ... };`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6064,10 +7456,15 @@ which OOP features in given code (classes + inheriting student)?
 - C) Encapsulation and Inheritance
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Encapsulation and Inheritance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Encapsulation and Inheritance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6086,10 +7483,15 @@ by which feature does one object interact with another?
 - C) Both A and B
 - D) Message passing
 
-**✅ Correct Answer:** `D) Message passing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Message passing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6108,10 +7510,15 @@ for a pure OOP language, which is true?
 - C) Both A and B
 - D) Contradictory hypothesis to must follow all OOP rules
 
-**✅ Correct Answer:** `A) must follow all OOP rules`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) must follow all OOP rules`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6130,10 +7537,15 @@ which is NOT true about polymorphism?
 - C) Legacy standard alternative
 - D) it always increases function-definition overhead
 
-**✅ Correct Answer:** `D) it always increases function-definition overhead`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) it always increases function-definition overhead`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6152,10 +7564,15 @@ which constructor runs (C++ code, default + one-default-arg ctors)?
 - C) ompile-time error (ambiguous
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompile-time error (ambiguous`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompile-time error (ambiguous`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6174,10 +7591,15 @@ which can show polymorphism?
 - C) Legacy standard alternative
 - D) Overloading <<
 
-**✅ Correct Answer:** `D) Overloading <<`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Overloading <<`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6196,10 +7618,15 @@ in which access should a constructor be defined for objects creatable in any fun
 - C) Legacy standard alternative
 - D) Public
 
-**✅ Correct Answer:** `D) Public`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Public`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6218,10 +7645,15 @@ class with single-arg constructor — correct?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) runs; all objects created (conversion ctor)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) runs; all objects created (conversion ctor)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6240,10 +7672,15 @@ copy constructors can be used to ______?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) copy an object to pass to a function`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) copy an object to pass to a function`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6262,10 +7699,15 @@ class defined, no instance, method called — error?
 - C) ompilation error
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompilation error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompilation error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6284,10 +7726,15 @@ Car with no-arg drive() — correct call?
 - C) Both A and B
 - D) Contradictory hypothesis to myCar.drive()
 
-**✅ Correct Answer:** `A) myCar.drive()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) myCar.drive()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6306,10 +7753,15 @@ what best describes an object's "state"?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) data stored within the object`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) data stored within the object`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6328,10 +7780,15 @@ what best describes an instance variable?
 - C) Contradictory hypothesis to variable unique to each i
 - D) Both A and B
 
-**✅ Correct Answer:** `B) variable unique to each instance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) variable unique to each instance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6350,10 +7807,15 @@ output of Box program (ctor sets width=5)?
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6372,10 +7834,15 @@ output of code (increment()/getCount(), no main)?
 - C) Contradictory hypothesis to None of the above (compil
 - D) None of the above (compiles, nothing executes)
 
-**✅ Correct Answer:** `D) None of the above (compiles, nothing executes)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) None of the above (compiles, nothing executes)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6394,10 +7861,15 @@ per encapsulation, private age with getter/setter?
 - C) Contradictory hypothesis to private int age; public g
 - D) Both A and B
 
-**✅ Correct Answer:** `A) private int age; public getAge()/setAge()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) private int age; public getAge()/setAge()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6416,10 +7888,15 @@ what's wrong (static setScore accessing instance var)?
 - C) Both A and B
 - D) Contradictory hypothesis to setScore can't be static
 
-**✅ Correct Answer:** `A) setScore can't be static`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) setScore can't be static`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6438,10 +7915,15 @@ after adding feature, object creation fails — likely cause?
 - C) class not recompiled
 - D) Contradictory hypothesis to class not recompiled
 
-**✅ Correct Answer:** `C) class not recompiled`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) class not recompiled`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6460,10 +7942,15 @@ inheriting base, then another from derived — which inheritance?
 - C) Contradictory hypothesis to Multi-level
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Multi-level`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Multi-level`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6482,10 +7969,15 @@ feature enforcing abstract-function definitions at derived level?
 - C) None of the listed implementations
 - D) ynamic polymorphism
 
-**✅ Correct Answer:** `D) ynamic polymorphism`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ynamic polymorphism`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6504,10 +7996,15 @@ class called in main directly with public member fn — result?
 - C) Undeclared function error
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Undeclared function error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Undeclared function error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6526,10 +8023,15 @@ total C++ constructor types?
 - C) Legacy standard alternative
 - D) 3 (default, parameterized, copy)
 
-**✅ Correct Answer:** `D) 3 (default, parameterized, copy)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 3 (default, parameterized, copy)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6548,10 +8050,15 @@ total C++ polymorphism types?
 - C) Contradictory hypothesis to 2 (runtime, compile-time)
 - D) 2 (runtime, compile-time)
 
-**✅ Correct Answer:** `D) 2 (runtime, compile-time)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 2 (runtime, compile-time)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6570,10 +8077,15 @@ a virtual function should be ______?
 - C) public
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) public`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) public`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6592,10 +8104,15 @@ how many catch blocks per try?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) as many as needed`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) as many as needed`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6614,10 +8131,15 @@ when is object created with new?
 - C) Both A and B
 - D) at run time
 
-**✅ Correct Answer:** `D) at run time`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) at run time`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6636,10 +8158,15 @@ which functions can be inherited from base?
 - C) Contradictory hypothesis to none (constructor, destru
 - D) none (constructor, destructor, static)
 
-**✅ Correct Answer:** `D) none (constructor, destructor, static)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) none (constructor, destructor, static)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6658,10 +8185,15 @@ another name for generic class?
 - C) Contradictory hypothesis to Template class
 - D) Template class
 
-**✅ Correct Answer:** `D) Template class`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Template class`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6680,10 +8212,15 @@ function overriding shows which feature?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Polymorphism`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Polymorphism`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6702,10 +8239,15 @@ which frees C++ object memory?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) delete`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) delete`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6724,10 +8266,15 @@ which ctor called for obj2 (two args)?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) int y, int x`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) int y, int x`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6746,10 +8293,15 @@ what happens passing object by reference?
 - C) Contradictory hypothesis to destructor is not called
 - D) Both A and B
 
-**✅ Correct Answer:** `B) destructor is not called`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) destructor is not called`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6768,10 +8320,15 @@ which is NOT an object property?
 - C) Both A and B
 - D) Names
 
-**✅ Correct Answer:** `D) Names`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Names`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6790,10 +8347,15 @@ keyword declaring virtual functions?
 - C) virtual
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) virtual`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) virtual`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6812,10 +8374,15 @@ non-static members in static member fn?
 - C) ompile-time error
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompile-time error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompile-time error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6834,10 +8401,15 @@ how can a private member function be accessed?
 - C) Contradictory hypothesis to via its address
 - D) via its address
 
-**✅ Correct Answer:** `D) via its address`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) via its address`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6856,10 +8428,15 @@ which classes illustrate polymorphism (student/topper/average code)?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) student, topper, average together`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) student, topper, average together`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6878,10 +8455,15 @@ ______ underlines polymorphism in a class?
 - C) Both A and B
 - D) Virtual Function
 
-**✅ Correct Answer:** `D) Virtual Function`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Virtual Function`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6900,10 +8482,15 @@ which ctor declaration is correct?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) class student{ public: student(){} }; (no return type)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) class student{ public: student(){} }; (no return type)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6922,10 +8509,15 @@ class with only default-arg parameterized ctor; no-arg object creation?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) succeeds (defaults supply values)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) succeeds (defaults supply values)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6944,10 +8536,15 @@ B inherits A (protected add() + public members) — which can B's object call?
 - C) Contradictory hypothesis to none of them
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) none of them`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) none of them`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6966,10 +8563,15 @@ output of Java Malloc code?
 - C) 203
 - D) 207
 
-**✅ Correct Answer:** `B) 200`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 200`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6988,10 +8590,15 @@ output (left-shift)?
 - C) 83
 - D) 87
 
-**✅ Correct Answer:** `B) 80`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-shift = ×2^n.
+> **✅ Correct Answer:** `B) 80`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> shift = ×2^n.
+
+</details>
 
 ---
 
@@ -7010,10 +8617,15 @@ shift = ×2^n.
 - C) Contradictory hypothesis to True
 - D) Both A and B
 
-**✅ Correct Answer:** `A) True`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) True`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7032,10 +8644,15 @@ last step in Java programming process?
 - C) Contradictory hypothesis to program execution
 - D) Both A and B
 
-**✅ Correct Answer:** `B) program execution`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) program execution`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7054,10 +8671,15 @@ valid Java identifier?
 - C) _identifier
 - D) Contradictory hypothesis to _identifier
 
-**✅ Correct Answer:** `C) _identifier`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) _identifier`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7076,10 +8698,15 @@ Integer in Java is a/an ______?
 - C) Contradictory hypothesis to Wrapper class
 - D) Wrapper class
 
-**✅ Correct Answer:** `D) Wrapper class`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Wrapper class`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7098,10 +8725,15 @@ what is super() for?
 - C) Both A and B
 - D) Contradictory hypothesis to call parent class constru
 
-**✅ Correct Answer:** `B) call parent class constructor`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) call parent class constructor`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7120,10 +8752,15 @@ output (class B extends A, both define display())?
 - C) 5
 - D) 9
 
-**✅ Correct Answer:** `B) 2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-B's override runs.
+> **✅ Correct Answer:** `B) 2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> B's override runs.
+
+</details>
 
 ---
 
@@ -7142,10 +8779,15 @@ output (Vehicle/Car move())?
 - C) Legacy standard alternative
 - D) "The car moves"
 
-**✅ Correct Answer:** `D) "The car moves"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "The car moves"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7164,10 +8806,15 @@ output with inheritance (Sweet=)?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Sweet=20
 
-**✅ Correct Answer:** `B) Sweet=20`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Sweet=20`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7186,10 +8833,15 @@ access modifiers in increasing visibility?
 - C) Both A and B
 - D) private < default < protected < public
 
-**✅ Correct Answer:** `D) private < default < protected < public`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) private < default < protected < public`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7208,10 +8860,15 @@ package storing all standard Java classes?
 - C) Both A and B
 - D) java.lang
 
-**✅ Correct Answer:** `D) java.lang`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) java.lang`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7230,10 +8887,15 @@ output with interface (variable reassignment)?
 - C) ompiler error (interface vars are constants
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompiler error (interface vars are constants`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompiler error (interface vars are constants`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7252,10 +8914,15 @@ output (for loop with i++)?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) 1 3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 1 3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7274,10 +8941,15 @@ output (Thread.activeCount())?
 - C) 4
 - D) 8
 
-**✅ Correct Answer:** `B) 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7296,10 +8968,15 @@ which class creates a new directory?
 - C) File
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) File`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) File`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7318,10 +8995,15 @@ which class reads a file line by line?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) ufferedReader`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ufferedReader`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7340,10 +9022,15 @@ which method resizes a java.awt.Component?
 - C) Both A and B
 - D) setSize()
 
-**✅ Correct Answer:** `D) setSize()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) setSize()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7362,10 +9049,15 @@ what's true (OK/Cancel buttons on JFrame)?
 - C) Both A and B
 - D) both added, only Cancel visible (BorderLayout overlap)
 
-**✅ Correct Answer:** `D) both added, only Cancel visible (BorderLayout overlap)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) both added, only Cancel visible (BorderLayout overlap)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7384,10 +9076,15 @@ what happens on button click?
 - C) Contradictory hypothesis to message dialog "Welcome t
 - D) message dialog "Welcome to the course"
 
-**✅ Correct Answer:** `D) message dialog "Welcome to the course"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) message dialog "Welcome to the course"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7406,10 +9103,15 @@ which GUI component inputs a password?
 - C) Contradictory hypothesis to JPasswordField
 - D) Both A and B
 
-**✅ Correct Answer:** `B) JPasswordField`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) JPasswordField`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7428,10 +9130,15 @@ which exception signals JDBC connectivity failure?
 - C) Contradictory hypothesis to SQLException
 - D) Both A and B
 
-**✅ Correct Answer:** `A) SQLException`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) SQLException`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7450,10 +9157,15 @@ output of the Java code?
 - C) ompiler error
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompiler error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompiler error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7472,10 +9184,15 @@ primary focus of Java?
 - C) Platform independence (JVM)
 - D) Contradictory hypothesis to Platform independence (JV
 
-**✅ Correct Answer:** `C) Platform independence (JVM)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Platform independence (JVM)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7494,10 +9211,15 @@ valid object declaration of class NPTEL?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) NPTEL obj = new NPTEL ();`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) NPTEL obj = new NPTEL ();`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7516,10 +9238,15 @@ a default constructor ______?
 - C) Contradictory hypothesis to has no arguments
 - D) has no arguments
 
-**✅ Correct Answer:** `D) has no arguments`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) has no arguments`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7538,10 +9265,15 @@ constructor execution order in inheritance?
 - C) Contradictory hypothesis to base first, then derived
 - D) base first, then derived
 
-**✅ Correct Answer:** `D) base first, then derived`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) base first, then derived`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7560,10 +9292,15 @@ output of Java program with access modifiers (missing import)?
 - C) ompiler error
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompiler error`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompiler error`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7582,10 +9319,15 @@ incorrect statement about interfaces?
 - C) Legacy standard alternative
 - D) "All variables are static and methods are public if interface is defined public." (all members implicitly public)
 
-**✅ Correct Answer:** `D) "All variables are static and methods are public if interface is defined public." (all members implicitly public)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "All variables are static and methods are public if interface is defined public." (all members implicitly public)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7604,10 +9346,15 @@ output of exception-handling program?
 - C) ompile-time error (catch(Exception) first swallows all
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ompile-time error (catch(Exception) first swallows all`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ompile-time error (catch(Exception) first swallows all`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7626,10 +9373,15 @@ which stream reads data from a source?
 - C) Contradictory hypothesis to InputStream
 - D) Both A and B
 
-**✅ Correct Answer:** `B) InputStream`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) InputStream`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7648,10 +9400,15 @@ repaint() on Component invokes which method?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) update() (→ paint())`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) update() (→ paint())`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7670,10 +9427,15 @@ parent class of all AWT components?
 - C) java.awt.Component
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) java.awt.Component`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) java.awt.Component`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7692,10 +9454,15 @@ event on AWT button click?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) ctionListener (action event`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) ctionListener (action event`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7714,10 +9481,15 @@ which architecture does Swing use?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) MVC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) MVC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7736,10 +9508,15 @@ which class works with URLs?
 - C) Legacy standard alternative
 - D) URL
 
-**✅ Correct Answer:** `D) URL`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) URL`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7758,10 +9535,15 @@ what does the code do (JFrame + "JButon" "Programming in Java")?
 - C) creates JFrame with labeled JButon
 - D) Both A and B
 
-**✅ Correct Answer:** `C) creates JFrame with labeled JButon`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) creates JFrame with labeled JButon`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7780,10 +9562,15 @@ what's true about Statement.executeQuery()?
 - C) Contradictory hypothesis to executes a SELECT stateme
 - D) executes a SELECT statement
 
-**✅ Correct Answer:** `D) executes a SELECT statement`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) executes a SELECT statement`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7802,10 +9589,15 @@ which component manages a DB connection in JDBC?
 - C) None of the listed implementations
 - D) riverManager
 
-**✅ Correct Answer:** `D) riverManager`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) riverManager`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7824,10 +9616,15 @@ output (variable redefinition + undefined var)?
 - C) "There are two errors."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "There are two errors."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "There are two errors."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7846,10 +9643,15 @@ output of char-loop (ASCII 52, 5 iterations)?
 - C) 45681
 - D) 45685
 
-**✅ Correct Answer:** `B) 45678`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-'4' (52) increments → 4,5,6,7,8.
+> **✅ Correct Answer:** `B) 45678`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> '4' (52) increments → 4,5,6,7,8.
+
+</details>
 
 ---
 
@@ -7868,10 +9670,15 @@ primary purpose of PreparedStatement?
 - C) Legacy standard alternative
 - D) execute parameterized SQL queries
 
-**✅ Correct Answer:** `D) execute parameterized SQL queries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) execute parameterized SQL queries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -7890,9 +9697,14 @@ what happens on button click?
 - C) Contradictory hypothesis to message dialog "Welcome t
 - D) message dialog "Welcome to the course"
 
-**✅ Correct Answer:** `D) message dialog "Welcome to the course"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) message dialog "Welcome to the course"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

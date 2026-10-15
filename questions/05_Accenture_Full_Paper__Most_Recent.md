@@ -16,9 +16,12 @@
 output when button handler writes its onclick attribute?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 1](./images/mod5_q1_button_onclick.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for myFunction(this);
@@ -26,10 +29,15 @@ output when button handler writes its onclick attribute?
 - C) myFunction(this);
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) myFunction(this);`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-getAttribute returns the literal string.
+> **✅ Correct Answer:** `C) myFunction(this);`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> getAttribute returns the literal string.
+
+</details>
 
 ---
 
@@ -42,9 +50,12 @@ getAttribute returns the literal string.
 map +5 over [3,16,2,18]?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 2](./images/mod5_q2_array_map.svg)
+
+</details>
 
 **Options:**
 - A) 7, 20, 6, 22
@@ -52,10 +63,15 @@ map +5 over [3,16,2,18]?
 - C) 9, 22, 8, 24
 - D) 10, 23, 9, 25
 
-**✅ Correct Answer:** `B) 8, 21, 7, 23`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 8, 21, 7, 23`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -68,9 +84,12 @@ Verified Accenture placement test pattern.
 HTML tag for collapsible details?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 3](./images/mod5_q3_html_details.svg)
+
+</details>
 
 **Options:**
 - A) <div></div>
@@ -78,10 +97,15 @@ HTML tag for collapsible details?
 - C) <span></span>
 - D) <section></section>
 
-**✅ Correct Answer:** `B) <details></details>`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) <details></details>`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -94,9 +118,12 @@ Verified Accenture placement test pattern.
 CSS3 for pictured rounded square?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 4](./images/mod5_q4_css_rounded_square.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for border-radius: 20px 
@@ -104,10 +131,15 @@ CSS3 for pictured rounded square?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) border-radius: 20px 0 20px 0; `
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) border-radius: 20px 0 20px 0; `
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -120,9 +152,12 @@ Verified Accenture placement test pattern.
 Java Animal/Dog inheritance setup?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 5](./images/mod5_q5_oop_inheritance.svg)
+
+</details>
 
 **Options:**
 - A) class Dog extends Animal 
@@ -130,10 +165,15 @@ Java Animal/Dog inheritance setup?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) class Dog extends Animal `
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) class Dog extends Animal `
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -146,9 +186,12 @@ Verified Accenture placement test pattern.
 which is NOT a disadvantage of firewall+web-filter?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 6](./images/mod5_q6_firewall_webfilter.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for trust relationship; 
@@ -156,10 +199,15 @@ which is NOT a disadvantage of firewall+web-filter?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) trust relationship; compromise of one affects the other`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) trust relationship; compromise of one affects the other`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -172,9 +220,12 @@ Verified Accenture placement test pattern.
 Car class vs myCar object?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 7](./images/mod5_q7_class_vs_instance.svg)
+
+</details>
 
 **Options:**
 - A) Car is the class, myCar an instance
@@ -182,10 +233,15 @@ Car class vs myCar object?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) Car is the class, myCar an instance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Car is the class, myCar an instance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -198,9 +254,12 @@ Verified Accenture placement test pattern.
 polymorphism in TeaMac overloads?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 8](./images/mod5_q8_polymorphism.svg)
+
+</details>
 
 **Options:**
 - A) static polymorphism
@@ -208,10 +267,15 @@ polymorphism in TeaMac overloads?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) static polymorphism`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) static polymorphism`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -224,9 +288,12 @@ Verified Accenture placement test pattern.
 HTTP status for missing endpoint?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 9](./images/mod5_q9_http_404.svg)
+
+</details>
 
 **Options:**
 - A) 403
@@ -234,10 +301,15 @@ HTTP status for missing endpoint?
 - C) 405
 - D) 406
 
-**✅ Correct Answer:** `B) 404`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 404`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -250,9 +322,12 @@ Verified Accenture placement test pattern.
 API versioning for breaking changes?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 10](./images/mod5_q10_api_versioning.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for version in URL path
@@ -260,10 +335,15 @@ API versioning for breaking changes?
 - C) version in URL path
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) version in URL path`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) version in URL path`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -276,9 +356,12 @@ Verified Accenture placement test pattern.
 DevOps block storing versioned binaries?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 11](./images/mod5_q11_devops_artifacts.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for artifact management
@@ -286,10 +369,15 @@ DevOps block storing versioned binaries?
 - C) artifact management
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) artifact management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) artifact management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -302,9 +390,12 @@ Verified Accenture placement test pattern.
 Employee table primary key?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 12](./images/mod5_q12_employee_pk.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for EmployeeID
@@ -312,10 +403,15 @@ Employee table primary key?
 - C) EmployeeID
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) EmployeeID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) EmployeeID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -328,9 +424,12 @@ Verified Accenture placement test pattern.
 concurrency issue, updates overwriting?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 13](./images/mod5_q13_lost_update.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for lost update
@@ -338,10 +437,15 @@ concurrency issue, updates overwriting?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) lost update`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) lost update`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -354,9 +458,12 @@ Verified Accenture placement test pattern.
 first step for container latency?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 14](./images/mod5_q14_container_latency.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for analyze network traf
@@ -364,10 +471,15 @@ first step for container latency?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) analyze network traffic and logs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) analyze network traffic and logs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -380,9 +492,12 @@ Verified Accenture placement test pattern.
 purpose of network segmentation?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 15](./images/mod5_q15_network_segmentation.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for limiting spread of a
@@ -390,10 +505,15 @@ purpose of network segmentation?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) limiting spread of attacks`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) limiting spread of attacks`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -406,9 +526,12 @@ Verified Accenture placement test pattern.
 tunnel-mode encryption+integrity protocol?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 16](./images/mod5_q16_ipsec_esp.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for ESP
@@ -416,10 +539,15 @@ tunnel-mode encryption+integrity protocol?
 - C) ESP
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ESP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ESP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -432,9 +560,12 @@ Verified Accenture placement test pattern.
 VPN for remote employee?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 17](./images/mod5_q17_remote_vpn.svg)
+
+</details>
 
 **Options:**
 - A) remote-access VPN
@@ -442,10 +573,15 @@ VPN for remote employee?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) remote-access VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) remote-access VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -458,9 +594,12 @@ Verified Accenture placement test pattern.
 fast connectionless query-response protocol?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 18](./images/mod5_q18_dns_udp.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for DNS
@@ -468,10 +607,15 @@ fast connectionless query-response protocol?
 - C) DNS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) DNS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) DNS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -484,9 +628,12 @@ Verified Accenture placement test pattern.
 OSI layer for reliable delivery?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 19](./images/mod5_q19_osi_transport.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for transport layer
@@ -494,10 +641,15 @@ OSI layer for reliable delivery?
 - C) transport layer
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) transport layer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) transport layer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -510,9 +662,12 @@ Verified Accenture placement test pattern.
 single-device state-tracking firewall?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 20](./images/mod5_q20_stateful_inspection.svg)
+
+</details>
 
 **Options:**
 - A) stateful packet inspection
@@ -520,10 +675,15 @@ single-device state-tracking firewall?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) stateful packet inspection`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) stateful packet inspection`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -536,9 +696,12 @@ Verified Accenture placement test pattern.
 cloud use case for web office apps?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 21](./images/mod5_q21_cloud_saas.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for SaaS
@@ -546,10 +709,15 @@ cloud use case for web office apps?
 - C) SaaS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) SaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -562,9 +730,12 @@ Verified Accenture placement test pattern.
 layer integrating old+new data sources?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 22](./images/mod5_q22_data_abstraction.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for abstraction layer
@@ -572,10 +743,15 @@ layer integrating old+new data sources?
 - C) abstraction layer
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) abstraction layer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) abstraction layer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -588,9 +764,12 @@ Verified Accenture placement test pattern.
 most secure cloud model?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 23](./images/mod5_q23_private_cloud.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for private cloud
@@ -598,10 +777,15 @@ most secure cloud model?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) private cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) private cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -614,9 +798,12 @@ Verified Accenture placement test pattern.
 tech for multiple OSes on one machine?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 24](./images/mod5_q24_hypervisors.svg)
+
+</details>
 
 **Options:**
 - A) virtualization
@@ -624,10 +811,15 @@ tech for multiple OSes on one machine?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) virtualization`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) virtualization`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -640,9 +832,12 @@ Verified Accenture placement test pattern.
 cloud model with customer-chosen OS/network?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 25](./images/mod5_q25_iaas_model.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for IaaS
@@ -650,10 +845,15 @@ cloud model with customer-chosen OS/network?
 - C) IaaS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) IaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) IaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -666,9 +866,12 @@ Verified Accenture placement test pattern.
 how pooling gives storage elasticity?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 26](./images/mod5_q26_storage_pool.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for global-scale, reliab
@@ -676,10 +879,15 @@ how pooling gives storage elasticity?
 - C) global-scale, reliable, resilient storage
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) global-scale, reliable, resilient storage`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) global-scale, reliable, resilient storage`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -692,9 +900,12 @@ Verified Accenture placement test pattern.
 cause of substitution-cipher decryption data loss?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 27](./images/mod5_q27_substitution_cipher.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for decryption incorrect
@@ -702,10 +913,15 @@ cause of substitution-cipher decryption data loss?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) decryption incorrectly uses encryption key). FLAG: learner comment disputes, claims duplicate mappings from key collision — unreliable`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) decryption incorrectly uses encryption key). FLAG: learner comment disputes, claims duplicate mappings from key collision — unreliable`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -718,9 +934,12 @@ Verified Accenture placement test pattern.
 EAP with server-side certs only?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 28](./images/mod5_q28_peap_auth.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for PEAP
@@ -728,10 +947,15 @@ EAP with server-side certs only?
 - C) None of the listed implementations
 - D) PEAP
 
-**✅ Correct Answer:** `D) PEAP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) PEAP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -744,9 +968,12 @@ Verified Accenture placement test pattern.
 SQL counting 'm' in FirstandLastName?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 29](./images/mod5_q29_sql_length_replace.svg)
+
+</details>
 
 **Options:**
 - A) GET ... LENGTH−LENGTH(REPLACE(...,'m','')) FROM StudentDetails
@@ -754,10 +981,15 @@ SQL counting 'm' in FirstandLastName?
 - C) SELECT ... LENGTH−LENGTH(REPLACE(...,'m','')) FROM StudentDetails
 - D) SELECT ... LENGTH−LENGTH(REPLACE(...,'m','')) FROM StudentDetails
 
-**✅ Correct Answer:** `D) SELECT ... LENGTH−LENGTH(REPLACE(...,'m','')) FROM StudentDetails`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) SELECT ... LENGTH−LENGTH(REPLACE(...,'m','')) FROM StudentDetails`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -770,9 +1002,12 @@ Verified Accenture placement test pattern.
 SQL showing students without marks?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 30](./images/mod5_q30_sql_left_join_null.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for LEFT JOIN StudentMar
@@ -780,10 +1015,15 @@ SQL showing students without marks?
 - C) LEFT JOIN StudentMark ON StudentId
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) LEFT JOIN StudentMark ON StudentId`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) LEFT JOIN StudentMark ON StudentId`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -796,9 +1036,12 @@ Verified Accenture placement test pattern.
 pseudocode init ages, print 2nd element?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 31](./images/mod5_q31_array_indexing.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for PRINT ages[1], 0-bas
@@ -806,10 +1049,15 @@ pseudocode init ages, print 2nd element?
 - C) PRINT ages[1], 0-based
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) PRINT ages[1], 0-based`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) PRINT ages[1], 0-based`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -822,9 +1070,12 @@ Verified Accenture placement test pattern.
 which string prints "Valid" for [a-zA-Z0-9]{6}?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 32](./images/mod5_q32_regex_alphanumeric.svg)
+
+</details>
 
 **Options:**
 - A) arun32
@@ -832,10 +1083,15 @@ which string prints "Valid" for [a-zA-Z0-9]{6}?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) arun32`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) arun32`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -848,9 +1104,12 @@ Verified Accenture placement test pattern.
 bitwise loop output (a=8,b=5,c=6)?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 33](./images/mod5_q33_bitwise_loop.svg)
+
+</details>
 
 **Options:**
 - A) 64
@@ -858,10 +1117,15 @@ bitwise loop output (a=8,b=5,c=6)?
 - C) 67
 - D) 65
 
-**✅ Correct Answer:** `D) 65`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-b→33→57; a+b=65.
+> **✅ Correct Answer:** `D) 65`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> b→33→57; a+b=65.
+
+</details>
 
 ---
 
@@ -874,9 +1138,12 @@ b→33→57; a+b=65.
 2D-array bitwise output?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 34](./images/mod5_q34_2d_array_trace.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for 4.0
@@ -884,10 +1151,15 @@ b→33→57; a+b=65.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) 4.0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-first AND=0, condition false, 10&1=0.
+> **✅ Correct Answer:** `B) 4.0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> first AND=0, condition false, 10&1=0.
+
+</details>
 
 ---
 
@@ -900,9 +1172,12 @@ first AND=0, condition false, 10&1=0.
 what does recursive cal() compute?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 35](./images/mod5_q35_factorial_recursion.svg)
+
+</details>
 
 **Options:**
 - A) factorial
@@ -910,10 +1185,15 @@ what does recursive cal() compute?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) factorial`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) factorial`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -926,9 +1206,12 @@ Verified Accenture placement test pattern.
 nested-if output (a=0,b=2,c=7)?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 36](./images/mod5_q36_nested_if.svg)
+
+</details>
 
 **Options:**
 - A) 8
@@ -936,10 +1219,15 @@ nested-if output (a=0,b=2,c=7)?
 - C) 10
 - D) 11
 
-**✅ Correct Answer:** `B) 9`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 9`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -952,9 +1240,12 @@ Verified Accenture placement test pattern.
 bitwise/XOR output (p=4,q=8,r=6)?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 37](./images/mod5_q37_bitwise_xor.svg)
+
+</details>
 
 **Options:**
 - A) 54
@@ -962,10 +1253,15 @@ bitwise/XOR output (p=4,q=8,r=6)?
 - C) 55
 - D) 57
 
-**✅ Correct Answer:** `C) 55`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-q=23, r=28, sum=55.
+> **✅ Correct Answer:** `C) 55`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> q=23, r=28, sum=55.
+
+</details>
 
 ---
 
@@ -978,9 +1274,12 @@ q=23, r=28, sum=55.
 funn output (a=1,b=6,c=7)?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 38](./images/mod5_q38_funn_recursion.svg)
+
+</details>
 
 **Options:**
 - A) 14
@@ -988,10 +1287,15 @@ funn output (a=1,b=6,c=7)?
 - C) 15
 - D) 16
 
-**✅ Correct Answer:** `A) 14`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-16<7 false; returns 1+6+7.
+> **✅ Correct Answer:** `A) 14`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 16<7 false; returns 1+6+7.
+
+</details>
 
 ---
 
@@ -1004,9 +1308,12 @@ funn output (a=1,b=6,c=7)?
 motherboard data/address/control pathway?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 39](./images/mod5_q39_system_bus.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for system bus
@@ -1014,10 +1321,15 @@ motherboard data/address/control pathway?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) system bus`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) system bus`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1030,9 +1342,12 @@ Verified Accenture placement test pattern.
 device with cached device controllers?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 40](./images/mod5_q40_eide_controller.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for enhanced integrated 
@@ -1040,10 +1355,15 @@ device with cached device controllers?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) enhanced integrated drive electronics`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) enhanced integrated drive electronics`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1056,9 +1376,12 @@ Verified Accenture placement test pattern.
 key file-management function beyond create/delete?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 41](./images/mod5_q41_file_permissions.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for manage file permissi
@@ -1066,10 +1389,15 @@ key file-management function beyond create/delete?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) manage file permissions and access control`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) manage file permissions and access control`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1082,9 +1410,12 @@ Verified Accenture placement test pattern.
 PowerPoint auto-highlight bullets one by one?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 42](./images/mod5_q42_ppt_animation.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for By Paragraph animati
@@ -1092,10 +1423,15 @@ PowerPoint auto-highlight bullets one by one?
 - C) By Paragraph animation
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) By Paragraph animation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) By Paragraph animation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1108,9 +1444,12 @@ Verified Accenture placement test pattern.
 Word shortcut for today's date?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 43](./images/mod5_q43_word_date_shortcut.svg)
+
+</details>
 
 **Options:**
 - A) Alt+Shift+D
@@ -1118,10 +1457,15 @@ Word shortcut for today's date?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) Alt+Shift+D`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Alt+Shift+D`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1134,9 +1478,12 @@ Verified Accenture placement test pattern.
 INDEX/MATCH for max unit price?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 44](./images/mod5_q44_excel_index_match.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for Laptop, price 850
@@ -1144,10 +1491,15 @@ INDEX/MATCH for max unit price?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) Laptop, price 850`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Laptop, price 850`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1160,9 +1512,12 @@ Verified Accenture placement test pattern.
 OS feature to harden after breach?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Accenture Full Paper (Exact With Solution)"] Question 45](./images/mod5_q45_access_control.svg)
+
+</details>
 
 **Options:**
 - A) access control
@@ -1170,9 +1525,14 @@ OS feature to harden after breach?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) access control`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) access control`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

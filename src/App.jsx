@@ -18,6 +18,7 @@ export default function App() {
   // User responses & revealed solutions
   const [userAnswers, setUserAnswers] = useState({});
   const [revealedSolutions, setRevealedSolutions] = useState(new Set());
+  const [revealedImages, setRevealedImages] = useState(new Set());
 
   // Completed curriculum lessons
   const [completedItems, setCompletedItems] = useState(() => {
@@ -79,7 +80,21 @@ export default function App() {
   };
 
   const toggleSolution = (qId) => {
+    const willReveal = !revealedSolutions.has(qId);
     setRevealedSolutions(prev => {
+      const next = new Set(prev);
+      if (!willReveal) next.delete(qId);
+      else next.add(qId);
+      return next;
+    });
+    // When revealing answer, also unmask accompanying image diagram
+    if (willReveal) {
+      setRevealedImages(prev => new Set(prev).add(qId));
+    }
+  };
+
+  const toggleImageSpoiler = (qId) => {
+    setRevealedImages(prev => {
       const next = new Set(prev);
       if (next.has(qId)) next.delete(qId);
       else next.add(qId);
@@ -87,9 +102,21 @@ export default function App() {
     });
   };
 
+  const toggleAllSpoilers = () => {
+    if (revealedSolutions.size > 0 || revealedImages.size > 0) {
+      setRevealedSolutions(new Set());
+      setRevealedImages(new Set());
+    } else {
+      const allIds = new Set(allFlattenedQuestions.map(q => q.id));
+      setRevealedSolutions(allIds);
+      setRevealedImages(allIds);
+    }
+  };
+
   const handleSelectOption = (qId, option) => {
     setUserAnswers(prev => ({ ...prev, [qId]: option }));
     setRevealedSolutions(prev => new Set(prev).add(qId));
+    setRevealedImages(prev => new Set(prev).add(qId));
   };
 
   const toggleModuleAccordion = (idx) => {
@@ -189,6 +216,7 @@ export default function App() {
   // Render question card
   const renderQuestion = (q, index) => {
     const isRevealed = revealedSolutions.has(q.id);
+    const isImageRevealed = revealedImages.has(q.id);
     const chosen = userAnswers[q.id];
 
     return (
@@ -209,14 +237,42 @@ export default function App() {
           {renderQuestionBody(q.question)}
         </div>
 
-        {/* Embedded Vector Diagram Blueprint */}
-        {q.imageSvg ? (
-          <div className="q-visual-wrapper" dangerouslySetInnerHTML={{ __html: q.imageSvg }} />
-        ) : q.imageSrc ? (
-          <div className="q-visual-wrapper">
-            <img src={q.imageSrc} alt={q.title || 'Question Diagram'} />
+        {/* Embedded Vector Diagram Blueprint with Tap to Reveal Spoiler */}
+        {(q.imageSvg || q.imageSrc) && (
+          <div className={`q-visual-wrapper ${!isImageRevealed ? 'is-spoiler' : 'is-revealed'}`}>
+            <div className="q-visual-content">
+              {q.imageSvg ? (
+                <div dangerouslySetInnerHTML={{ __html: q.imageSvg }} />
+              ) : (
+                <img src={q.imageSrc} alt={q.title || 'Question Diagram'} />
+              )}
+            </div>
+
+            {!isImageRevealed ? (
+              <button
+                type="button"
+                className="spoiler-image-overlay"
+                onClick={() => toggleImageSpoiler(q.id)}
+                title="Tap to reveal visual diagram"
+              >
+                <div className="spoiler-pill">
+                  <Eye size={15} />
+                  <span>Diagram Spoiler • Tap to Reveal</span>
+                </div>
+              </button>
+            ) : (
+              <button
+                type="button"
+                className="spoiler-rehide-btn"
+                onClick={() => toggleImageSpoiler(q.id)}
+                title="Hide / re-mask diagram"
+              >
+                <EyeOff size={12} />
+                <span>Hide Diagram</span>
+              </button>
+            )}
           </div>
-        ) : null}
+        )}
 
         {/* Options */}
         {q.options && q.options.length > 0 && (
@@ -254,32 +310,53 @@ export default function App() {
           </div>
         )}
 
-        {/* Action Toggle */}
+        {/* Interactive Answer & Explanation Spoiler with Tap to Reveal */}
         <div className="q-footer">
-          <button
-            type="button"
-            className="btn-toggle-answer"
-            onClick={() => toggleSolution(q.id)}
-          >
-            {isRevealed ? <EyeOff size={14} /> : <Eye size={14} />}
-            <span>{isRevealed ? 'Hide Explanation' : 'View Answer & Explanation'}</span>
-          </button>
-        </div>
+          <div className={`answer-spoiler-box ${isRevealed ? 'is-revealed' : 'is-masked'}`}>
+            {!isRevealed ? (
+              <button
+                type="button"
+                className="spoiler-trigger-btn"
+                onClick={() => toggleSolution(q.id)}
+              >
+                <div className="spoiler-trigger-left">
+                  <Eye size={15} className="spoiler-icon" />
+                  <span className="spoiler-title">Answer &amp; Explanation</span>
+                </div>
+                <span className="spoiler-badge-tap">Tap to reveal spoiler</span>
+              </button>
+            ) : (
+              <div className="spoiler-revealed-content">
+                <div className="spoiler-revealed-header">
+                  <div className="sol-badge">
+                    <CheckCircle2 size={14} />
+                    <span>Correct Answer</span>
+                  </div>
+                  <button
+                    type="button"
+                    className="btn-hide-spoiler"
+                    onClick={() => toggleSolution(q.id)}
+                    title="Hide answer spoiler"
+                  >
+                    <EyeOff size={13} />
+                    <span>Hide Answer</span>
+                  </button>
+                </div>
 
-        {/* Solution Drawer */}
-        {isRevealed && (
-          <div className="q-solution">
-            <div className="sol-answer">
-              <span className="sol-tag">Correct Answer</span>
-              <strong>{q.correctAnswer}</strong>
-            </div>
-            {q.explanation && (
-              <div className="sol-explanation">
-                {q.explanation.trim()}
+                <div className="sol-answer-text">
+                  {q.correctAnswer}
+                </div>
+
+                {q.explanation && (
+                  <div className="sol-explanation-text">
+                    <span className="exp-label">💡 Explanation &amp; Walkthrough:</span>
+                    <p>{q.explanation.trim()}</p>
+                  </div>
+                )}
               </div>
             )}
           </div>
-        )}
+        </div>
       </article>
     );
   };
@@ -461,6 +538,15 @@ export default function App() {
                     onClick={() => setQuestionFilter('CODING')}
                   >
                     💻 Coding &amp; SQL
+                  </button>
+                  <button
+                    type="button"
+                    className={`chip chip-spoiler ${revealedSolutions.size > 0 ? 'active' : ''}`}
+                    onClick={toggleAllSpoilers}
+                    title={revealedSolutions.size > 0 ? 'Mask all spoilers' : 'Reveal all spoilers'}
+                  >
+                    {revealedSolutions.size > 0 ? <EyeOff size={13} /> : <Eye size={13} />}
+                    <span>{revealedSolutions.size > 0 ? 'Mask Spoilers' : 'Reveal Spoilers'}</span>
                   </button>
                 </div>
               )}

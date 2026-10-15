@@ -22,10 +22,15 @@ which config line weakens WPA3 (SAE=Y, SUITEB=Y, SUITEB192=N)
 - C) `SUITEB192 = N`
 - D) Both A and B
 
-**✅ Correct Answer:** `C) `SUITEB192 = N``
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-192-bit mode is for high-security environments; disabling weakens protection.
+> **✅ Correct Answer:** `C) `SUITEB192 = N``
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 192-bit mode is for high-security environments; disabling weakens protection.
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ what's missing using WPA3-Personal vs Enterprise for government devices
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) 802.1X authentication`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Enterprise provides 802.1X; Personal lacks it.
+> **✅ Correct Answer:** `B) 802.1X authentication`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Enterprise provides 802.1X; Personal lacks it.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ impact of enabling TKIP on WPA3 for backward compatibility
 - C) reduces security (TKIP outdated)
 - D) Contradictory hypothesis to reduces security (TKIP ou
 
-**✅ Correct Answer:** `C) reduces security (TKIP outdated)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-TKIP is deprecated, below WPA3 standards.
+> **✅ Correct Answer:** `C) reduces security (TKIP outdated)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> TKIP is deprecated, below WPA3 standards.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ risk of open network with WPA3 SAE but no password
 - C) Contradictory hypothesis to unauthorized access
 - D) Both A and B
 
-**✅ Correct Answer:** `A) unauthorized access`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-open SSID lets anyone connect.
+> **✅ Correct Answer:** `A) unauthorized access`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> open SSID lets anyone connect.
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ risk of WPA3 SAE with weak password policy
 - C) Both A and B
 - D) brute-forceable passwords
 
-**✅ Correct Answer:** `D) brute-forceable passwords`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-SAE protects handshake, not weak passwords.
+> **✅ Correct Answer:** `D) brute-forceable passwords`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> SAE protects handshake, not weak passwords.
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ risk of disabling PMF
 - C) Both A and B
 - D) Contradictory hypothesis to deauthentication attacks
 
-**✅ Correct Answer:** `A) deauthentication attacks`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-PMF protects management frames from spoofing/DoS.
+> **✅ Correct Answer:** `A) deauthentication attacks`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> PMF protects management frames from spoofing/DoS.
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ consequence of `SUITEB192 = N` on classified network
 - C) breaks high-security compliance
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) breaks high-security compliance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-192-bit mode mandatory for classified data.
+> **✅ Correct Answer:** `C) breaks high-security compliance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 192-bit mode mandatory for classified data.
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ risk of WPA3 with WPA2 fallback
 - C) Contradictory hypothesis to forced WPA2 downgrade
 - D) forced WPA2 downgrade
 
-**✅ Correct Answer:** `D) forced WPA2 downgrade`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-mixed mode enables downgrade attacks.
+> **✅ Correct Answer:** `D) forced WPA2 downgrade`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> mixed mode enables downgrade attacks.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ impact of disabling SAE
 - C) loss of mutual authentication
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) loss of mutual authentication`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-SAE does secure password-based mutual auth.
+> **✅ Correct Answer:** `C) loss of mutual authentication`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> SAE does secure password-based mutual auth.
+
+</details>
 
 ---
 
@@ -214,9 +259,12 @@ SAE does secure password-based mutual auth.
 risk of legacy ciphers (RC4/DES)
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Similar Questions Like Wifi Security] Q10](./images/net_wifi_security_ciphers.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to compromise WPA3 security
@@ -224,10 +272,15 @@ risk of legacy ciphers (RC4/DES)
 - C) Both A and B
 - D) compromise WPA3 security
 
-**✅ Correct Answer:** `D) compromise WPA3 security`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-exploitable, below modern standards.
+> **✅ Correct Answer:** `D) compromise WPA3 security`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> exploitable, below modern standards.
+
+</details>
 
 ---
 
@@ -246,10 +299,15 @@ how to stop microservices reading each other's data on shared K8s
 - C) Contradictory hypothesis to separate namespaces + iso
 - D) Both A and B
 
-**✅ Correct Answer:** `A) separate namespaces + isolated persistent volumes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-isolates filesystem data per service.
+> **✅ Correct Answer:** `A) separate namespaces + isolated persistent volumes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> isolates filesystem data per service.
+
+</details>
 
 ---
 
@@ -268,10 +326,15 @@ kernel mechanism stopping containers exhausting host memory
 - C) cgroups
 - D) Contradictory hypothesis to cgroups
 
-**✅ Correct Answer:** `C) cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-limit/monitor CPU+memory per container.
+> **✅ Correct Answer:** `C) cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> limit/monitor CPU+memory per container.
+
+</details>
 
 ---
 
@@ -290,10 +353,15 @@ how to give one container USB sensor access only
 - C) device cgroup config
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) device cgroup config`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-controls hardware visibility per container.
+> **✅ Correct Answer:** `C) device cgroup config`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> controls hardware visibility per container.
+
+</details>
 
 ---
 
@@ -312,10 +380,15 @@ how to prevent privilege escalation to host root
 - C) user namespaces + dropping capabilities
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) user namespaces + dropping capabilities`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-blocks escalation paths.
+> **✅ Correct Answer:** `C) user namespaces + dropping capabilities`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> blocks escalation paths.
+
+</details>
 
 ---
 
@@ -334,10 +407,15 @@ how to handle two containers competing for CPU
 - C) PU quotas via cgroups
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) PU quotas via cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-enforces fair allocation.
+> **✅ Correct Answer:** `C) PU quotas via cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> enforces fair allocation.
+
+</details>
 
 ---
 
@@ -356,10 +434,15 @@ how to pin GPU workloads to GPU nodes
 - C) Legacy standard alternative
 - D) node affinity with GPU-labeled nodes
 
-**✅ Correct Answer:** `D) node affinity with GPU-labeled nodes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) node affinity with GPU-labeled nodes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -378,10 +461,15 @@ how to hide host processes from containers
 - C) Both A and B
 - D) PID namespaces
 
-**✅ Correct Answer:** `D) PID namespaces`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-isolated PID space per container.
+> **✅ Correct Answer:** `D) PID namespaces`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> isolated PID space per container.
+
+</details>
 
 ---
 
@@ -400,10 +488,15 @@ how to secure comms between internal financial services
 - C) Both A and B
 - D) service mesh with mTLS
 
-**✅ Correct Answer:** `D) service mesh with mTLS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-end-to-end encryption + mutual auth.
+> **✅ Correct Answer:** `D) service mesh with mTLS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> end-to-end encryption + mutual auth.
+
+</details>
 
 ---
 
@@ -422,10 +515,15 @@ risk of mistakenly privileged container
 - C) Both A and B
 - D) Contradictory hypothesis to can modify host kernel co
 
-**✅ Correct Answer:** `A) can modify host kernel configs / access system devices`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-near-root host access.
+> **✅ Correct Answer:** `A) can modify host kernel configs / access system devices`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> near-root host access.
+
+</details>
 
 ---
 
@@ -444,10 +542,15 @@ most critical practice for multi-tenant isolation
 - C) Contradictory hypothesis to kernel-level isolation vi
 - D) kernel-level isolation via namespaces + cgroups
 
-**✅ Correct Answer:** `D) kernel-level isolation via namespaces + cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-foundation of secure multi-tenancy.
+> **✅ Correct Answer:** `D) kernel-level isolation via namespaces + cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> foundation of secure multi-tenancy.
+
+</details>
 
 ---
 
@@ -466,10 +569,15 @@ syscalls for a C program to create a process running /usr/bin/python
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) fork() + exec`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-fork creates, exec replaces image.
+> **✅ Correct Answer:** `B) fork() + exec`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> fork creates, exec replaces image.
+
+</details>
 
 ---
 
@@ -488,10 +596,15 @@ how two processes avoid concurrent access to a shared resource
 - C) mutex lock
 - D) Contradictory hypothesis to mutex lock
 
-**✅ Correct Answer:** `C) mutex lock`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-only one holder at a time.
+> **✅ Correct Answer:** `C) mutex lock`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> only one holder at a time.
+
+</details>
 
 ---
 
@@ -510,10 +623,15 @@ best way to send structured data between independent processes on one machine
 - C) Contradictory hypothesis to message queues
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) message queues`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-async structured IPC.
+> **✅ Correct Answer:** `B) message queues`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> async structured IPC.
+
+</details>
 
 ---
 
@@ -532,10 +650,15 @@ what threads of a process share
 - C) Contradictory hypothesis to heap memory (+ globals)
 - D) heap memory (+ globals)
 
-**✅ Correct Answer:** `D) heap memory (+ globals)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-shared heap/globals; separate stacks/registers.
+> **✅ Correct Answer:** `D) heap memory (+ globals)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> shared heap/globals; separate stacks/registers.
+
+</details>
 
 ---
 
@@ -554,10 +677,15 @@ which state is NOT preserved during context switch
 - C) Contradictory hypothesis to open file descriptors
 - D) Both A and B
 
-**✅ Correct Answer:** `A) open file descriptors`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-FDs are process context, unchanged by CPU switch (registers/SP saved).
+> **✅ Correct Answer:** `A) open file descriptors`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> FDs are process context, unchanged by CPU switch (registers/SP saved).
+
+</details>
 
 ---
 
@@ -576,10 +704,15 @@ where control goes on a system call
 - C) kernel mode
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) kernel mode`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-user→kernel transition.
+> **✅ Correct Answer:** `C) kernel mode`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> user→kernel transition.
+
+</details>
 
 ---
 
@@ -598,10 +731,15 @@ what happens when parent exits before child
 - C) Contradictory hypothesis to orphan adopted by init (P
 - D) orphan adopted by init (PID 1)
 
-**✅ Correct Answer:** `D) orphan adopted by init (PID 1)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) orphan adopted by init (PID 1)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -620,10 +758,15 @@ what happens on access to unowned memory
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) segmentation fault (SIGSEGV)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) segmentation fault (SIGSEGV)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -642,10 +785,15 @@ which calls redirect stdout to a file
 - C) Legacy standard alternative
 - D) open() + dup2()
 
-**✅ Correct Answer:** `D) open() + dup2()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-open gets FD, dup2 replaces stdout.
+> **✅ Correct Answer:** `D) open() + dup2()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> open gets FD, dup2 replaces stdout.
+
+</details>
 
 ---
 
@@ -664,10 +812,15 @@ scheduling for real-time system needing immediate critical processes
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) preemptive priority scheduling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-high-priority preempts instantly.
+> **✅ Correct Answer:** `B) preemptive priority scheduling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> high-priority preempts instantly.
+
+</details>
 
 ---
 
@@ -686,10 +839,15 @@ best cloud for finance org with strict data residency
 - C) Both A and B
 - D) Contradictory hypothesis to private cloud
 
-**✅ Correct Answer:** `A) private cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-full control/isolation for compliance.
+> **✅ Correct Answer:** `A) private cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> full control/isolation for compliance.
+
+</details>
 
 ---
 
@@ -708,10 +866,15 @@ who secures OS/apps in IaaS (shared responsibility)
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to the customer
 
-**✅ Correct Answer:** `B) the customer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-provider secures hardware; OS/apps/data are customer's.
+> **✅ Correct Answer:** `B) the customer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> provider secures hardware; OS/apps/data are customer's.
+
+</details>
 
 ---
 
@@ -730,10 +893,15 @@ how healthcare org keeps cloud admins from reading data
 - C) Both A and B
 - D) customer-managed encryption keys
 
-**✅ Correct Answer:** `D) customer-managed encryption keys`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-provider can't decrypt without keys.
+> **✅ Correct Answer:** `D) customer-managed encryption keys`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> provider can't decrypt without keys.
+
+</details>
 
 ---
 
@@ -752,10 +920,15 @@ top hybrid-cloud practice mixing public + confidential data
 - C) data classification and segregation
 - D) Contradictory hypothesis to data classification and s
 
-**✅ Correct Answer:** `C) data classification and segregation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) data classification and segregation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -774,10 +947,15 @@ single system to control access across SaaS apps
 - C) SSO
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SSO`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-centralizes auth.
+> **✅ Correct Answer:** `C) SSO`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> centralizes auth.
+
+</details>
 
 ---
 
@@ -796,10 +974,15 @@ first response to unusual logins from different regions
 - C) Both A and B
 - D) geo-blocking + enforce MFA
 
-**✅ Correct Answer:** `D) geo-blocking + enforce MFA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) geo-blocking + enforce MFA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -818,10 +1001,15 @@ how to survive a 12-hour regional outage
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) multi-region data replication`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) multi-region data replication`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -840,10 +1028,15 @@ how to avoid vendor lock-in from proprietary APIs
 - C) Contradictory hypothesis to cloud-agnostic architectu
 - D) cloud-agnostic architecture
 
-**✅ Correct Answer:** `D) cloud-agnostic architecture`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-portability.
+> **✅ Correct Answer:** `D) cloud-agnostic architecture`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> portability.
+
+</details>
 
 ---
 
@@ -862,10 +1055,15 @@ what proves ISO compliance to auditor
 - C) Legacy standard alternative
 - D) compliance certification report (ISO 27001/SOC 2)
 
-**✅ Correct Answer:** `D) compliance certification report (ISO 27001/SOC 2)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) compliance certification report (ISO 27001/SOC 2)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -884,10 +1082,15 @@ how to contain a breached container
 - C) network segmentation + isolation
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) network segmentation + isolation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-blocks lateral movement.
+> **✅ Correct Answer:** `C) network segmentation + isolation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> blocks lateral movement.
+
+</details>
 
 ---
 
@@ -906,10 +1109,15 @@ server response when client sends FIN
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) CK`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-ACK first, then its own FIN.
+> **✅ Correct Answer:** `A) CK`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> ACK first, then its own FIN.
+
+</details>
 
 ---
 
@@ -928,10 +1136,15 @@ what resolves a URL to an IP
 - C) None of the listed implementations
 - D) NS
 
-**✅ Correct Answer:** `D) NS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) NS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -950,10 +1163,15 @@ what auto-assigns laptop IP + subnet mask
 - C) None of the listed implementations
 - D) HCP
 
-**✅ Correct Answer:** `D) HCP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) HCP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -972,10 +1190,15 @@ what maps IP→MAC locally
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) RP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) RP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -994,10 +1217,15 @@ how TCP guarantees ordered delivery
 - C) sequence + acknowledgment numbers
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) sequence + acknowledgment numbers`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) sequence + acknowledgment numbers`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1016,10 +1244,15 @@ what a router does with a packet to an unknown destination
 - C) drops it, sends ICMP Destination Unreachable
 - D) Contradictory hypothesis to drops it, sends ICMP Dest
 
-**✅ Correct Answer:** `C) drops it, sends ICMP Destination Unreachable`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) drops it, sends ICMP Destination Unreachable`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1038,10 +1271,15 @@ what an HTTP response line with 404 indicates
 - C) Contradictory hypothesis to resource not found
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) resource not found`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) resource not found`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1060,10 +1298,15 @@ primary function of network layer (L3)
 - C) Contradictory hypothesis to logical addressing + rout
 - D) Both A and B
 
-**✅ Correct Answer:** `B) logical addressing + routing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) logical addressing + routing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1082,10 +1325,15 @@ which protocol ping uses
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) ICMP (Echo Request/Reply)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) ICMP (Echo Request/Reply)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1104,10 +1352,15 @@ term for wrapping data with headers/trailers down layers
 - C) Contradictory hypothesis to encapsulation
 - D) encapsulation
 
-**✅ Correct Answer:** `D) encapsulation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) encapsulation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1126,10 +1379,15 @@ most secure wireless encryption
 - C) Contradictory hypothesis to WPA2 with AES
 - D) WPA2 with AES
 
-**✅ Correct Answer:** `D) WPA2 with AES`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) WPA2 with AES`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1148,10 +1406,15 @@ best VPN protocol for encryption+integrity
 - C) Both A and B
 - D) L2TP/IPSec
 
-**✅ Correct Answer:** `D) L2TP/IPSec`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) L2TP/IPSec`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1170,10 +1433,15 @@ firewall type blocking unauthorized access but allowing specific apps
 - C) Both A and B
 - D) stateful firewall
 
-**✅ Correct Answer:** `D) stateful firewall`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-tracks connection state.
+> **✅ Correct Answer:** `D) stateful firewall`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> tracks connection state.
+
+</details>
 
 ---
 
@@ -1192,10 +1460,15 @@ how to prevent DNS spoofing
 - C) None of the listed implementations
 - D) NSSEC
 
-**✅ Correct Answer:** `D) NSSEC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-validates responses.
+> **✅ Correct Answer:** `D) NSSEC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> validates responses.
+
+</details>
 
 ---
 
@@ -1214,10 +1487,15 @@ what monitors traffic for attacks
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to IDS
 
-**✅ Correct Answer:** `B) IDS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) IDS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1236,10 +1514,15 @@ what dynamically assigns IPs
 - C) None of the listed implementations
 - D) HCP
 
-**✅ Correct Answer:** `D) HCP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) HCP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1258,10 +1541,15 @@ what encrypts data between web client and server
 - C) HTTPS (TLS/SSL)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) HTTPS (TLS/SSL)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) HTTPS (TLS/SSL)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1280,10 +1568,15 @@ purpose of sharing one public IP across devices
 - C) NAT
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) NAT`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) NAT`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1302,10 +1595,15 @@ protocol for secure remote access
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to SSH
 
-**✅ Correct Answer:** `B) SSH`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) SSH`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1324,10 +1622,15 @@ authentication for enterprise Wi-Fi
 - C) WPA2-Enterprise with RADIUS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) WPA2-Enterprise with RADIUS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) WPA2-Enterprise with RADIUS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1346,10 +1649,15 @@ attack falsifying source IP to hide identity
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) IP spoofing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) IP spoofing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1368,10 +1676,15 @@ attack intercepting/modifying comms between two parties
 - C) Both A and B
 - D) man-in-the-middle
 
-**✅ Correct Answer:** `D) man-in-the-middle`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) man-in-the-middle`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1390,10 +1703,15 @@ attack sending fake ARP tying attacker MAC to trusted server
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) RP poisoning`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) RP poisoning`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1412,10 +1730,15 @@ attack sending fake DNS responses to redirect users
 - C) None of the listed implementations
 - D) NS spoofing
 
-**✅ Correct Answer:** `D) NS spoofing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) NS spoofing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1434,10 +1757,15 @@ attack flooding server from a single source
 - C) Contradictory hypothesis to denial-of-service
 - D) denial-of-service
 
-**✅ Correct Answer:** `D) denial-of-service`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) denial-of-service`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1456,10 +1784,15 @@ attack of massive traffic from many machines
 - C) None of the listed implementations
 - D) DoS
 
-**✅ Correct Answer:** `D) DoS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) DoS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1478,10 +1811,15 @@ attack of fraudulent emails/sites stealing credentials
 - C) Both A and B
 - D) Contradictory hypothesis to phishing
 
-**✅ Correct Answer:** `A) phishing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) phishing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1500,10 +1838,15 @@ attack injecting scripts via unvalidated input
 - C) Contradictory hypothesis to XSS
 - D) XSS
 
-**✅ Correct Answer:** `D) XSS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) XSS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1522,10 +1865,15 @@ attack submitting malicious SQL in login forms
 - C) Contradictory hypothesis to SQL injection
 - D) SQL injection
 
-**✅ Correct Answer:** `D) SQL injection`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) SQL injection`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1544,10 +1892,15 @@ attack passively capturing LAN traffic
 - C) Contradictory hypothesis to packet sniffing
 - D) Both A and B
 
-**✅ Correct Answer:** `B) packet sniffing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) packet sniffing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1566,10 +1919,15 @@ instruction moving memory→accumulator
 - C) Legacy standard alternative
 - D) LOAD
 
-**✅ Correct Answer:** `D) LOAD`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) LOAD`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1588,10 +1946,15 @@ instruction saving accumulator to memory address
 - C) STORE
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) STORE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) STORE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1610,10 +1973,15 @@ instruction adding memory value to accumulator
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) DD`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) DD`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1632,10 +2000,15 @@ instruction type for register-to-register moves (no memory)
 - C) data transfer
 - D) Contradictory hypothesis to data transfer
 
-**✅ Correct Answer:** `C) data transfer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) data transfer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1654,10 +2027,15 @@ instruction type for jumping to an address
 - C) Both A and B
 - D) branch/jump (control flow)
 
-**✅ Correct Answer:** `D) branch/jump (control flow)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) branch/jump (control flow)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1676,10 +2054,15 @@ operand type when adding a constant to accumulator
 - C) Contradictory hypothesis to immediate
 - D) Both A and B
 
-**✅ Correct Answer:** `A) immediate`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) immediate`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1698,10 +2081,15 @@ component holding intermediate arithmetic results
 - C) Contradictory hypothesis to accumulator
 - D) accumulator
 
-**✅ Correct Answer:** `D) accumulator`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) accumulator`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1720,10 +2108,15 @@ addressing mode adding value at memory location a register points to
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) register indirect`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) register indirect`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1742,10 +2135,15 @@ which unit generates data-movement signals
 - C) Both A and B
 - D) control unit
 
-**✅ Correct Answer:** `D) control unit`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) control unit`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1764,10 +2162,15 @@ fetch–decode–execute phase moving memory→register
 - C) Contradictory hypothesis to execute
 - D) execute
 
-**✅ Correct Answer:** `D) execute`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) execute`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1786,10 +2189,15 @@ how to connect on-prem to cloud securely
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) VPN or dedicated leased lines`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-secure reliable hybrid connectivity.
+> **✅ Correct Answer:** `B) VPN or dedicated leased lines`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> secure reliable hybrid connectivity.
+
+</details>
 
 ---
 
@@ -1808,10 +2216,15 @@ how to keep cloud data unreadable to provider
 - C) Contradictory hypothesis to server-side encryption wi
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) server-side encryption with customer-managed keys`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) server-side encryption with customer-managed keys`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1830,10 +2243,15 @@ best access control across SaaS apps
 - C) MFA + SSO
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) MFA + SSO`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) MFA + SSO`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1852,10 +2270,15 @@ best disaster-recovery approach
 - C) None of the listed implementations
 - D) RaaS
 
-**✅ Correct Answer:** `D) RaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-cloud replication, fast recovery.
+> **✅ Correct Answer:** `D) RaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> cloud replication, fast recovery.
+
+</details>
 
 ---
 
@@ -1874,10 +2297,15 @@ how to demonstrate continuous compliance
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) provider certifications + logging`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) provider certifications + logging`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1896,10 +2324,15 @@ how to isolate workloads in hybrid network
 - C) Both A and B
 - D) VLANs + micro-segmentation
 
-**✅ Correct Answer:** `D) VLANs + micro-segmentation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) VLANs + micro-segmentation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1918,10 +2351,15 @@ how to secure on-prem↔cloud data in transit
 - C) Contradictory hypothesis to TLS/SSL channels
 - D) TLS/SSL channels
 
-**✅ Correct Answer:** `D) TLS/SSL channels`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) TLS/SSL channels`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1940,10 +2378,15 @@ how to distribute traffic across regions
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) cloud load balancer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) cloud load balancer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1962,10 +2405,15 @@ how to get centralized visibility
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to SIEM
 
-**✅ Correct Answer:** `B) SIEM`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) SIEM`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -1984,10 +2432,15 @@ how to govern multiple cloud providers
 - C) Contradictory hypothesis to governance framework with
 - D) Both A and B
 
-**✅ Correct Answer:** `B) governance framework with policies + automation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) governance framework with policies + automation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2006,10 +2459,15 @@ VPN type for remote employees
 - C) Contradictory hypothesis to remote-access VPN
 - D) remote-access VPN
 
-**✅ Correct Answer:** `D) remote-access VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) remote-access VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2028,10 +2486,15 @@ VPN type connecting two branches
 - C) Both A and B
 - D) site-to-site VPN
 
-**✅ Correct Answer:** `D) site-to-site VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) site-to-site VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2050,10 +2513,15 @@ best VPN protocol for encryption
 - C) Both A and B
 - D) L2TP/IPSec
 
-**✅ Correct Answer:** `D) L2TP/IPSec`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) L2TP/IPSec`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2072,10 +2540,15 @@ extra control for secure remote work
 - C) MFA
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) MFA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) MFA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2094,10 +2567,15 @@ VPN type for cloud app access
 - C) Contradictory hypothesis to client-based VPN
 - D) client-based VPN
 
-**✅ Correct Answer:** `D) client-based VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) client-based VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2116,10 +2594,15 @@ VPN for mobile devices
 - C) client-based VPN with mobile support
 - D) Contradictory hypothesis to client-based VPN with mob
 
-**✅ Correct Answer:** `C) client-based VPN with mobile support`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) client-based VPN with mobile support`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2138,10 +2621,15 @@ VPN for branches using ERP/CRM
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) site-to-site VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) site-to-site VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2160,10 +2648,15 @@ how to optimize VPN performance
 - C) Contradictory hypothesis to split tunneling
 - D) split tunneling
 
-**✅ Correct Answer:** `D) split tunneling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-local traffic bypasses VPN.
+> **✅ Correct Answer:** `D) split tunneling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> local traffic bypasses VPN.
+
+</details>
 
 ---
 
@@ -2182,10 +2675,15 @@ VPN for hybrid on-prem+cloud access
 - C) remote-access VPN with hybrid routing
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) remote-access VPN with hybrid routing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) remote-access VPN with hybrid routing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2204,10 +2702,15 @@ how to gain VPN activity visibility
 - C) centralized logging + monitoring
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) centralized logging + monitoring`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) centralized logging + monitoring`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2226,10 +2729,15 @@ what continuous deployment means
 - C) Both A and B
 - D) code auto-releases to production after tests pass
 
-**✅ Correct Answer:** `D) code auto-releases to production after tests pass`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) code auto-releases to production after tests pass`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2248,10 +2756,15 @@ purpose of continuous integration
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to frequent merges with auto
 
-**✅ Correct Answer:** `B) frequent merges with automated builds; catches issues early`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) frequent merges with automated builds; catches issues early`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2270,10 +2783,15 @@ role of continuous testing
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to automated tests verify qu
 
-**✅ Correct Answer:** `B) automated tests verify quality at every stage`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) automated tests verify quality at every stage`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2292,10 +2810,15 @@ why production monitoring matters
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to tracks behavior/performan
 
-**✅ Correct Answer:** `B) tracks behavior/performance post-deploy; stability`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) tracks behavior/performance post-deploy; stability`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2314,10 +2837,15 @@ benefit of automated build pipelines
 - C) streamlined build/test/deploy; faster, reliable releases
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) streamlined build/test/deploy; faster, reliable releases`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) streamlined build/test/deploy; faster, reliable releases`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2336,10 +2864,15 @@ how rolling deployment works
 - C) Legacy standard alternative
 - D) old instances gradually replaced, zero downtime
 
-**✅ Correct Answer:** `D) old instances gradually replaced, zero downtime`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) old instances gradually replaced, zero downtime`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2358,10 +2891,15 @@ how blue-green deployment works
 - C) Contradictory hypothesis to two identical environment
 - D) two identical environments, traffic switched; minimal downtime, easy rollback
 
-**✅ Correct Answer:** `D) two identical environments, traffic switched; minimal downtime, easy rollback`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) two identical environments, traffic switched; minimal downtime, easy rollback`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2380,10 +2918,15 @@ what a canary release is
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) new feature to ~5% of users first`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) new feature to ~5% of users first`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2402,10 +2945,15 @@ purpose of infrastructure as code
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to scripts auto-configure cl
 
-**✅ Correct Answer:** `B) scripts auto-configure cloud infra; consistency`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) scripts auto-configure cloud infra; consistency`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2424,10 +2972,15 @@ version-control best practices for CI
 - C) Legacy standard alternative
 - D) small frequent commits with descriptive messages
 
-**✅ Correct Answer:** `D) small frequent commits with descriptive messages`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) small frequent commits with descriptive messages`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2446,10 +2999,15 @@ attack behind false global routing announcements
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) GP hijacking (prefix hijack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-fake announcements reroute traffic via attacker.
+> **✅ Correct Answer:** `B) GP hijacking (prefix hijack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> fake announcements reroute traffic via attacker.
+
+</details>
 
 ---
 
@@ -2468,10 +3026,15 @@ attack poisoning LAN ARP caches
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) RP poisoning/spoofing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) RP poisoning/spoofing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2490,10 +3053,15 @@ attack modifying DNS responses in transit
 - C) None of the listed implementations
 - D) NS spoofing / cache poisoning
 
-**✅ Correct Answer:** `D) NS spoofing / cache poisoning`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) NS spoofing / cache poisoning`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2512,10 +3080,15 @@ technique of announcing more-specific prefixes to override routes
 - C) Contradictory hypothesis to prefix deaggregation for 
 - D) Both A and B
 
-**✅ Correct Answer:** `A) prefix deaggregation for route hijack (longest-prefix match wins)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) prefix deaggregation for route hijack (longest-prefix match wins)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2534,10 +3107,15 @@ attack of false routing updates inside corporate net
 - C) route injection / control-plane compromise
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) route injection / control-plane compromise`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) route injection / control-plane compromise`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2556,10 +3134,15 @@ attack tampering with AS_PATH
 - C) Contradictory hypothesis to path manipulation for rou
 - D) path manipulation for route hijacking
 
-**✅ Correct Answer:** `D) path manipulation for route hijacking`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) path manipulation for route hijacking`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2578,10 +3161,15 @@ attack forging messages to send traffic via malicious hop
 - C) Contradictory hypothesis to ICMP redirect attack
 - D) ICMP redirect attack
 
-**✅ Correct Answer:** `D) ICMP redirect attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) ICMP redirect attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2600,10 +3188,15 @@ attack of compromised router advertising bad routes
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to route leak / unauthorized
 
-**✅ Correct Answer:** `B) route leak / unauthorized advertisement`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) route leak / unauthorized advertisement`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2622,10 +3215,15 @@ attack exploiting weak routing origin validation
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) GP origin hijack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) GP origin hijack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2644,10 +3242,15 @@ attack modifying routes across transit networks on-path
 - C) Both A and B
 - D) advanced BGP hijack / on-path interception
 
-**✅ Correct Answer:** `D) advanced BGP hijack / on-path interception`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) advanced BGP hijack / on-path interception`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2666,10 +3269,15 @@ register saved/restored on context switch
 - C) Contradictory hypothesis to program counter
 - D) Both A and B
 
-**✅ Correct Answer:** `B) program counter`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-holds next-instruction address.
+> **✅ Correct Answer:** `B) program counter`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> holds next-instruction address.
+
+</details>
 
 ---
 
@@ -2688,10 +3296,15 @@ register tracking stack top
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) stack pointer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) stack pointer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2710,10 +3323,15 @@ register holding condition flags (zero/carry/overflow)
 - C) Both A and B
 - D) Contradictory hypothesis to status (flag) register
 
-**✅ Correct Answer:** `A) status (flag) register`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) status (flag) register`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2732,10 +3350,15 @@ register holding instruction being decoded/executed
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to instruction register
 
-**✅ Correct Answer:** `B) instruction register`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) instruction register`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2754,10 +3377,15 @@ registers defining process memory boundaries
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) base and limit registers`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) base and limit registers`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2776,10 +3404,15 @@ correct save order on context switch
 - C) PC, SP, status register
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) PC, SP, status register`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) PC, SP, status register`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2798,10 +3431,15 @@ why each thread needs its own PC
 - C) Both A and B
 - D) each tracks its next instruction independently
 
-**✅ Correct Answer:** `D) each tracks its next instruction independently`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) each tracks its next instruction independently`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2820,10 +3458,15 @@ registers saved during interrupts
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to PC, SP, status register
 
-**✅ Correct Answer:** `B) PC, SP, status register`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) PC, SP, status register`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2842,10 +3485,15 @@ what to save for memory-mapped I/O registers
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) general-purpose + I/O-related registers`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) general-purpose + I/O-related registers`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2864,10 +3512,15 @@ structure storing a thread's saved state
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) thread control block (TCB)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) thread control block (TCB)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2886,10 +3539,15 @@ disk component reducing latency for hot data
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) disk controller with built-in cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) disk controller with built-in cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2908,10 +3566,15 @@ NIC feature for CPU-free transfers
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) NIC with DMA + built-in buffer/cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) NIC with DMA + built-in buffer/cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2930,10 +3593,15 @@ GPU feature helping graphics
 - C) Legacy standard alternative
 - D) GPU with onboard VRAM
 
-**✅ Correct Answer:** `D) GPU with onboard VRAM`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) GPU with onboard VRAM`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2952,10 +3620,15 @@ disk feature for direct device→memory transfers
 - C) disk controller with DMA support
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) disk controller with DMA support`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) disk controller with DMA support`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2974,10 +3647,15 @@ storage controller feature cutting latency, raising throughput
 - C) SSD controller with built-in cache
 - D) Contradictory hypothesis to SSD controller with built
 
-**✅ Correct Answer:** `C) SSD controller with built-in cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) SSD controller with built-in cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -2996,10 +3674,15 @@ controller for low-speed keyboard input
 - C) Both A and B
 - D) Contradictory hypothesis to keyboard controller (cach
 
-**✅ Correct Answer:** `A) keyboard controller (caching adds little for slow input)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) keyboard controller (caching adds little for slow input)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3018,10 +3701,15 @@ audio feature preventing streaming dropouts
 - C) Contradictory hypothesis to built-in buffer/cache
 - D) built-in buffer/cache
 
-**✅ Correct Answer:** `D) built-in buffer/cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) built-in buffer/cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3040,10 +3728,15 @@ printer feature enabling continuous printing
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) printer controller with built-in memory`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) printer controller with built-in memory`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3062,10 +3755,15 @@ USB feature improving sequential transfers
 - C) Both A and B
 - D) USB controller with cache
 
-**✅ Correct Answer:** `D) USB controller with cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) USB controller with cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3084,10 +3782,15 @@ design reducing contention in multi-device buses
 - C) device controller with local buffer/cache
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) device controller with local buffer/cache`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) device controller with local buffer/cache`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3106,10 +3809,15 @@ attack where adversary chooses plaintexts, observes ciphertexts
 - C) Contradictory hypothesis to chosen-plaintext attack
 - D) Both A and B
 
-**✅ Correct Answer:** `A) chosen-plaintext attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) chosen-plaintext attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3128,10 +3836,15 @@ attack exploiting decryption error messages on crafted ciphertexts
 - C) Contradictory hypothesis to padding oracle attack
 - D) padding oracle attack
 
-**✅ Correct Answer:** `D) padding oracle attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-errors leak plaintext.
+> **✅ Correct Answer:** `D) padding oracle attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> errors leak plaintext.
+
+</details>
 
 ---
 
@@ -3150,10 +3863,15 @@ attack intercepting unauthenticated Diffie-Hellman
 - C) Contradictory hypothesis to man-in-the-middle
 - D) Both A and B
 
-**✅ Correct Answer:** `A) man-in-the-middle`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) man-in-the-middle`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3172,10 +3890,15 @@ attack measuring smart-card power during crypto
 - C) side-channel (power-analysis) attack
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) side-channel (power-analysis) attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) side-channel (power-analysis) attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3194,10 +3917,15 @@ attack collecting messages to find hash collisions
 - C) Contradictory hypothesis to birthday attack
 - D) Both A and B
 
-**✅ Correct Answer:** `A) birthday attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) birthday attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3216,10 +3944,15 @@ attack reusing a captured auth token
 - C) replay attack
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) replay attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) replay attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3238,10 +3971,15 @@ attack possible with only ciphertexts
 - C) Legacy standard alternative
 - D) ciphertext-only attack
 
-**✅ Correct Answer:** `D) ciphertext-only attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) ciphertext-only attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3260,10 +3998,15 @@ attack trying every key in short keyspace
 - C) Contradictory hypothesis to brute-force
 - D) Both A and B
 
-**✅ Correct Answer:** `B) brute-force`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) brute-force`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3282,10 +4025,15 @@ attack downgrading a negotiation to older protocol
 - C) Contradictory hypothesis to downgrade attack
 - D) Both A and B
 
-**✅ Correct Answer:** `A) downgrade attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) downgrade attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3304,10 +4052,15 @@ attack using known plaintext–ciphertext pairs
 - C) Contradictory hypothesis to known-plaintext attack
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) known-plaintext attack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) known-plaintext attack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3326,10 +4079,15 @@ what containers primarily isolate
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to processes
 
-**✅ Correct Answer:** `B) processes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-consistent, separated behavior.
+> **✅ Correct Answer:** `B) processes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> consistent, separated behavior.
+
+</details>
 
 ---
 
@@ -3348,10 +4106,15 @@ what makes containers lightweight virtualization
 - C) shared host OS kernel
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) shared host OS kernel`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-less overhead, fast starts.
+> **✅ Correct Answer:** `C) shared host OS kernel`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> less overhead, fast starts.
+
+</details>
 
 ---
 
@@ -3370,10 +4133,15 @@ benefit of encapsulating code + dependencies
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) portability`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) portability`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3392,10 +4160,15 @@ which architecture containers suit best
 - C) Both A and B
 - D) Contradictory hypothesis to microservices
 
-**✅ Correct Answer:** `A) microservices`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) microservices`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3414,10 +4187,15 @@ how to stop one container starving others
 - C) Contradictory hypothesis to resource constraints/limi
 - D) Both A and B
 
-**✅ Correct Answer:** `B) resource constraints/limits`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) resource constraints/limits`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3436,10 +4214,15 @@ why containers enable rapid deployment
 - C) Contradictory hypothesis to rapid provisioning, consi
 - D) Both A and B
 
-**✅ Correct Answer:** `B) rapid provisioning, consistent environments`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) rapid provisioning, consistent environments`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3458,10 +4241,15 @@ how containers fit CI/CD
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) consistent automated pipelines (identical envs)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) consistent automated pipelines (identical envs)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3480,10 +4268,15 @@ container principle of no internal state
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) statelessness`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-easier scale/redeploy.
+> **✅ Correct Answer:** `B) statelessness`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> easier scale/redeploy.
+
+</details>
 
 ---
 
@@ -3502,10 +4295,15 @@ benefit of layered images
 - C) efficient storage + caching
 - D) Both A and B
 
-**✅ Correct Answer:** `C) efficient storage + caching`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) efficient storage + caching`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3524,10 +4322,15 @@ what isolates containers from host
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) namespaces (+ cgroups)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) namespaces (+ cgroups)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3546,10 +4349,15 @@ who is responsible for cloud security
 - C) Legacy standard alternative
 - D) both provider and customer (shared)
 
-**✅ Correct Answer:** `D) both provider and customer (shared)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) both provider and customer (shared)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3568,10 +4376,15 @@ customer duty in PaaS (provider manages OS/runtime)
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to protect application logic
 
-**✅ Correct Answer:** `B) protect application logic + user data`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) protect application logic + user data`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3590,10 +4403,15 @@ customer duty for IaaS VMs
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to secure app data + network
 
-**✅ Correct Answer:** `B) secure app data + network configs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) secure app data + network configs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3612,10 +4430,15 @@ customer duty for SaaS CRM
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to proper user access contro
 
-**✅ Correct Answer:** `B) proper user access control`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) proper user access control`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3634,10 +4457,15 @@ how security works in hybrid cloud
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) shared between environments/parties`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) shared between environments/parties`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3656,10 +4484,15 @@ developer duty on managed Kubernetes
 - C) manage container image vulnerabilities
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) manage container image vulnerabilities`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) manage container image vulnerabilities`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3678,10 +4511,15 @@ team duty for analytics on EC2
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) OS patching + firewall config`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) OS patching + firewall config`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3700,10 +4538,15 @@ cause when managed-DB credentials are exposed publicly
 - C) Both A and B
 - D) Contradictory hypothesis to user misconfiguration (ad
 
-**✅ Correct Answer:** `A) user misconfiguration (admin's responsibility)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) user misconfiguration (admin's responsibility)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3722,10 +4565,15 @@ who secures a fully org-managed private cloud
 - C) Contradictory hypothesis to fully the customer
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) fully the customer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) fully the customer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3744,10 +4592,15 @@ customer duty in serverless
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) secure code + dependencies`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) secure code + dependencies`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3760,9 +4613,12 @@ Verified Accenture curriculum solution.
 which OS function configures printers/drives/scanners
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Similar Questions Like OS - Management] Q1](./images/os_hardware_device_drivers.svg)
+
+</details>
 
 **Options:**
 - A) device management
@@ -3770,10 +4626,15 @@ which OS function configures printers/drives/scanners
 - C) Both A and B
 - D) Contradictory hypothesis to device management
 
-**✅ Correct Answer:** `A) device management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-prevents conflicts.
+> **✅ Correct Answer:** `A) device management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> prevents conflicts.
+
+</details>
 
 ---
 
@@ -3792,10 +4653,15 @@ which OS feature runs background processes while user works
 - C) time sharing
 - D) Contradictory hypothesis to time sharing
 
-**✅ Correct Answer:** `C) time sharing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-CPU sharing, responsiveness.
+> **✅ Correct Answer:** `C) time sharing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> CPU sharing, responsiveness.
+
+</details>
 
 ---
 
@@ -3814,10 +4680,15 @@ which OS component handles background services hogging CPU
 - C) the kernel
 - D) Contradictory hypothesis to the kernel
 
-**✅ Correct Answer:** `C) the kernel`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-scheduling + resource allocation.
+> **✅ Correct Answer:** `C) the kernel`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> scheduling + resource allocation.
+
+</details>
 
 ---
 
@@ -3836,10 +4707,15 @@ which OS property lets apps survive one app's crash
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to fault isolation
 
-**✅ Correct Answer:** `B) fault isolation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) fault isolation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3858,10 +4734,15 @@ which OS function gives an HR app quick file access
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to file management
 
-**✅ Correct Answer:** `B) file management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) file management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3880,10 +4761,15 @@ which OS function grants an app more RAM
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) memory management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-dynamic allocation.
+> **✅ Correct Answer:** `B) memory management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> dynamic allocation.
+
+</details>
 
 ---
 
@@ -3902,10 +4788,15 @@ which OS function enforces sequential task execution
 - C) process synchronization
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) process synchronization`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) process synchronization`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3924,10 +4815,15 @@ which OS capability a medical device needs for on-time critical processes
 - C) real-time processing
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) real-time processing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) real-time processing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3946,10 +4842,15 @@ which OS function handles login authentication
 - C) Contradictory hypothesis to security (auth + access p
 - D) security (auth + access permissions)
 
-**✅ Correct Answer:** `D) security (auth + access permissions)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) security (auth + access permissions)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3968,10 +4869,15 @@ which OS type supports multiple concurrent remote sessions
 - C) multiuser system
 - D) Contradictory hypothesis to multiuser system
 
-**✅ Correct Answer:** `C) multiuser system`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) multiuser system`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -3990,10 +4896,15 @@ cloud trait letting a bank rapidly provision servers
 - C) elasticity
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) elasticity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-auto-scales to workload.
+> **✅ Correct Answer:** `C) elasticity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> auto-scales to workload.
+
+</details>
 
 ---
 
@@ -4012,10 +4923,15 @@ trait letting admin track multi-region usage for billing
 - C) Contradictory hypothesis to measured service
 - D) measured service
 
-**✅ Correct Answer:** `D) measured service`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) measured service`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4034,10 +4950,15 @@ trait letting dev/test/prod VMs share hardware securely
 - C) Both A and B
 - D) multitenancy
 
-**✅ Correct Answer:** `D) multitenancy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `D) multitenancy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4056,10 +4977,15 @@ trait letting e-learning auto-scale
 - C) elasticity
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) elasticity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) elasticity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4078,10 +5004,15 @@ cloud model for hospital keeping records private + public portal
 - C) hybrid cloud
 - D) Both A and B
 
-**✅ Correct Answer:** `C) hybrid cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) hybrid cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4100,10 +5031,15 @@ technique for high availability across datacenters
 - C) Contradictory hypothesis to load balancing
 - D) Both A and B
 
-**✅ Correct Answer:** `A) load balancing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `A) load balancing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4122,10 +5058,15 @@ trait behind pay-for-what-you-use billing
 - C) Contradictory hypothesis to measured service (pay-as-
 - D) Both A and B
 
-**✅ Correct Answer:** `B) measured service (pay-as-you-go)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `B) measured service (pay-as-you-go)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4144,10 +5085,15 @@ what creates isolated per-user environments on shared hardware
 - C) virtualization
 - D) Contradictory hypothesis to virtualization
 
-**✅ Correct Answer:** `C) virtualization`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) virtualization`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4166,10 +5112,15 @@ service model for predictive models on real-time shipment data
 - C) PaaS
 - D) Contradictory hypothesis to PaaS
 
-**✅ Correct Answer:** `C) PaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) PaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---
 
@@ -4188,9 +5139,14 @@ model for browser-accessed cloud CRM
 - C) SaaS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture curriculum solution.
+> **✅ Correct Answer:** `C) SaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture curriculum solution.
+
+</details>
 
 ---

@@ -22,9 +22,14 @@ Why is analyzing slot-wise question trends crucial during on-campus Accenture dr
 - It allows memorizing exact numerical values for the coding questions.
 - Only the HR round questions change between slots.
 
-**✅ Correct Answer:** `Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-While variable names and small parameters may vary, the core algorithmic templates (e.g. leaders in array, sliding window sum, bitwise XOR loops) are drawn from a shared test bank.
+> **✅ Correct Answer:** `Accenture's question pool repeats underlying pseudocode logic, array patterns, and game types across successive slots within the same hiring window.`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> While variable names and small parameters may vary, the core algorithmic templates (e.g. leaders in array, sliding window sum, bitwise XOR loops) are drawn from a shared test bank.
+
+</details>
 
 ---

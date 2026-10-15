@@ -22,10 +22,15 @@ sort (1−3), (2−5), (4−1).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−2, −3, 3 → B, A, C.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −2, −3, 3 → B, A, C.
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ sort (6−2), (3−7), (5−4).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-4, −4, 1.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 4, −4, 1.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ sort (2*3), (10−15), (8/4).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-6, −5, 2.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 6, −5, 2.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ sort (3+5), (2−9), (7−4).
 - C) Expression sequence 231
 - D) Expression sequence 132
 
-**✅ Correct Answer:** `D) Expression sequence 132`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-8, −7, 3.
+> **✅ Correct Answer:** `D) Expression sequence 132`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 8, −7, 3.
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ sort (5+3), (10/5), (6−9).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-8, 2, −3.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 8, 2, −3.
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ sort (7−10), (2*4), (12/6).
 - C) Expression sequence 231
 - D) Expression sequence 132
 
-**✅ Correct Answer:** `D) Expression sequence 132`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−3, 8, 2.
+> **✅ Correct Answer:** `D) Expression sequence 132`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −3, 8, 2.
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ sort (4*3), (6−11), (9/3).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-12, −5, 3.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 12, −5, 3.
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ sort (15/3), (2+6), (5−9).
 - C) Expression sequence 231
 - D) Expression sequence 312
 
-**✅ Correct Answer:** `D) Expression sequence 312`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-5, 8, −4.
+> **✅ Correct Answer:** `D) Expression sequence 312`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 5, 8, −4.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ sort (8−3), (2*2), (6−10).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-5, 4, −4.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 5, 4, −4.
+
+</details>
 
 ---
 
@@ -220,10 +265,15 @@ sort (3+4), (10−8), (12/4).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-7, 2, 3.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 7, 2, 3.
+
+</details>
 
 ---
 
@@ -242,10 +292,15 @@ sort ((4+6)−15), (3*3), (8−2).
 - C) Expression sequence 231
 - D) Expression sequence 132
 
-**✅ Correct Answer:** `D) Expression sequence 132`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−5, 9, 6.
+> **✅ Correct Answer:** `D) Expression sequence 132`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −5, 9, 6.
+
+</details>
 
 ---
 
@@ -264,10 +319,15 @@ sort ((5*2)−12), (18/3), (7+1).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `A) Expression sequence 123`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−2, 6, 8.
+> **✅ Correct Answer:** `A) Expression sequence 123`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −2, 6, 8.
+
+</details>
 
 ---
 
@@ -286,10 +346,15 @@ sort (10−4), ((2*5)−12), (6/2).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-6, −2, 3.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 6, −2, 3.
+
+</details>
 
 ---
 
@@ -308,10 +373,15 @@ sort ((9+1)/2), (4*2), (6−9).
 - C) Expression sequence 231
 - D) Expression sequence 312
 
-**✅ Correct Answer:** `D) Expression sequence 312`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-5, 8, −3.
+> **✅ Correct Answer:** `D) Expression sequence 312`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 5, 8, −3.
+
+</details>
 
 ---
 
@@ -330,10 +400,15 @@ sort (1.5−2.3), (0.5+1.2), (2.4−1.1).
 - C) Expression sequence 231
 - D) Expression sequence 132
 
-**✅ Correct Answer:** `D) Expression sequence 132`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−0.8, 1.7, 1.3.
+> **✅ Correct Answer:** `D) Expression sequence 132`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −0.8, 1.7, 1.3.
+
+</details>
 
 ---
 
@@ -352,10 +427,15 @@ sort (3.2−4.8), (1.5*2), (4.5/1.5).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `A) Expression sequence 123`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−1.6, 3, 3 (B=C tie).
+> **✅ Correct Answer:** `A) Expression sequence 123`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −1.6, 3, 3 (B=C tie).
+
+</details>
 
 ---
 
@@ -374,10 +454,15 @@ sort (2.5+1.25), (6.0/2), (5.4−3.9).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3.75, 3, 1.5.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3.75, 3, 1.5.
+
+</details>
 
 ---
 
@@ -396,10 +481,15 @@ sort (4.2−6.5), (1.2*2), (3.6/1.2).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `A) Expression sequence 123`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-−2.3, 2.4, 3.
+> **✅ Correct Answer:** `A) Expression sequence 123`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> −2.3, 2.4, 3.
+
+</details>
 
 ---
 
@@ -418,10 +508,15 @@ sort (0.8+1.6), (3.0−1.75), (2.5/0.5).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2.4, 1.25, 5.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2.4, 1.25, 5.
+
+</details>
 
 ---
 
@@ -440,10 +535,15 @@ sort (5.5−2.2), (1.5+0.75), (6.0/3).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3.3, 2.25, 2.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3.3, 2.25, 2.
+
+</details>
 
 ---
 
@@ -462,10 +562,15 @@ sort (2.4*1.5), (4.5−1.8), (3.6/1.2).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3.6, 2.7, 3.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3.6, 2.7, 3.
+
+</details>
 
 ---
 
@@ -484,10 +589,15 @@ sort (7.2/2), (1.4+2.1), (5.0−3.9).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3.6, 3.5, 1.1.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3.6, 3.5, 1.1.
+
+</details>
 
 ---
 
@@ -506,10 +616,15 @@ sort (0.6*3), (4.2−5.1), (2.4+1.2).
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-1.8, −0.9, 3.6.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 1.8, −0.9, 3.6.
+
+</details>
 
 ---
 
@@ -528,10 +643,15 @@ sort (9.0/4), (1.75+0.5), (3.6−2.8).
 - C) Expression sequence 231
 - D) Expression sequence 312
 
-**✅ Correct Answer:** `D) Expression sequence 312`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-2.25, 2.25, 0.8 (A=B tie).
+> **✅ Correct Answer:** `D) Expression sequence 312`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 2.25, 2.25, 0.8 (A=B tie).
+
+</details>
 
 ---
 
@@ -550,10 +670,15 @@ arrange 0.3×0.4−0.1, 5−4.5×1.1, 3−2.2×1.2.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `A) Expression sequence 123`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-values 0.02, 0.05, 0.36.
+> **✅ Correct Answer:** `A) Expression sequence 123`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> values 0.02, 0.05, 0.36.
+
+</details>
 
 ---
 
@@ -572,10 +697,15 @@ arrange 2.5−1.2×1.5, 0.6×0.5+0.1, 4−3.2×0.8.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-values 0.7, 0.4, 1.44.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> values 0.7, 0.4, 1.44.
+
+</details>
 
 ---
 
@@ -594,10 +724,15 @@ arrange 1.2×0.5−0.1, 2−1.5×1.1, 0.8×0.6.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-values 0.5, 0.35, 0.48.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> values 0.5, 0.35, 0.48.
+
+</details>
 
 ---
 
@@ -616,10 +751,15 @@ arrange 0.9−0.4×2, 1.5×0.6, 2−1.8×0.5.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `A) Expression sequence 123`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Expression sequence 123`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -638,10 +778,15 @@ arrange 4−3.5×0.8, 0.7×0.6+0.2, 1.8−1.2×1.1.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-values 1.2, 0.62, 0.48.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> values 1.2, 0.62, 0.48.
+
+</details>
 
 ---
 
@@ -660,10 +805,15 @@ arrange 2.4×0.5−0.6, 1−0.8×0.9, 0.3×1.2.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `C) Expression sequence 231`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Expression sequence 231`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -682,10 +832,15 @@ arrange 3−2.4×0.5, 1.5×0.8, 0.6×1.5.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -704,10 +859,15 @@ arrange 0.5×0.4+0.1, 2−1.9×0.9, 1.2−0.8×1.1.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-values 0.3, 0.29, 0.32.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> values 0.3, 0.29, 0.32.
+
+</details>
 
 ---
 
@@ -726,10 +886,15 @@ arrange 1−0.9×0.8, 0.4×0.6, 2.2−2×0.9.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `B) Expression sequence 213`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Expression sequence 213`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -748,9 +913,14 @@ arrange 5−4.2×0.8, 1.6×0.9, 2−1.5×0.7.
 - C) Expression sequence 231
 - D) Expression sequence 321
 
-**✅ Correct Answer:** `D) Expression sequence 321`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Expression sequence 321`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

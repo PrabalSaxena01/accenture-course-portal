@@ -16,9 +16,12 @@
 products priced above average.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[SQL Mock-1] Question 1](./images/sql_inner_vs_outer_join.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to SELECT * FROM Products WH
@@ -26,10 +29,15 @@ products priced above average.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) SELECT * FROM Products WHERE Price > (SELECT AVG(Price) FROM Products);`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SELECT * FROM Products WHERE Price > (SELECT AVG(Price) FROM Products);`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -42,9 +50,12 @@ Verified Accenture placement test pattern.
 Furniture products, price descending.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[SQL Mock-1] Question 2](./images/sql_student_scholarship_join.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to ... WHERE Category = 'Fur
@@ -52,10 +63,15 @@ Furniture products, price descending.
 - C) Legacy standard alternative
 - D) ... WHERE Category = 'Furniture' ORDER BY Price DESC;
 
-**✅ Correct Answer:** `D) ... WHERE Category = 'Furniture' ORDER BY Price DESC;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ... WHERE Category = 'Furniture' ORDER BY Price DESC;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -68,9 +84,12 @@ Verified Accenture placement test pattern.
 product names containing "Table".
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[SQL Mock-1] Question 3](./images/sql_orders_schema.svg)
+
+</details>
 
 **Options:**
 - A) Both A and B
@@ -78,10 +97,15 @@ product names containing "Table".
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to ... WHERE Product_Name LI
 
-**✅ Correct Answer:** `B) ... WHERE Product_Name LIKE '%Table%';`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ... WHERE Product_Name LIKE '%Table%';`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -100,10 +124,15 @@ products within 20% of max price.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to ... WHERE Price >= 0.8 * 
 
-**✅ Correct Answer:** `B) ... WHERE Price >= 0.8 * (SELECT MAX(Price) FROM Products);`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ... WHERE Price >= 0.8 * (SELECT MAX(Price) FROM Products);`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -122,10 +151,15 @@ products priced as multiple of 5000.
 - C) ... WHERE Price % 5000 = 0;
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) ... WHERE Price % 5000 = 0;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ... WHERE Price % 5000 = 0;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -144,10 +178,15 @@ FIRST_NAME uppercased with alias.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to SELECT upper(FIRST_NAME) 
 
-**✅ Correct Answer:** `B) SELECT upper(FIRST_NAME) as STUDENT_NAME from Student;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SELECT upper(FIRST_NAME) as STUDENT_NAME from Student;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -166,10 +205,15 @@ unique MAJOR values.
 - C) Both A and B
 - D) Contradictory hypothesis to SELECT DISTINCT MAJOR fro
 
-**✅ Correct Answer:** `B) SELECT DISTINCT MAJOR from STUDENT;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SELECT DISTINCT MAJOR from STUDENT;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -188,10 +232,15 @@ unique MAJOR values + their length.
 - C) SELECT MAJOR,LENGTH(MAJOR) FROM Student GROUP BY(MAJOR);
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SELECT MAJOR,LENGTH(MAJOR) FROM Student GROUP BY(MAJOR);`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SELECT MAJOR,LENGTH(MAJOR) FROM Student GROUP BY(MAJOR);`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -210,10 +259,15 @@ FIRST_NAME with 'a'→'A'.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) SELECT REPLACE(FIRST_NAME, 'a', 'A') FROM Student;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SELECT REPLACE(FIRST_NAME, 'a', 'A') FROM Student;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -232,10 +286,15 @@ count of 'Computer Science' majors.
 - C) SELECT Major, COUNT(*) as TOTAL_COUNT FROM Student WHERE MAJOR = 'Computer Science';
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SELECT Major, COUNT(*) as TOTAL_COUNT FROM Student WHERE MAJOR = 'Computer Science';`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SELECT Major, COUNT(*) as TOTAL_COUNT FROM Student WHERE MAJOR = 'Computer Science';`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -254,10 +313,15 @@ error in "SELECT Name, NULLIF(Age, 30) FROM Employees WHERE Age IS NOT NULL;".
 - C) Remove 'WHERE Age IS NOT NULL'
 - D) Contradictory hypothesis to Remove 'WHERE Age IS NOT 
 
-**✅ Correct Answer:** `C) Remove 'WHERE Age IS NOT NULL'`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unnecessary.
+> **✅ Correct Answer:** `C) Remove 'WHERE Age IS NOT NULL'`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unnecessary.
+
+</details>
 
 ---
 
@@ -276,10 +340,15 @@ main use of CASE.
 - C) Contradictory hypothesis to if-then-else logic
 - D) Both A and B
 
-**✅ Correct Answer:** `A) if-then-else logic`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-conditional queries.
+> **✅ Correct Answer:** `A) if-then-else logic`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> conditional queries.
+
+</details>
 
 ---
 
@@ -298,10 +367,15 @@ fix "SELECT CURRENT_DATE FROM Employees;".
 - C) Both A and B
 - D) Remove 'FROM Employees'
 
-**✅ Correct Answer:** `D) Remove 'FROM Employees'`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unnecessary for this function.
+> **✅ Correct Answer:** `D) Remove 'FROM Employees'`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unnecessary for this function.
+
+</details>
 
 ---
 
@@ -320,10 +394,15 @@ fix "SELECT Name, AGE(BirthDate) AS Age FROM Customers;".
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) GE — not standard; combine other date functions`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) GE — not standard; combine other date functions`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -342,10 +421,15 @@ fix "SELECT CONCAT(FirstName, ' ', LastName) FROM Employees;".
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) dd 'AS FullName' for clarity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) dd 'AS FullName' for clarity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -364,10 +448,15 @@ scholarship recipients + name, amount, date.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) INNER JOIN on STUDENT_ID = STUDENT_REF_ID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-only matching recipients.
+> **✅ Correct Answer:** `B) INNER JOIN on STUDENT_ID = STUDENT_REF_ID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> only matching recipients.
+
+</details>
 
 ---
 
@@ -386,10 +475,15 @@ all students with scholarship amount or NULL.
 - C) Contradictory hypothesis to LEFT JOIN
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) LEFT JOIN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-keeps all students.
+> **✅ Correct Answer:** `A) LEFT JOIN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> keeps all students.
+
+</details>
 
 ---
 
@@ -408,10 +502,15 @@ top 5 by GPA desc.
 - C) SELECT * from Student ORDER BY GPA DESC LIMIT 5;
 - D) Contradictory hypothesis to SELECT * from Student ORD
 
-**✅ Correct Answer:** `C) SELECT * from Student ORDER BY GPA DESC LIMIT 5;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SELECT * from Student ORDER BY GPA DESC LIMIT 5;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -430,10 +529,15 @@ first 50% of records.
 - C) Both A and B
 - D) Contradictory hypothesis to SELECT * FROM Student LIM
 
-**✅ Correct Answer:** `A) SELECT * FROM Student LIMIT (SELECT COUNT(*) FROM Student) / 2;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) SELECT * FROM Student LIMIT (SELECT COUNT(*) FROM Student) / 2;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -452,10 +556,15 @@ current date and time.
 - C) SELECT NOW();
 - D) Contradictory hypothesis to SELECT NOW();
 
-**✅ Correct Answer:** `C) SELECT NOW();`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-CURDATE is date-only.
+> **✅ Correct Answer:** `C) SELECT NOW();`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> CURDATE is date-only.
+
+</details>
 
 ---
 
@@ -468,9 +577,12 @@ CURDATE is date-only.
 clone table structure + data.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[SQL Mock-2] Question 6](./images/sql_table_clone.svg)
+
+</details>
 
 **Options:**
 - A) REATE TABLE CloneTable AS GET * FROM Student;
@@ -478,10 +590,15 @@ clone table structure + data.
 - C) REATE TABLE CloneTable AS SELECT * FROM Student;
 - D) REATE TABLE CloneTable AS SELECT * FROM Student;
 
-**✅ Correct Answer:** `C) REATE TABLE CloneTable AS SELECT * FROM Student;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) REATE TABLE CloneTable AS SELECT * FROM Student;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -500,10 +617,15 @@ student details with program names.
 - C) JOIN Student s / Program p ON s.STUDENT_ID = p.STUDENT_REF_ID
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) JOIN Student s / Program p ON s.STUDENT_ID = p.STUDENT_REF_ID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) JOIN Student s / Program p ON s.STUDENT_ID = p.STUDENT_REF_ID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -522,10 +644,15 @@ scholarship recipients with amounts.
 - C) SELECT s.STUDENT_ID, s.FIRST_NAME, s.LAST_NAME, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SELECT s.STUDENT_ID, s.FIRST_NAME, s.LAST_NAME, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SELECT s.STUDENT_ID, s.FIRST_NAME, s.LAST_NAME, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -544,10 +671,15 @@ names + program + scholarship (only students having both).
 - C) triple INNER JOIN of Student, Program, Scholarship
 - D) Contradictory hypothesis to triple INNER JOIN of Stud
 
-**✅ Correct Answer:** `C) triple INNER JOIN of Student, Program, Scholarship`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) triple INNER JOIN of Student, Program, Scholarship`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -566,10 +698,15 @@ students in a program with no scholarship.
 - C) Both A and B
 - D) LEFT JOIN ... WHERE sc.STUDENT_REF_ID IS NULL
 
-**✅ Correct Answer:** `D) LEFT JOIN ... WHERE sc.STUDENT_REF_ID IS NULL`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) LEFT JOIN ... WHERE sc.STUDENT_REF_ID IS NULL`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -588,10 +725,15 @@ GPA + scholarship amount for holders.
 - C) Legacy standard alternative
 - D) SELECT s.FIRST_NAME, s.LAST_NAME, s.GPA, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;
 
-**✅ Correct Answer:** `D) SELECT s.FIRST_NAME, s.LAST_NAME, s.GPA, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) SELECT s.FIRST_NAME, s.LAST_NAME, s.GPA, sc.SCHOLARSHIP_AMOUNT FROM Student s JOIN Scholarship sc ON s.STUDENT_ID = sc.STUDENT_REF_ID;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -610,10 +752,15 @@ fix "SELECT CEILING(Price) AS RoundedPrice FROM Products WHERE Price > 0;".
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Remove 'WHERE Price > 0'`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unnecessary.
+> **✅ Correct Answer:** `A) Remove 'WHERE Price > 0'`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unnecessary.
+
+</details>
 
 ---
 
@@ -632,10 +779,15 @@ SQUARE vs POWER.
 - C) Contradictory hypothesis to SQUARE = square; POWER = 
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) SQUARE = square; POWER = any exponent`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) SQUARE = square; POWER = any exponent`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -654,10 +806,15 @@ what CEILING does.
 - C) smallest integer ≥ the number
 - D) Contradictory hypothesis to smallest integer ≥ the nu
 
-**✅ Correct Answer:** `C) smallest integer ≥ the number`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) smallest integer ≥ the number`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -676,9 +833,14 @@ fix FULL OUTER JOIN with "WHERE Departments.DepartmentName IS NULL".
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Remove the WHERE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-undermines the full outer join.
+> **✅ Correct Answer:** `B) Remove the WHERE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> undermines the full outer join.
+
+</details>
 
 ---

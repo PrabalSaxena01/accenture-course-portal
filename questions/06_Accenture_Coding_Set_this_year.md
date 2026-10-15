@@ -20,9 +20,12 @@ Problem Statement & Assessment Scenario:
 3. Web (jQuery) — dropdown of fruits (Apple, Banana, Mango, Orange) ...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Coding Set] "Accenture Coding Set this year"  Accenture 8 Jan Solution txt](./images/code_grid_uniformity.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -30,13 +33,18 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3 coding solutions:
-1. String grid uniformity — string length is a perfect square; fill n×n grid row-wise (n = sqrt(len)); count rows+columns with all identical chars. Python + Java. Example S="aaaabbbcc" → 3×3 → answer 1.
-2. SQL — join course/section/schedule tables; select course_id, course_name, day, starttime where day='wed'.
-3. Web (jQuery) — dropdown of fruits (Apple, Banana, Mango, Orange) + "Show Selected" button displaying value in a paragraph; centered text.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3 coding solutions:
+> 1. String grid uniformity — string length is a perfect square; fill n×n grid row-wise (n = sqrt(len)); count rows+columns with all identical chars. Python + Java. Example S="aaaabbbcc" → 3×3 → answer 1.
+> 2. SQL — join course/section/schedule tables; select course_id, course_name, day, starttime where day='wed'.
+> 3. Web (jQuery) — dropdown of fruits (Apple, Banana, Mango, Orange) + "Show Selected" button displaying value in a paragraph; centered text.
+
+</details>
 
 ---
 
@@ -51,9 +59,12 @@ Q1 "Running Sum and Divisibility Count" — for N, running sums 1..N, count sums
 Q2 "Random Quote Generator" — web task with Math.random() on button click; HTML/CSS/JS + live "Show Random Quote" output....
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Coding Set] Sept 10 Set](./images/code_superior_elements.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -61,11 +72,16 @@ Q2 "Random Quote Generator" — web task with Math.random() on button click; HTM
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Q1 "Running Sum and Divisibility Count" — for N, running sums 1..N, count sums divisible by given integer. Python/Java/C# solutions.
-Q2 "Random Quote Generator" — web task with Math.random() on button click; HTML/CSS/JS + live "Show Random Quote" output.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Q1 "Running Sum and Divisibility Count" — for N, running sums 1..N, count sums divisible by given integer. Python/Java/C# solutions.
+> Q2 "Random Quote Generator" — web task with Math.random() on button click; HTML/CSS/JS + live "Show Random Quote" output.
+
+</details>
 
 ---
 
@@ -81,9 +97,12 @@ Problem Statement & Assessment Scenario:
 - Q2 (Slot 2) "Robot Energy Peak Route", Medium: sam...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Coding Set] Accenture Sept 17 & 18](./images/code_superior_elements.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -91,13 +110,18 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Accenture Coding Archive 17 & 18 Sept Exams", 45-min limit, Java/Python toggle:
-- Q1 (Slot 1) "Mountain Trail Elevation (Max Bitonic Subarray Sum)", Medium: contiguous subarray ≥3 checkpoints, strictly increasing to peak then strictly decreasing; max such sum (0/-1 if none). 3 test cases + O(N) solution (leftSum/rightSum at peaks) + visualizer.
-- Q2 (Slot 2) "Robot Energy Peak Route", Medium: same bitonic-max-sum on energy values; example (10,20,30,25,15,5,20,40,10 → 105); O(N) + two-pointer alternative + tester.
-- Q3 (Slot 3) "Array Digital Length & Digit Operations", Easy-Medium: per element, even digit-length → add (digit length)², odd → add digit sum. Example [12,345,7,8888] → 4+12+7+16=39. Playground + solution.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Accenture Coding Archive 17 & 18 Sept Exams", 45-min limit, Java/Python toggle:
+> - Q1 (Slot 1) "Mountain Trail Elevation (Max Bitonic Subarray Sum)", Medium: contiguous subarray ≥3 checkpoints, strictly increasing to peak then strictly decreasing; max such sum (0/-1 if none). 3 test cases + O(N) solution (leftSum/rightSum at peaks) + visualizer.
+> - Q2 (Slot 2) "Robot Energy Peak Route", Medium: same bitonic-max-sum on energy values; example (10,20,30,25,15,5,20,40,10 → 105); O(N) + two-pointer alternative + tester.
+> - Q3 (Slot 3) "Array Digital Length & Digit Operations", Easy-Medium: per element, even digit-length → add (digit length)², odd → add digit sum. Example [12,345,7,8888] → 4+12+7+16=39. Playground + solution.
+
+</details>
 
 ---
 
@@ -120,13 +144,18 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Accenture Exam Solutions 19th September Slot" (SRM KTR feedback), 3 tabs:
-1. Coding — "Square Last Digit Match (Coins Problem)", Easy-Medium: count numbers 1..N whose squares end with digit D. Java/Python + simulation.
-2. Web Dev — "Countdown & Pop-up".
-3. SQL — "Animal & Thief Join".
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Accenture Exam Solutions 19th September Slot" (SRM KTR feedback), 3 tabs:
+> 1. Coding — "Square Last Digit Match (Coins Problem)", Easy-Medium: count numbers 1..N whose squares end with digit D. Java/Python + simulation.
+> 2. Web Dev — "Countdown & Pop-up".
+> 3. SQL — "Animal & Thief Join".
+
+</details>
 
 ---
 
@@ -146,10 +175,15 @@ Just "Link :" → https://knoffcampusjobs.com/5612-2/ ("Accenture Coding Assessm
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Just "Link :" → https://knoffcampusjobs.com/5612-2/ ("Accenture Coding Assessment QUestions , SQL , Web"). Comments (Sep 26 / Oct 2, 2026) say link not loading.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Just "Link :" → https://knoffcampusjobs.com/5612-2/ ("Accenture Coding Assessment QUestions , SQL , Web"). Comments (Sep 26 / Oct 2, 2026) say link not loading.
+
+</details>
 
 ---
 
@@ -171,12 +205,17 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Accenture Exam Solutions — 22nd September", 3 verified solutions:
-- Task 1 DSA "Next Palindromic Perfect Square Difference": given N, next X>N that is both palindrome and perfect square; return |X−N|. Example N=404 → 484 → 80. C++/Java/Python/JS + tester.
-- Task 2: SQL Query. Task 3: Frontend Swap.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Accenture Exam Solutions — 22nd September", 3 verified solutions:
+> - Task 1 DSA "Next Palindromic Perfect Square Difference": given N, next X>N that is both palindrome and perfect square; return |X−N|. Example N=404 → 484 → 80. C++/Java/Python/JS + tester.
+> - Task 2: SQL Query. Task 3: Frontend Swap.
+
+</details>
 
 ---
 
@@ -193,9 +232,12 @@ Problem Statement & Assessment Scenario:
 - Web / UI: Q3 "Interactive Shape Switcher Widget" — Triangle/Circle/Square buttons + li...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Coding Set] Accenture 30 Sept](./images/code_binary_search_tree.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -203,14 +245,19 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Accenture Assessment Solutions", 3 sections:
-- Coding / Array: Q1 "Rotate Array to the Right by K Steps" — examples + playground + "Show Solution".
-- SQL / 4-table join & aggregation: Q2 "Multi-Table Aggregation Query" — output Department Name, Total Employees, Total Salary; 7 tables "Show Tables" + solution.
-- Web / UI: Q3 "Interactive Shape Switcher Widget" — Triangle/Circle/Square buttons + live preview + solution.
-Discussion has student-posted solutions.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Accenture Assessment Solutions", 3 sections:
+> - Coding / Array: Q1 "Rotate Array to the Right by K Steps" — examples + playground + "Show Solution".
+> - SQL / 4-table join & aggregation: Q2 "Multi-Table Aggregation Query" — output Department Name, Total Employees, Total Salary; 7 tables "Show Tables" + solution.
+> - Web / UI: Q3 "Interactive Shape Switcher Widget" — Triangle/Circle/Square buttons + live preview + solution.
+> Discussion has student-posted solutions.
+
+</details>
 
 ---
 
@@ -226,9 +273,12 @@ Problem Statement & Assessment Scenario:
 2. SQL — join Categories & Courses; courses priced above their category's average: title, category, price. Sample: Categories (Web Development, Data Science); Courses (React JS Mastery 150, F...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[Coding Set] Coding Set 6 October](./images/code_prime_sieve.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for omplete optimal code
@@ -236,14 +286,19 @@ Problem Statement & Assessment Scenario:
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Accenture Technical Recruitment Solutions":
-1. Coding — per unique char: (ASCII × frequency) % 5, sum non-zero results. Java/Python. 4 tests: "ababc" → 4+1+4=9; "aaaaa" → 0. Embedded ASCII/modulo calculator.
-2. SQL — join Categories & Courses; courses priced above their category's average: title, category, price. Sample: Categories (Web Development, Data Science); Courses (React JS Mastery 150, Full Stack Node.js 250, Python for Data Science 300, ML Specialization 500) → expected: Full Stack Node.js/Web Development/250.00; ML Specialization/Data Science/500.00.
-3. Web Lab (HTML/CSS/JS) — form input placeholders, CSS input padding, JS string processing + form events.
-Discussion: user-posted Python/Java solutions.
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Accenture Technical Recruitment Solutions":
+> 1. Coding — per unique char: (ASCII × frequency) % 5, sum non-zero results. Java/Python. 4 tests: "ababc" → 4+1+4=9; "aaaaa" → 0. Embedded ASCII/modulo calculator.
+> 2. SQL — join Categories & Courses; courses priced above their category's average: title, category, price. Sample: Categories (Web Development, Data Science); Courses (React JS Mastery 150, Full Stack Node.js 250, Python for Data Science 300, ML Specialization 500) → expected: Full Stack Node.js/Web Development/250.00; ML Specialization/Data Science/500.00.
+> 3. Web Lab (HTML/CSS/JS) — form input placeholders, CSS input padding, JS string processing + form events.
+> Discussion: user-posted Python/Java solutions.
+
+</details>
 
 ---
 
@@ -263,9 +318,14 @@ Interactive "Web Lab Solution" (no static text): char frequency / ASCII-modulo-5
 - C) omplete optimal code solution and test cases verified
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Interactive "Web Lab Solution" (no static text): char frequency / ASCII-modulo-5 calculator — "Enter Assessment String" + "Calculate Result" (not pressed). Discussion: AMAN KASAUDHAN (Oct 7, 2026) posted HTML/JS solution ((97+i)*count % 5 per letter); PSEUDO ANONYMOUS: "bro where is the soluton".
+> **✅ Correct Answer:** `C) omplete optimal code solution and test cases verified`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Interactive "Web Lab Solution" (no static text): char frequency / ASCII-modulo-5 calculator — "Enter Assessment String" + "Calculate Result" (not pressed). Discussion: AMAN KASAUDHAN (Oct 7, 2026) posted HTML/JS solution ((97+i)*count % 5 per letter); PSEUDO ANONYMOUS: "bro where is the soluton".
+
+</details>
 
 ---

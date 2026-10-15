@@ -22,10 +22,15 @@ diagnose abrupt microservice instances in flash sale?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) heap logs / memory allocation profiling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-profiling finds memory leaks.
+> **✅ Correct Answer:** `B) heap logs / memory allocation profiling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> profiling finds memory leaks.
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ anomaly — concurrent txns read same balance differently?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) non-repeatable read`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) non-repeatable read`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ best PK for EHR patient records?
 - C) MedicalRecordID
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) MedicalRecordID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) MedicalRecordID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ DevOps block automating SAST audits?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) continuous delivery pipeline quality gate`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) continuous delivery pipeline quality gate`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ evolve REST API without breaking legacy?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) content negotiation via Accept headers`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-legacy clients keep working.
+> **✅ Correct Answer:** `B) content negotiation via Accept headers`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> legacy clients keep working.
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ which is NOT a disadvantage of inline reverse-proxy WAF?
 - C) intercepts/drops SQLi+XSS pre-app — that's the benefit
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) intercepts/drops SQLi+XSS pre-app — that's the benefit`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) intercepts/drops SQLi+XSS pre-app — that's the benefit`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ Book class vs myBook object?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) class vs instance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) class vs instance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ polymorphism of two executePayment methods?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) method overloading / compile-time`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) method overloading / compile-time`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ first step for slow DB endpoint?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) process lists, slow query logs, APM`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) process lists, slow query logs, APM`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -220,10 +265,15 @@ API versioning /v1/, /v2/?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) explicit versioned endpoints`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) explicit versioned endpoints`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -242,10 +292,15 @@ versioned store for build outputs?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) artifact repository`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) artifact repository`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -258,9 +313,12 @@ Verified Accenture placement test pattern.
 PK for Orders table?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Complete Set - Technical 1"] Question 12](./images/sql_orders_schema.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for OrderID
@@ -268,10 +326,15 @@ PK for Orders table?
 - C) OrderID
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) OrderID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) OrderID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -290,10 +353,15 @@ anomaly — row re-read returns different data?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) non-repeatable read`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) non-repeatable read`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -312,10 +380,15 @@ first step for container high latency?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) analyze network traffic and logs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) analyze network traffic and logs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -334,10 +407,15 @@ purpose of micro-segmentation?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) restrict lateral movement`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) restrict lateral movement`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -356,10 +434,15 @@ IPsec tunnel encryption+integrity?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) ESP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ESP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -378,10 +461,15 @@ VPN for engineer at public airport?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) remote-access VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) remote-access VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -400,10 +488,15 @@ protocol for real-time game traffic?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) UDP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) UDP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -422,10 +515,15 @@ OSI layer for IP addressing/routing?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) network layer / L3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) network layer / L3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -444,10 +542,15 @@ firewall tracking TCP sessions?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) stateful packet inspection`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) stateful packet inspection`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -466,10 +569,15 @@ cloud model for ready-to-use web CRM?
 - C) SaaS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) SaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -488,10 +596,15 @@ layer unifying mainframe+cloud data?
 - C) data virtualization / abstraction layer
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) data virtualization / abstraction layer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) data virtualization / abstraction layer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -510,10 +623,15 @@ most secure cloud for classified data?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) private cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) private cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -532,10 +650,15 @@ tech abstracting bare metal to vCPU/vRAM?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) hypervisor-based virtualization`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) hypervisor-based virtualization`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -554,10 +677,15 @@ cloud model with customer OS/network control?
 - C) IaaS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) IaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) IaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -576,10 +704,15 @@ resource pooling → storage elasticity?
 - C) dynamic on-demand allocation from shared pool
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) dynamic on-demand allocation from shared pool`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) dynamic on-demand allocation from shared pool`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -598,10 +731,15 @@ why IoT substitution-cipher data garbled?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) key collisions in cipher mapping`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) key collisions in cipher mapping`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -620,10 +758,15 @@ Verified Accenture placement test pattern.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) PEAP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) PEAP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -642,10 +785,15 @@ trace pseudocode (a=2,b=4,c=5)?
 - C) 13
 - D) 14
 
-**✅ Correct Answer:** `B) 12`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(2+5>5+2) false skipped; 11<11 false → else yields 12.
+> **✅ Correct Answer:** `B) 12`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (2+5>5+2) false skipped; 11<11 false → else yields 12.
+
+</details>
 
 ---
 
@@ -664,10 +812,15 @@ final p+q+r (p=3,q=6,r=5)?
 - C) 42
 - D) 43
 
-**✅ Correct Answer:** `B) 41`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(3+5>6−3) true → q=17; XOR check → 41.
+> **✅ Correct Answer:** `B) 41`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (3+5>6−3) true → q=17; XOR check → 41.
+
+</details>
 
 ---
 
@@ -686,10 +839,15 @@ evaluate funn(1,3,8)?
 - C) 13
 - D) 14
 
-**✅ Correct Answer:** `A) 12`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(12<4) false, skipped; returns 1+3+8.
+> **✅ Correct Answer:** `A) 12`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (12<4) false, skipped; returns 1+3+8.
+
+</details>
 
 ---
 
@@ -708,10 +866,15 @@ what does compute(5) return?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) 120 = 5!`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 120 = 5!`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -730,10 +893,15 @@ Verified Accenture placement test pattern.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) 5.0`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(1&2)&5=0; (2>5) false; recomputed → 5.0.
+> **✅ Correct Answer:** `A) 5.0`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (1&2)&5=0; (2>5) false; recomputed → 5.0.
+
+</details>
 
 ---
 
@@ -752,10 +920,15 @@ loop pseudocode output (a=5,b=2)?
 - C) 32
 - D) 33
 
-**✅ Correct Answer:** `A) 31`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-iter1 b→14; iter2 → 31.
+> **✅ Correct Answer:** `A) 31`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> iter1 b→14; iter2 → 31.
+
+</details>
 
 ---
 
@@ -774,10 +947,15 @@ input matching ^[A-Z]{2}[0-9]{4}$?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) AB1234`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) AB1234`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -796,10 +974,15 @@ print 3rd element of scores (0-based)?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) PRINT scores[2]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) PRINT scores[2]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -818,10 +1001,15 @@ SQL all employees + departments?
 - C) LEFT JOIN — preserves all Employees rows
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) LEFT JOIN — preserves all Employees rows`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) LEFT JOIN — preserves all Employees rows`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -840,10 +1028,15 @@ SQL letter-'e' frequency?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) LENGTH−LENGTH(REPLACE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) LENGTH−LENGTH(REPLACE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -862,10 +1055,15 @@ slot for graphics upgrade?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) PCIe`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) PCIe`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -884,10 +1082,15 @@ disk module with integrated flash controllers?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) EIDE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) EIDE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -906,10 +1109,15 @@ OS stopping background apps reading sensitive data?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) access control and file permission management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) access control and file permission management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -928,10 +1136,15 @@ PowerPoint reveal nested bullets individually?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) By Paragraph animation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) By Paragraph animation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -950,10 +1163,15 @@ Word shortcut for current system time?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) Alt+Shift+T`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Alt+Shift+T`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -972,10 +1190,15 @@ INDEX/MATCH for MIN unit price?
 - C) None of the listed implementations
 - D) Cable, price 15
 
-**✅ Correct Answer:** `D) Cable, price 15`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Cable, price 15`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -994,10 +1217,15 @@ policy preventing privilege-escalation recurrence?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) user access control and least privilege`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) user access control and least privilege`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1016,10 +1244,15 @@ what does `this` pass to handler reading tagName?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) button`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-HTMLButtonElement; tagName='BUTTON'.
+> **✅ Correct Answer:** `A) button`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> HTMLButtonElement; tagName='BUTTON'.
+
+</details>
 
 ---
 
@@ -1038,10 +1271,15 @@ map divide-by-2 over [10,20,30]?
 - C) 6, 11, 16
 - D) 7, 12, 17
 
-**✅ Correct Answer:** `B) 5, 10, 15`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5, 10, 15`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1060,10 +1298,15 @@ semantic tag for intro content?
 - C) <span></span>
 - D) <section></section>
 
-**✅ Correct Answer:** `B) <header>`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) <header>`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1076,9 +1319,12 @@ Verified Accenture placement test pattern.
 CSS square→circle?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Complete Set - Technical 2"] Question 4](./images/mod7_q49_complete_set_technical_2_quest.svg)
+
+</details>
 
 **Options:**
 - A) border-radius: 50%;
@@ -1086,10 +1332,15 @@ CSS square→circle?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) border-radius: 50%;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) border-radius: 50%;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1108,10 +1359,15 @@ Java Vehicle/Bike inheritance?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) class Bike extends Vehicle `
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) class Bike extends Vehicle `
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1130,10 +1386,15 @@ NOT a disadvantage of inline WAF?
 - C) drops SQLi+XSS pre-app — the benefit
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) drops SQLi+XSS pre-app — the benefit`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) drops SQLi+XSS pre-app — the benefit`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1152,10 +1413,15 @@ Book class vs myBook?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) class vs instance`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) class vs instance`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1174,10 +1440,15 @@ overloaded executePayment polymorphism?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) method overloading / compile-time`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) method overloading / compile-time`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1196,10 +1467,15 @@ HTTP status for unauthenticated admin-endpoint call?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) 401 Unauthorized`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 401 Unauthorized`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1218,10 +1494,15 @@ API evolution without breaking clients?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) /v1/, /v2/ versioned endpoints`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) /v1/, /v2/ versioned endpoints`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1240,10 +1521,15 @@ versioned build-output store?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) artifact repository`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) artifact repository`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1256,9 +1542,12 @@ Verified Accenture placement test pattern.
 Orders table PK?
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Complete Set - Technical 2"] Question 12](./images/sql_orders_schema.svg)
+
+</details>
 
 **Options:**
 - A) Alternative configuration A for OrderID
@@ -1266,10 +1555,15 @@ Orders table PK?
 - C) OrderID
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) OrderID`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) OrderID`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1288,10 +1582,15 @@ row re-read anomaly?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) non-repeatable read`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) non-repeatable read`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1310,10 +1609,15 @@ first step for slow DB query?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) process lists, slow query logs, APM`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) process lists, slow query logs, APM`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1332,10 +1636,15 @@ micro-segmentation purpose?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) restrict lateral movement`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) restrict lateral movement`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1354,10 +1663,15 @@ IPsec tunnel protocol?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) ESP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ESP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1376,10 +1690,15 @@ VPN for 50 branches?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) site-to-site VPN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) site-to-site VPN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1398,10 +1717,15 @@ low-latency game protocol?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) UDP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) UDP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1420,10 +1744,15 @@ OSI IP addressing layer?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) network layer / L3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) network layer / L3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1442,10 +1771,15 @@ session-tracking firewall?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) stateful packet inspection`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) stateful packet inspection`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1464,10 +1798,15 @@ cloud model for VPCs/VMs?
 - C) IaaS
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) IaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) IaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1486,10 +1825,15 @@ most secure cloud for defense contractor?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) private cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) private cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1508,10 +1852,15 @@ hardware abstraction layer?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) hypervisor`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) hypervisor`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1530,10 +1879,15 @@ customer responsibility "in" the cloud?
 - C) OS patches on guest VMs
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) OS patches on guest VMs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) OS patches on guest VMs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1552,10 +1906,15 @@ pooling → elasticity?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) dynamic reallocation from shared pool`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) dynamic reallocation from shared pool`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1574,10 +1933,15 @@ why Caesar(+3) text garbled?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) double +6 shift; must shift back 3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) double +6 shift; must shift back 3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1596,10 +1960,15 @@ Verified Accenture placement test pattern.
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) EAP-TLS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) EAP-TLS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1618,10 +1987,15 @@ SQL count 'a' in LastName?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) LENGTH−LENGTH(REPLACE 'a`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) LENGTH−LENGTH(REPLACE 'a`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1640,10 +2014,15 @@ SQL all departments incl. empty?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) Departments LEFT JOIN Employees`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Departments LEFT JOIN Employees`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1662,10 +2041,15 @@ print 3rd element (0-based)?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) PRINT scores[2]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) PRINT scores[2]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1684,10 +2068,15 @@ string matching 6-alphanumeric rule?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) code12`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) code12`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1700,9 +2089,12 @@ Verified Accenture placement test pattern.
 Asks: bitwise loop final (x=6,y=10)? FLAG BROKEN — options duplicate Q31; quiz marks B ("code12") but explanation computes the loop. UNRELIABLE — do not use.
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![["Complete Set - Technical 2"] Question 32](./images/code_bitwise_operations.svg)
+
+</details>
 
 **Options:**
 - A) Contradictory hypothesis to 
@@ -1710,10 +2102,15 @@ Asks: bitwise loop final (x=6,y=10)? FLAG BROKEN — options duplicate Q31; quiz
 - C) 
 - D) Both A and B
 
-**✅ Correct Answer:** `C) `
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) `
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1732,10 +2129,15 @@ Verified Accenture placement test pattern.
 - C) 17
 - D) 18
 
-**✅ Correct Answer:** `B) 16`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(4&3)=0; (3>0) true → 16. (Learner-flagged but key+explanation coherent.)
+> **✅ Correct Answer:** `B) 16`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (4&3)=0; (3>0) true → 16. (Learner-flagged but key+explanation coherent.)
+
+</details>
 
 ---
 
@@ -1754,10 +2156,15 @@ what does recursive sumSeries compute?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) sum 1..n`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) sum 1..n`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1776,10 +2183,15 @@ trace funn(2,4,5)?
 - C) 18
 - D) 20
 
-**✅ Correct Answer:** `C) 18`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-(2+4<5) false → b=7; c=2+7=18.
+> **✅ Correct Answer:** `C) 18`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> (2+4<5) false → b=7; c=2+7=18.
+
+</details>
 
 ---
 
@@ -1798,10 +2210,15 @@ final p+q+r with XOR (3,6,4)?
 - C) 18
 - D) 19
 
-**✅ Correct Answer:** `B) 17`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-3^6=5>4 → p=7; 7+6+4=17.
+> **✅ Correct Answer:** `B) 17`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 3^6=5>4 → p=7; 7+6+4=17.
+
+</details>
 
 ---
 
@@ -1820,10 +2237,15 @@ Asks: output of process(2,3,4)? FLAG BROKEN — options duplicate Q36; quiz mark
 - C) Legacy standard alternative
 - D) 
 
-**✅ Correct Answer:** `D) `
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) `
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1842,10 +2264,15 @@ motherboard CPU/memory/I-O pathway?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) system bus`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) system bus`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1864,10 +2291,15 @@ fastest SSD interface?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) NVMe`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) NVMe`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1886,10 +2318,15 @@ OS file authorization mechanism?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) file system access control`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) file system access control`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1908,10 +2345,15 @@ PowerPoint sequential bullets?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) entrance animation + 'By Paragraph`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) entrance animation + 'By Paragraph`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1930,10 +2372,15 @@ Excel current-time shortcut?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) Ctrl+Shift+;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Ctrl+Shift+;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1952,10 +2399,15 @@ INDEX/MATCH for MAX sales?
 - C) Smartphone, 450
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) Smartphone, 450`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Smartphone, 450`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1974,9 +2426,14 @@ secure admin-role principle?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) principle of least privilege`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) principle of least privilege`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

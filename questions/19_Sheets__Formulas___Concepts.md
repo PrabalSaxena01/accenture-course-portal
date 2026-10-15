@@ -22,11 +22,16 @@ An item marked at Rs. 1,000 is sold with successive discounts of 20% and 10%. Wh
 - Rs. 750
 - Rs. 780
 
-**✅ Correct Answer:** `Rs. 720`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Method 1: Formula = -20 - 10 + (20 * 10) / 100 = -30 + 2 = -28% net discount.
-Selling Price = 1,000 * (1 - 0.28) = Rs. 720.
-Method 2: 1,000 * 0.80 = 800; 800 * 0.90 = Rs. 720.
+> **✅ Correct Answer:** `Rs. 720`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Method 1: Formula = -20 - 10 + (20 * 10) / 100 = -30 + 2 = -28% net discount.
+> Selling Price = 1,000 * (1 - 0.28) = Rs. 720.
+> Method 2: 1,000 * 0.80 = 800; 800 * 0.90 = Rs. 720.
+
+</details>
 
 ---

@@ -20,9 +20,12 @@ Objectives & Problem Context:
 ...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[LINK] Web Compiler Link](./images/code_superior_elements.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -30,13 +33,18 @@ Objectives & Problem Context:
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-Complete optimal code implementation provided.
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> Complete optimal code implementation provided.
+> ```
+
+</details>
 
 ---
 
@@ -62,9 +70,12 @@ GROUP BY c.customer_id, c.customer_name
 HAVING SUM(oi.quantity) > 1...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[ARTICLE] SQL - 1](./images/sql_orders_schema.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -72,21 +83,26 @@ HAVING SUM(oi.quantity) > 1...
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-SELECT c.customer_name,
-       SUM(oi.quantity * oi.price) AS total_spending,
-       COUNT(DISTINCT oi.product_name) AS distinct_products
-FROM customers c
-JOIN orders o ON c.customer_id = o.customer_id
-JOIN order_items oi ON o.order_id = oi.order_id
-WHERE c.city = 'New York'
-GROUP BY c.customer_id, c.customer_name
-HAVING SUM(oi.quantity) > 1;
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> SELECT c.customer_name,
+>        SUM(oi.quantity * oi.price) AS total_spending,
+>        COUNT(DISTINCT oi.product_name) AS distinct_products
+> FROM customers c
+> JOIN orders o ON c.customer_id = o.customer_id
+> JOIN order_items oi ON o.order_id = oi.order_id
+> WHERE c.city = 'New York'
+> GROUP BY c.customer_id, c.customer_name
+> HAVING SUM(oi.quantity) > 1;
+> ```
+
+</details>
 
 ---
 
@@ -114,9 +130,12 @@ print(", ".join(map(str, primes)) if primes else "No primes found")
 ```...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[CODE EXERCISE] Coding Mock Test - 14](./images/code_prime_sieve.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -124,22 +143,27 @@ print(", ".join(map(str, primes)) if primes else "No primes found")
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-def is_prime(n):
-    if n < 2:
-        return False
-    for i in range(2, int(n ** 0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
-L, R = int(input()), int(input())
-primes = [x for x in range(L, R + 1) if is_prime(x)]
-print(", ".join(map(str, primes)) if primes else "No primes found")
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> def is_prime(n):
+>     if n < 2:
+>         return False
+>     for i in range(2, int(n ** 0.5) + 1):
+>         if n % i == 0:
+>             return False
+>     return True
+> L, R = int(input()), int(input())
+> primes = [x for x in range(L, R + 1) if is_prime(x)]
+> print(", ".join(map(str, primes)) if primes else "No primes found")
+> ```
+
+</details>
 
 ---
 
@@ -156,9 +180,12 @@ Objectives & Problem Context:
 ...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[ARTICLE] Web Based](./images/web_chatbot_widget.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -166,13 +193,18 @@ Objectives & Problem Context:
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-Complete optimal code implementation provided.
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> Complete optimal code implementation provided.
+> ```
+
+</details>
 
 ---
 
@@ -195,9 +227,12 @@ JOIN (SELECT department, MAX(salary) AS max_sal
 ```...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[ARTICLE] SQL Query 2](./images/sql_student_scholarship_join.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -205,17 +240,22 @@ JOIN (SELECT department, MAX(salary) AS max_sal
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-SELECT e.name, e.salary
-FROM Employees e
-JOIN (SELECT department, MAX(salary) AS max_sal
-      FROM Employees GROUP BY department) m
-  ON e.department = m.department AND e.salary = m.max_sal;
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> SELECT e.name, e.salary
+> FROM Employees e
+> JOIN (SELECT department, MAX(salary) AS max_sal
+>       FROM Employees GROUP BY department) m
+>   ON e.department = m.department AND e.salary = m.max_sal;
+> ```
+
+</details>
 
 ---
 
@@ -237,9 +277,12 @@ print("Armstrong Number" if total == n else "Not an Armstrong Number")
 ```...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[CODE EXERCISE] Coding Mock Test - 15](./images/code_armstrong_number.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -247,16 +290,21 @@ print("Armstrong Number" if total == n else "Not an Armstrong Number")
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-n = int(input())
-d = len(str(n))
-total = sum(int(x) ** d for x in str(n))
-print("Armstrong Number" if total == n else "Not an Armstrong Number")
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> n = int(input())
+> d = len(str(n))
+> total = sum(int(x) ** d for x in str(n))
+> print("Armstrong Number" if total == n else "Not an Armstrong Number")
+> ```
+
+</details>
 
 ---
 
@@ -273,9 +321,12 @@ Objectives & Problem Context:
 ...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[ARTICLE] Coding Mock - 3](./images/web_star_rating_widget.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -283,13 +334,18 @@ Objectives & Problem Context:
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-Complete optimal code implementation provided.
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> Complete optimal code implementation provided.
+> ```
+
+</details>
 
 ---
 
@@ -312,9 +368,12 @@ HAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);
 ```...
 ```
 
-**Visual Diagram / Schema Reference:**
+<details>
+<summary>📸 <b>Tap to Reveal Visual Diagram (Spoiler)</b></summary>
 
 ![[ARTICLE] SQL Query 1](./images/sql_table_clone.svg)
+
+</details>
 
 **Options:**
 - A) Implement optimal algorithm using standard libraries
@@ -322,17 +381,22 @@ HAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-SELECT d.department_name
-FROM departments d
-JOIN employees e ON e.department_id = d.department_id
-GROUP BY d.department_name
-HAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> SELECT d.department_name
+> FROM departments d
+> JOIN employees e ON e.department_id = d.department_id
+> GROUP BY d.department_name
+> HAVING AVG(e.salary) > (SELECT AVG(salary) FROM employees);
+> ```
+
+</details>
 
 ---
 
@@ -358,14 +422,19 @@ print(sum(1 for ch in word if ch in "aeiou"))
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-word = input().strip()
-print(sum(1 for ch in word if ch in "aeiou"))
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> word = input().strip()
+> print(sum(1 for ch in word if ch in "aeiou"))
+> ```
+
+</details>
 
 ---
 
@@ -388,12 +457,17 @@ Side effects: none — read-only; nothing submitted, run, created, or changed...
 - C) Recursive DFS without memoization
 - D) Non-deterministic heuristic
 
-**✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Optimal Solution Code & Walkthrough:
-```
-Complete optimal code implementation provided.
-```
+> **✅ Correct Answer:** `A) Implement optimal algorithm using standard libraries`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Optimal Solution Code & Walkthrough:
+> ```
+> Complete optimal code implementation provided.
+> ```
+
+</details>
 
 ---

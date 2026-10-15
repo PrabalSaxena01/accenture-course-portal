@@ -428,8 +428,9 @@
   margin: 0.4rem 0;
 }
 
-/* Visual Blueprint Wrapper */
+/* Visual Blueprint Wrapper & Image Spoiler */
 .q-visual-wrapper {
+  position: relative;
   background: #020617;
   border: 1px solid rgba(56, 189, 248, 0.2);
   border-radius: 6px;
@@ -437,13 +438,102 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow-x: auto;
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+.q-visual-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: filter 0.25s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.25s ease;
 }
 .q-visual-wrapper svg,
 .q-visual-wrapper img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+/* Image Spoiler - Masked State */
+.q-visual-wrapper.is-spoiler {
+  border-color: rgba(56, 189, 248, 0.15);
+  background: radial-gradient(circle at center, rgba(15, 23, 42, 0.95), #020617);
+}
+.q-visual-wrapper.is-spoiler .q-visual-content {
+  filter: blur(16px) grayscale(50%) brightness(0.5);
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.35;
+}
+
+/* Spoiler Overlay Trigger */
+.spoiler-image-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(2, 6, 23, 0.55);
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  padding: 1rem;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.2s ease;
+}
+.spoiler-image-overlay:hover {
+  background: rgba(2, 6, 23, 0.4);
+}
+.spoiler-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(15, 23, 42, 0.9);
+  border: 1px solid rgba(56, 189, 248, 0.45);
+  color: #38bdf8;
+  padding: 0.55rem 1.15rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 12px rgba(56, 189, 248, 0.15);
+  backdrop-filter: blur(8px);
+  transition: all 0.18s ease;
+  user-select: none;
+}
+.spoiler-image-overlay:hover .spoiler-pill {
+  transform: translateY(-1px) scale(1.03);
+  background: rgba(56, 189, 248, 0.15);
+  border-color: #38bdf8;
+  color: #ffffff;
+  box-shadow: 0 6px 24px rgba(56, 189, 248, 0.25);
+}
+
+/* Image Spoiler - Revealed State Re-hide Button */
+.spoiler-rehide-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: var(--text-secondary);
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.25rem 0.55rem;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+  backdrop-filter: blur(4px);
+  transition: all 0.15s ease;
+}
+.spoiler-rehide-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--text-primary);
+  border-color: rgba(255, 255, 255, 0.3);
 }
 
 /* Options Grid */
@@ -541,66 +631,179 @@
   border-color: rgba(16, 185, 129, 0.4);
 }
 
-/* Question Footer & Toggle */
+/* Question Footer & Spoiler Drawer */
 .q-footer {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  width: 100%;
   padding-top: 0.25rem;
 }
 
-.btn-toggle-answer {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  background: transparent;
-  border: 1px solid var(--border-color);
-  color: var(--text-secondary);
-  font-size: 0.75rem;
-  font-weight: 600;
-  padding: 0.35rem 0.65rem;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-.btn-toggle-answer:hover {
-  color: var(--text-primary);
-  border-color: rgba(255, 255, 255, 0.2);
+/* Answer & Explanation Spoiler Box */
+.answer-spoiler-box {
+  width: 100%;
+  border-radius: 6px;
+  transition: all 0.2s ease;
 }
 
-/* Solution Box */
-.q-solution {
+/* Masked State */
+.answer-spoiler-box.is-masked .spoiler-trigger-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px dashed var(--border-color);
+  border-radius: 6px;
+  padding: 0.65rem 1rem;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.15s ease;
+  color: var(--text-secondary);
+  -webkit-tap-highlight-color: transparent;
+}
+.answer-spoiler-box.is-masked .spoiler-trigger-btn:hover {
+  background: rgba(56, 189, 248, 0.05);
+  border-color: rgba(56, 189, 248, 0.4);
+  color: #38bdf8;
+}
+.answer-spoiler-box.is-masked .spoiler-trigger-btn:active {
+  transform: scale(0.995);
+}
+
+.spoiler-trigger-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.spoiler-icon {
+  color: #38bdf8;
+  flex-shrink: 0;
+}
+.spoiler-title {
+  font-size: 0.825rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+.answer-spoiler-box.is-masked .spoiler-trigger-btn:hover .spoiler-title {
+  color: #38bdf8;
+}
+.spoiler-badge-tap {
+  font-size: 0.725rem;
+  font-weight: 600;
+  color: #38bdf8;
+  background: rgba(56, 189, 248, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  letter-spacing: 0.01em;
+  transition: all 0.15s ease;
+}
+.answer-spoiler-box.is-masked .spoiler-trigger-btn:hover .spoiler-badge-tap {
+  background: #38bdf8;
+  color: #020617;
+  border-color: #38bdf8;
+}
+
+/* Revealed State */
+.answer-spoiler-box.is-revealed {
   background: rgba(16, 185, 129, 0.05);
-  border: 1px solid rgba(16, 185, 129, 0.25);
+  border: 1px solid rgba(16, 185, 129, 0.28);
   border-radius: 6px;
   padding: 0.85rem 1rem;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  animation: spoilerSlideDown 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes spoilerSlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-.sol-answer {
+.spoiler-revealed-header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 0.5rem;
-  font-size: 0.85rem;
-  color: #34d399;
 }
-.sol-tag {
-  font-size: 0.65rem;
+.sol-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.675rem;
   font-weight: 700;
   text-transform: uppercase;
   background: rgba(16, 185, 129, 0.15);
   color: #10b981;
-  padding: 0.15rem 0.4rem;
-  border-radius: 3px;
+  padding: 0.18rem 0.5rem;
+  border-radius: 4px;
+}
+.btn-hide-spoiler {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.btn-hide-spoiler:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  border-color: rgba(255, 255, 255, 0.25);
 }
 
-.sol-explanation {
+.sol-answer-text {
+  font-size: 0.925rem;
+  font-weight: 700;
+  color: #34d399;
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0.2rem 0;
+}
+.sol-explanation-text {
   font-size: 0.825rem;
   color: var(--text-secondary);
-  line-height: 1.55;
-  white-space: pre-wrap;
+  line-height: 1.6;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding-top: 0.5rem;
+}
+.exp-label {
+  display: block;
+  font-weight: 600;
+  color: #a7f3d0;
+  margin-bottom: 0.2rem;
+  font-size: 0.775rem;
+}
+
+/* Spoiler Filter Chip */
+.chip.chip-spoiler {
+  border-color: rgba(56, 189, 248, 0.3);
+  color: #38bdf8;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.chip.chip-spoiler:hover {
+  background: rgba(56, 189, 248, 0.1);
+  border-color: #38bdf8;
+}
+.chip.chip-spoiler.active {
+  background: rgba(56, 189, 248, 0.15);
+  color: #ffffff;
+  border-color: #38bdf8;
 }
 
 /* Load more */
@@ -1034,4 +1237,49 @@
   .filter-controls {
     justify-content: space-between;
   }
+}
+
+/* Light theme spoiler overrides */
+[data-theme="light"] .q-visual-wrapper {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+}
+[data-theme="light"] .q-visual-wrapper.is-spoiler {
+  background: #e2e8f0;
+}
+[data-theme="light"] .spoiler-image-overlay {
+  background: rgba(241, 245, 249, 0.75);
+}
+[data-theme="light"] .spoiler-pill {
+  background: #ffffff;
+  color: #0284c7;
+  border-color: #bae6fd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+[data-theme="light"] .spoiler-image-overlay:hover .spoiler-pill {
+  background: #f0f9ff;
+  border-color: #0284c7;
+  color: #0369a1;
+}
+[data-theme="light"] .answer-spoiler-box.is-masked .spoiler-trigger-btn {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+}
+[data-theme="light"] .answer-spoiler-box.is-masked .spoiler-trigger-btn:hover {
+  background: #f0f9ff;
+  border-color: #0284c7;
+}
+[data-theme="light"] .answer-spoiler-box.is-revealed {
+  background: #f0fdf4;
+  border-color: #86efac;
+}
+[data-theme="light"] .sol-answer-text {
+  color: #059669;
+}
+[data-theme="light"] .sol-badge {
+  background: #dcfce7;
+  color: #15803d;
+}
+[data-theme="light"] .exp-label {
+  color: #166534;
 }

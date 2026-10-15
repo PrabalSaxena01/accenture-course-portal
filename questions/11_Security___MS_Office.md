@@ -22,10 +22,15 @@ which color has equal RGB amounts?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) ll of the above (white, gray, black`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-255/255/255, 128/128/128, 0/0/0.
+> **✅ Correct Answer:** `A) ll of the above (white, gray, black`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 255/255/255, 128/128/128, 0/0/0.
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ valid way(s) to add CSS?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) ll — Inline, External, Internal`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) ll — Inline, External, Internal`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ CSS property for text color?
 - C) Legacy standard alternative
 - D) color
 
-**✅ Correct Answer:** `D) color`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) color`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ output of JS object with duplicate key (first:20, second:30, first:50)?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) {first: 50, second: 30}`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-last occurrence wins.
+> **✅ Correct Answer:** `B) {first: 50, second: 30}`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> last occurrence wins.
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ which is NOT an HTML vs XHTML difference?
 - C) Contradictory hypothesis to "Charset in both is 'text
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Charset in both is 'text/html'"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-real diffs = case sensitivity, escaping special chars.
+> **✅ Correct Answer:** `B) "Charset in both is 'text/html'"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> real diffs = case sensitivity, escaping special chars.
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ correct JS alert syntax for "Hello World"?
 - C) Both A and B
 - D) alert('Hello World');
 
-**✅ Correct Answer:** `D) alert('Hello World');`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) alert('Hello World');`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ what does JS "undefined" represent?
 - C) unassigned (declared, no value)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) unassigned (declared, no value)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) unassigned (declared, no value)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ what is <select> for?
 - C) Both A and B
 - D) Contradictory hypothesis to creates a combo box (drop
 
-**✅ Correct Answer:** `A) creates a combo box (drop-down)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) creates a combo box (drop-down)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ which of <div>, <p>, <h1> are block-level?
 - C) Both A and B
 - D) all
 
-**✅ Correct Answer:** `D) all`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -220,10 +265,15 @@ selector targeting element by id?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to #id
 
-**✅ Correct Answer:** `B) #id`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) #id`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -242,10 +292,15 @@ how to select class "example"?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) .example`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) .example`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -264,10 +319,15 @@ output — NaN's type (Object/Number/String/None)?
 - C) Number
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Number`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Number`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -286,10 +346,15 @@ what is DOM?
 - C) Contradictory hypothesis to convention for representi
 - D) Both A and B
 
-**✅ Correct Answer:** `A) convention for representing/interacting with objects in HTML docs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) convention for representing/interacting with objects in HTML docs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -308,10 +373,15 @@ HTML5 element highlighting text?
 - C) Both A and B
 - D) <mark>
 
-**✅ Correct Answer:** `D) <mark>`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) <mark>`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -330,10 +400,15 @@ JS operator checking value + type?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) ===`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) ===`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -352,10 +427,15 @@ output of let x='Hello', y='World', x+' '+y?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "Hello World"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) "Hello World"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -374,10 +454,15 @@ how to define a JS function?
 - C) Legacy standard alternative
 - D) function myFunc() {}
 
-**✅ Correct Answer:** `D) function myFunc() {}`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) function myFunc() {}`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -396,10 +481,15 @@ what is an empty HTML tag?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to needs no closing tag
 
-**✅ Correct Answer:** `B) needs no closing tag`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) needs no closing tag`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -418,10 +508,15 @@ property changing text font?
 - C) Legacy standard alternative
 - D) font-family
 
-**✅ Correct Answer:** `D) font-family`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) font-family`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -440,10 +535,15 @@ what's wrong in ".class { color: blue; font-weight; bold; }"?
 - C) syntax error — should be font-weight: bold;
 - D) Both A and B
 
-**✅ Correct Answer:** `C) syntax error — should be font-weight: bold;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) syntax error — should be font-weight: bold;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -462,10 +562,15 @@ CSS Box Model components?
 - C) ontent, Padding, Border, Margin
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ontent, Padding, Border, Margin`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ontent, Padding, Border, Margin`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -484,10 +589,15 @@ CSS property for outer space around element?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Margin`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Margin`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -506,10 +616,15 @@ output of snippet (8/7/0/1)?
 - C) 10
 - D) 14
 
-**✅ Correct Answer:** `B) 7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -528,10 +643,15 @@ output when JS fn called with numbers instead of single object?
 - C) Contradictory hypothesis to undefined undefined undef
 - D) Both A and B
 
-**✅ Correct Answer:** `A) undefined undefined undefined`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-destructuring fails.
+> **✅ Correct Answer:** `A) undefined undefined undefined`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> destructuring fails.
+
+</details>
 
 ---
 
@@ -550,10 +670,15 @@ result of rotating array right by N?
 - C) [111, 44, 1, 22]
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) [111, 44, 1, 22]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-5 rotations on length-4 = 1 rotation.
+> **✅ Correct Answer:** `C) [111, 44, 1, 22]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 5 rotations on length-4 = 1 rotation.
+
+</details>
 
 ---
 
@@ -572,10 +697,15 @@ HTML is a subset of ___?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) SGML`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SGML`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -594,10 +724,15 @@ which HTML makes an image clickable?
 - C) <a href="..."><img src="..."/></a>
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) <a href="..."><img src="..."/></a>`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) <a href="..."><img src="..."/></a>`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -616,10 +751,15 @@ element for short quotes?
 - C) <q> (<em>=emphasis; <blockquote>=long quotes)
 - D) Both A and B
 
-**✅ Correct Answer:** `C) <q> (<em>=emphasis; <blockquote>=long quotes)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) <q> (<em>=emphasis; <blockquote>=long quotes)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -638,10 +778,15 @@ output of snippet pushing into array (3/4/5/Error)?
 - C) 7
 - D) 11
 
-**✅ Correct Answer:** `B) 4`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-push → length 3→4.
+> **✅ Correct Answer:** `B) 4`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> push → length 3→4.
+
+</details>
 
 ---
 
@@ -660,10 +805,15 @@ what's wrong with power/exponent function?
 - C) Both A and B
 - D) doesn't handle missing exponent
 
-**✅ Correct Answer:** `D) doesn't handle missing exponent`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) doesn't handle missing exponent`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -682,10 +832,15 @@ property letting image link show text label?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) alt`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) alt`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -704,10 +859,15 @@ how is black represented in RGB?
 - C) Both A and B
 - D) RGB(0, 0, 0)
 
-**✅ Correct Answer:** `D) RGB(0, 0, 0)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) RGB(0, 0, 0)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -726,10 +886,15 @@ default BORDER attribute value?
 - C) Contradictory hypothesis to 1pixel
 - D) 1pixel
 
-**✅ Correct Answer:** `D) 1pixel`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 1pixel`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -748,10 +913,15 @@ types of unordered lists?
 - C) circle, square, disc
 - D) Both A and B
 
-**✅ Correct Answer:** `C) circle, square, disc`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) circle, square, disc`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -770,10 +940,15 @@ which objects store client-side data (localStorage/sessionStorage)?
 - C) Both A and B
 - D) both window.localStorage and window.sessionStorage
 
-**✅ Correct Answer:** `D) both window.localStorage and window.sessionStorage`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) both window.localStorage and window.sessionStorage`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -792,10 +967,15 @@ what does Alpha in RGBA represent?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) opacity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) opacity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -814,10 +994,15 @@ Alpha 0.0 = ?
 - C) Contradictory hypothesis to fully transparent (1.0 = 
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) fully transparent (1.0 = opaque)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) fully transparent (1.0 = opaque)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -836,10 +1021,15 @@ how does "margin: auto;" affect element?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) centers horizontally`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) centers horizontally`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -858,10 +1048,15 @@ output of Math.max()/Math.min() with no args?
 - C) Contradictory hypothesis to -Infinity Infinity
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) -Infinity Infinity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) -Infinity Infinity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -880,10 +1075,15 @@ output of snippet mixing numbers, strings, objects?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to 11 Hello6 [object Object]
 
-**✅ Correct Answer:** `B) 11 Hello6 [object Object]6`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 11 Hello6 [object Object]6`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -902,10 +1102,15 @@ what does <address> do in HTML5?
 - C) Both A and B
 - D) contains author's contact details
 
-**✅ Correct Answer:** `D) contains author's contact details`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) contains author's contact details`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -924,10 +1129,15 @@ width 100px + padding 15px + border 5px, box-sizing content-box — total?
 - C) Legacy standard alternative
 - D) 140px
 
-**✅ Correct Answer:** `D) 140px`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-100+30+10.
+> **✅ Correct Answer:** `D) 140px`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> 100+30+10.
+
+</details>
 
 ---
 
@@ -946,10 +1156,15 @@ issue with div {width:100%; padding:20px;} without border-box?
 - C) div wider than parent (padding adds to width)
 - D) Contradictory hypothesis to div wider than parent (pa
 
-**✅ Correct Answer:** `C) div wider than parent (padding adds to width)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) div wider than parent (padding adds to width)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -968,10 +1183,15 @@ output of snippet using ...args rest (NaN/Number/Object/Array)?
 - C) Contradictory hypothesis to Object
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Object`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-array's typeof is "object".
+> **✅ Correct Answer:** `A) Object`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> array's typeof is "object".
+
+</details>
 
 ---
 
@@ -990,10 +1210,15 @@ output of snippet with true in arithmetic (3/0/Error/5)?
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-true=1.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> true=1.
+
+</details>
 
 ---
 
@@ -1012,10 +1237,15 @@ how to find array length in JS?
 - C) Contradictory hypothesis to array.length
 - D) array.length
 
-**✅ Correct Answer:** `D) array.length`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) array.length`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1034,10 +1264,15 @@ how to check if variable is an array?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) rray.isArray(variable`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) rray.isArray(variable`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1056,10 +1291,15 @@ output transforming [10,20,30,40] (options [1,2,3,4]/...)?
 - C) [1, 2, 3, 4]
 - D) Contradictory hypothesis to [1, 2, 3, 4]
 
-**✅ Correct Answer:** `C) [1, 2, 3, 4]`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) [1, 2, 3, 4]`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1078,10 +1318,15 @@ let numbers=[1,2,3]; numbers[10]=11; length?
 - C) 14
 - D) 18
 
-**✅ Correct Answer:** `B) 11`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 11`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1100,10 +1345,15 @@ output of snippet (44/8/4/Error)?
 - C) 47
 - D) 51
 
-**✅ Correct Answer:** `B) 44`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 44`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1122,10 +1372,15 @@ CSS property letting flex item expand proportionally?
 - C) Both A and B
 - D) Contradictory hypothesis to flex-grow
 
-**✅ Correct Answer:** `A) flex-grow`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) flex-grow`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1144,10 +1399,15 @@ what does box-shadow do?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) adds shadow outside element border`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) adds shadow outside element border`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1166,10 +1426,15 @@ correct web address syntax?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) scheme://prefix.domain:port/path/filename`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) scheme://prefix.domain:port/path/filename`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1188,10 +1453,15 @@ non-essential attribute under <iframe>?
 - C) Both A and B
 - D) Contradictory hypothesis to frameborder
 
-**✅ Correct Answer:** `A) frameborder`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) frameborder`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1210,10 +1480,15 @@ property aligning flex item center on main axis?
 - C) justify-content: center
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) justify-content: center`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) justify-content: center`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1232,10 +1507,15 @@ output of snippet ("4 10 18"/"1 2 3"/"1 4 7"/None)?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to 4 10 18
 
-**✅ Correct Answer:** `B) 4 10 18`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 4 10 18`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1254,10 +1534,15 @@ output ("1 2 3 4"/"2 3 4 1"/"2 4 3 1"/"4 3 2 1")?
 - C) Contradictory hypothesis to 2 4 3 1
 - D) 2 4 3 1
 
-**✅ Correct Answer:** `D) 2 4 3 1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 2 4 3 1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1276,10 +1561,15 @@ how to create a new JS object?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) both Object.create() and new Object()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) both Object.create() and new Object()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1298,10 +1588,15 @@ obj1={a:1}, obj2={a:1}; obj1===obj2?
 - C) false
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) false`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) false`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1320,10 +1615,15 @@ which position value positions element relative to nearest positioned ancestor?
 - C) Both A and B
 - D) Contradictory hypothesis to absolute
 
-**✅ Correct Answer:** `A) absolute`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) absolute`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1342,10 +1642,15 @@ main advantage of quantum computing in cloud?
 - C) Contradictory hypothesis to high processing power for
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) high processing power for complex computations`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) high processing power for complex computations`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1364,10 +1669,15 @@ how does edge complement cloud?
 - C) Contradictory hypothesis to processing data closer to
 - D) processing data closer to source (lower latency)
 
-**✅ Correct Answer:** `D) processing data closer to source (lower latency)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) processing data closer to source (lower latency)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1386,10 +1696,15 @@ key benefit of serverless?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to no server management
 
-**✅ Correct Answer:** `B) no server management`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) no server management`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1408,10 +1723,15 @@ highest degree of cloud integration?
 - C) SaaS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) SaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1430,10 +1750,15 @@ which monitors cloud performance in real time?
 - C) loudSensors
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) loudSensors`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) loudSensors`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1452,10 +1777,15 @@ GAE stands for?
 - C) Google Apps Engine
 - D) Contradictory hypothesis to Google Apps Engine
 
-**✅ Correct Answer:** `C) Google Apps Engine`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Google Apps Engine`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1474,10 +1804,15 @@ correct IaaS provider?
 - C) EC2
 - D) Contradictory hypothesis to EC2
 
-**✅ Correct Answer:** `C) EC2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) EC2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1496,10 +1831,15 @@ repeatable task within business process = ___?
 - C) Contradictory hypothesis to service
 - D) service
 
-**✅ Correct Answer:** `D) service`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) service`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1518,10 +1858,15 @@ Google's payment processing system?
 - C) checkout
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) checkout`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) checkout`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1540,10 +1885,15 @@ which provider relies on VM tech to deliver servers?
 - C) IaaS
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) IaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) IaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1562,10 +1912,15 @@ Hadoop data node IP/hostname changes — namenode must?
 - C) Both A and B
 - D) Contradictory hypothesis to need not update file-name
 
-**✅ Correct Answer:** `A) need not update file-name→block-name mapping`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) need not update file-name→block-name mapping`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1584,10 +1939,15 @@ company specializing in cloud management tools?
 - C) RightScale
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) RightScale`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) RightScale`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1606,10 +1966,15 @@ cloud app intermittent downtime — monitor which metric?
 - C) Both A and B
 - D) Latency
 
-**✅ Correct Answer:** `D) Latency`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Latency`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1628,10 +1993,15 @@ challenge of multi-cloud monitoring?
 - C) inconsistent metrics across providers
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) inconsistent metrics across providers`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) inconsistent metrics across providers`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1650,10 +2020,15 @@ longer-than-expected recovery after cloud disaster — cause?
 - C) lack of automated failover
 - D) Contradictory hypothesis to lack of automated failove
 
-**✅ Correct Answer:** `C) lack of automated failover`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) lack of automated failover`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1672,10 +2047,15 @@ best business-continuity strategy for regional outage?
 - C) Both A and B
 - D) Contradictory hypothesis to data replication across r
 
-**✅ Correct Answer:** `A) data replication across regions`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) data replication across regions`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1694,10 +2074,15 @@ scalable cloud app DB connection issues under load — cause?
 - C) database throttling
 - D) Contradictory hypothesis to database throttling
 
-**✅ Correct Answer:** `C) database throttling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) database throttling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1716,10 +2101,15 @@ cloud app perf issues from traffic spike — solution?
 - C) auto-scaling
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) auto-scaling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) auto-scaling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1738,10 +2128,15 @@ major challenge scaling stateful cloud app?
 - C) Contradictory hypothesis to managing session state
 - D) managing session state
 
-**✅ Correct Answer:** `D) managing session state`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) managing session state`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1760,10 +2155,15 @@ company needs local data residency — solution?
 - C) Contradictory hypothesis to use local cloud data cent
 - D) use local cloud data center
 
-**✅ Correct Answer:** `D) use local cloud data center`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) use local cloud data center`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1782,10 +2182,15 @@ essential cloud element per CSA?
 - C) Both A and B
 - D) Multi-tenancy
 
-**✅ Correct Answer:** `D) Multi-tenancy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Multi-tenancy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1804,10 +2209,15 @@ wrong cloud-security statement?
 - C) Contradictory hypothesis to "Cloud computing doesn't 
 - D) "Cloud computing doesn't have vulnerabilities associated with Internet applications"
 
-**✅ Correct Answer:** `D) "Cloud computing doesn't have vulnerabilities associated with Internet applications"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) "Cloud computing doesn't have vulnerabilities associated with Internet applications"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1826,10 +2236,15 @@ flowchart evaluates ___ in any cloud?
 - C) Legacy standard alternative
 - D) risk
 
-**✅ Correct Answer:** `D) risk`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) risk`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1848,10 +2263,15 @@ which services must be negotiated in SLAs?
 - C) Both A and B
 - D) all (logging, auditing, regulatory compliance)
 
-**✅ Correct Answer:** `D) all (logging, auditing, regulatory compliance)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all (logging, auditing, regulatory compliance)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1870,10 +2290,15 @@ purpose of Cloud Security Posture Management (CSPM)
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to assessing and maintaining
 
-**✅ Correct Answer:** `B) assessing and maintaining security configurations in the cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) assessing and maintaining security configurations in the cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1892,10 +2317,15 @@ primary purpose of Cloud Security Access Broker?
 - C) enforcing security policies in cloud services
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) enforcing security policies in cloud services`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) enforcing security policies in cloud services`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1914,10 +2344,15 @@ term for cloud measure monitoring/controlling user access?
 - C) RBAC
 - D) Contradictory hypothesis to RBAC
 
-**✅ Correct Answer:** `C) RBAC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) RBAC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1936,10 +2371,15 @@ service model providing runtime for event-driven code?
 - C) Both A and B
 - D) Contradictory hypothesis to FaaS
 
-**✅ Correct Answer:** `A) FaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) FaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1958,10 +2398,15 @@ term for attack flooding network with traffic?
 - C) None of the listed implementations
 - D) DoS
 
-**✅ Correct Answer:** `D) DoS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) DoS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1980,10 +2425,15 @@ purpose of Cloud Security Posture Management (CSPM) (repeated)
 - C) assessing and maintaining security configurations in the cloud
 - D) Contradictory hypothesis to assessing and maintaining
 
-**✅ Correct Answer:** `C) assessing and maintaining security configurations in the cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) assessing and maintaining security configurations in the cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2002,10 +2452,15 @@ deployment model using on-premise + cloud?
 - C) Both A and B
 - D) Hybrid cloud
 
-**✅ Correct Answer:** `D) Hybrid cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Hybrid cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2024,10 +2479,15 @@ purpose of cloud SIEM?
 - C) monitoring/analyzing security events
 - D) Contradictory hypothesis to monitoring/analyzing secu
 
-**✅ Correct Answer:** `C) monitoring/analyzing security events`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) monitoring/analyzing security events`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2046,10 +2506,15 @@ term for security measure creating backups?
 - C) None of the listed implementations
 - D) ata redundancy
 
-**✅ Correct Answer:** `D) ata redundancy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ata redundancy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2068,10 +2533,15 @@ which cloud model not trusted security-wise?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Public`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Public`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2090,10 +2560,15 @@ for which model may security boundary include vendor software?
 - C) PaaS
 - D) Contradictory hypothesis to PaaS
 
-**✅ Correct Answer:** `C) PaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) PaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2112,10 +2587,15 @@ post-migration app slower — likely cause?
 - C) Contradictory hypothesis to misconfigured network set
 - D) Both A and B
 
-**✅ Correct Answer:** `B) misconfigured network settings`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) misconfigured network settings`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2134,10 +2614,15 @@ extended downtime during cloud migration — cause?
 - C) Contradictory hypothesis to incomplete data migration
 - D) incomplete data migration
 
-**✅ Correct Answer:** `D) incomplete data migration`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) incomplete data migration`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2156,10 +2641,15 @@ migration strategy redesigning app for cloud?
 - C) Contradictory hypothesis to Re-factoring
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) Re-factoring`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Re-factoring`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2178,10 +2668,15 @@ primary challenge migrating legacy systems?
 - C) Contradictory hypothesis to application compatibility
 - D) application compatibility
 
-**✅ Correct Answer:** `D) application compatibility`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) application compatibility`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2200,10 +2695,15 @@ edge app high latency — cause?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) insufficient edge resources`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) insufficient edge resources`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2222,10 +2722,15 @@ command listing running Docker containers?
 - C) Both A and B
 - D) docker ps
 
-**✅ Correct Answer:** `D) docker ps`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) docker ps`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2244,10 +2749,15 @@ likely cause of slow cloud VM?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) insufficient CPU allocation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) insufficient CPU allocation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2266,10 +2776,15 @@ containerized app can't reach host network — cause?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to misconfigured network bri
 
-**✅ Correct Answer:** `B) misconfigured network bridge`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) misconfigured network bridge`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2288,10 +2803,15 @@ Microsoft security accounts per client?
 - C) 8
 - D) 12
 
-**✅ Correct Answer:** `B) 5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) 5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2310,10 +2830,15 @@ which provides token service for validated resource access?
 - C) OAuth
 - D) Contradictory hypothesis to OAuth
 
-**✅ Correct Answer:** `C) OAuth`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) OAuth`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2332,10 +2857,15 @@ term for securing data as unreadable code?
 - C) Both A and B
 - D) Encryption
 
-**✅ Correct Answer:** `D) Encryption`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Encryption`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2354,10 +2884,15 @@ auth combining something known + something else?
 - C) MFA
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) MFA`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) MFA`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2376,10 +2911,15 @@ during which migration phase is security most critical?
 - C) Both A and B
 - D) all (discovery, migration, operations)
 
-**✅ Correct Answer:** `D) all (discovery, migration, operations)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all (discovery, migration, operations)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2398,10 +2938,15 @@ VM resource contention — solution?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) optimize VM resource allocation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) optimize VM resource allocation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2420,10 +2965,15 @@ example of object storage?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) mazon S3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) mazon S3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2442,10 +2992,15 @@ best cloud storage for frequently accessed data?
 - C) Object storage
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Object storage`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Object storage`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2464,10 +3019,15 @@ common block storage use case?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) databases and boot volumes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) databases and boot volumes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2486,10 +3046,15 @@ repeatable task within business process = ___?
 - C) Contradictory hypothesis to service
 - D) service
 
-**✅ Correct Answer:** `D) service`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) service`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2508,10 +3073,15 @@ wrong cloud-protocol statement?
 - C) Contradictory hypothesis to none (all correct)
 - D) none (all correct)
 
-**✅ Correct Answer:** `D) none (all correct)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) none (all correct)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2530,10 +3100,15 @@ action providing wrapper for metadata + operational instructions?
 - C) Contradictory hypothesis to HEAD
 - D) Both A and B
 
-**✅ Correct Answer:** `A) HEAD`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) HEAD`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2552,10 +3127,15 @@ primary goal of DDoS in cloud context?
 - C) Contradictory hypothesis to disrupting service availa
 - D) Both A and B
 
-**✅ Correct Answer:** `B) disrupting service availability`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) disrupting service availability`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2574,10 +3154,15 @@ attack tricking user into revealing sensitive info?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Phishing
 
-**✅ Correct Answer:** `B) Phishing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Phishing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2596,10 +3181,15 @@ term for cloud model allocating resources dynamically on demand?
 - C) Elasticity
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Elasticity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Elasticity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2618,10 +3208,15 @@ measure monitoring/controlling traffic between VMs?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Microsegmentation
 
-**✅ Correct Answer:** `B) Microsegmentation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Microsegmentation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2640,10 +3235,15 @@ user can't access S3 file — likely cause?
 - C) Contradictory hypothesis to incorrect bucket permissi
 - D) Both A and B
 
-**✅ Correct Answer:** `B) incorrect bucket permissions`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) incorrect bucket permissions`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2662,10 +3262,15 @@ most secure cloud for single org?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Private Cloud
 
-**✅ Correct Answer:** `B) Private Cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Private Cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2684,10 +3289,15 @@ what enables secure hybrid connectivity?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) VPN (encrypted tunnel)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) VPN (encrypted tunnel)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2706,10 +3316,15 @@ architecture for near-zero latency global content + dynamic scaling (streaming)?
 - C) Contradictory hypothesis to Edge Caching & Serverless
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) Edge Caching & Serverless`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Edge Caching & Serverless`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2728,10 +3343,15 @@ migration pattern for zero-downtime DB schema change on Kubernetes?
 - C) Both A and B
 - D) Strangler Fig Pattern
 
-**✅ Correct Answer:** `D) Strangler Fig Pattern`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Strangler Fig Pattern`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2750,10 +3370,15 @@ local processing paradigm for IoT with intermittent connectivity?
 - C) Contradictory hypothesis to Edge Computing
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Edge Computing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Edge Computing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2772,10 +3397,15 @@ lift-and-shift banking app without code changes = ?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Re-Hosting
 
-**✅ Correct Answer:** `B) Re-Hosting`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Re-Hosting`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2794,10 +3424,15 @@ VM degraded at peak, CPU fine, network I/O maxed — cause?
 - C) Contradictory hypothesis to network throttling/bandwi
 - D) network throttling/bandwidth cap
 
-**✅ Correct Answer:** `D) network throttling/bandwidth cap`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) network throttling/bandwidth cap`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2816,10 +3451,15 @@ best deployment for game logic closest to remote users?
 - C) Both A and B
 - D) Edge Computing/Local Zones
 
-**✅ Correct Answer:** `D) Edge Computing/Local Zones`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Edge Computing/Local Zones`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2838,10 +3478,15 @@ governance solution for cloud sprawl?
 - C) Legacy standard alternative
 - D) cloud resource tagging and policy
 
-**✅ Correct Answer:** `D) cloud resource tagging and policy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) cloud resource tagging and policy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2860,10 +3505,15 @@ most cost-effective storage for 7-year rarely-accessed audit logs?
 - C) Contradictory hypothesis to archival storage (Glacier
 - D) archival storage (Glacier)
 
-**✅ Correct Answer:** `D) archival storage (Glacier)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) archival storage (Glacier)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2882,10 +3532,15 @@ offload OS/DB patching burden — which model?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) PaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) PaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2904,10 +3559,15 @@ high-perf low-latency block storage for VM?
 - C) Contradictory hypothesis to EBS
 - D) EBS
 
-**✅ Correct Answer:** `D) EBS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) EBS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2926,10 +3586,15 @@ optimal decoupled async comms among 50 microservices?
 - C) Both A and B
 - D) Contradictory hypothesis to message queue/broker (SQS
 
-**✅ Correct Answer:** `A) message queue/broker (SQS, RabbitMQ)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) message queue/broker (SQS, RabbitMQ)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2948,10 +3613,15 @@ funding model replacing on-prem CapEx with cloud?
 - C) Contradictory hypothesis to Reserved Instances
 - D) Reserved Instances
 
-**✅ Correct Answer:** `D) Reserved Instances`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Reserved Instances`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2970,10 +3640,15 @@ best mitigation for botnet hitting API gateway?
 - C) WAF (Layer 7)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) WAF (Layer 7)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) WAF (Layer 7)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2992,10 +3667,15 @@ reduce hybrid latency (on-prem DB over VPN)?
 - C) None of the listed implementations
 - D) irect Connect/ExpressRoute
 
-**✅ Correct Answer:** `D) irect Connect/ExpressRoute`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) irect Connect/ExpressRoute`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3014,10 +3694,15 @@ proof that not even cloud admins can view data?
 - C) ustomer Managed Keys (CMK
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ustomer Managed Keys (CMK`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ustomer Managed Keys (CMK`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3036,10 +3721,15 @@ Kubernetes security for automated breach response to running-container attack?
 - C) runtime security enforcement (seccomp/AppArmor/Falco)
 - D) Contradictory hypothesis to runtime security enforcem
 
-**✅ Correct Answer:** `C) runtime security enforcement (seccomp/AppArmor/Falco)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) runtime security enforcement (seccomp/AppArmor/Falco)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3058,10 +3748,15 @@ eliminate config drift across Dev/Staging/Prod?
 - C) Infrastructure as Code
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Infrastructure as Code`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Infrastructure as Code`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3080,10 +3775,15 @@ ensure German customer data never leaves EU?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) data sovereignty and residency policy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) data sovereignty and residency policy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3102,10 +3802,15 @@ optimal data store for real-time bidding (extreme latency)?
 - C) in-memory data store
 - D) Contradictory hypothesis to in-memory data store
 
-**✅ Correct Answer:** `C) in-memory data store`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) in-memory data store`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3124,10 +3829,15 @@ best tech for multi-cloud portability (AWS+Azure)?
 - C) Contradictory hypothesis to Kubernetes/containerizati
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Kubernetes/containerization`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Kubernetes/containerization`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3146,10 +3856,15 @@ proactive control enforcing policy before new cloud services deploy?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) policy-as-code engine`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) policy-as-code engine`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3168,10 +3883,15 @@ load balancer config to maintain sessions?
 - C) Both A and B
 - D) sticky sessions/affinity
 
-**✅ Correct Answer:** `D) sticky sessions/affinity`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) sticky sessions/affinity`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3190,10 +3910,15 @@ DB component for lift-and-shifted app opening/closing connections at peak?
 - C) Contradictory hypothesis to database proxy/connection
 - D) database proxy/connection pooler
 
-**✅ Correct Answer:** `D) database proxy/connection pooler`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) database proxy/connection pooler`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3212,10 +3937,15 @@ serverless fn slow after inactivity in low-traffic env?
 - C) Both A and B
 - D) cold start latency
 
-**✅ Correct Answer:** `D) cold start latency`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) cold start latency`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3234,10 +3964,15 @@ Kubernetes rolling update fails new Docker image (memory exceeded)?
 - C) Both A and B
 - D) resource limit (OOM-kill)
 
-**✅ Correct Answer:** `D) resource limit (OOM-kill)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) resource limit (OOM-kill)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3256,10 +3991,15 @@ SSO with existing corporate credentials in cloud?
 - C) Contradictory hypothesis to federation/identity provi
 - D) federation/identity provider (SAML/OIDC/OAuth)
 
-**✅ Correct Answer:** `D) federation/identity provider (SAML/OIDC/OAuth)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) federation/identity provider (SAML/OIDC/OAuth)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3278,10 +4018,15 @@ DR component — backup copy in distant region?
 - C) Contradictory hypothesis to geographic redundancy
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) geographic redundancy`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) geographic redundancy`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3300,10 +4045,15 @@ VPC feature enforcing private-only access to object storage?
 - C) Contradictory hypothesis to VPC endpoint/service link
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) VPC endpoint/service link`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) VPC endpoint/service link`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3322,10 +4072,15 @@ resource type for non-urgent monthly background task?
 - C) Both A and B
 - D) Contradictory hypothesis to async queue processing
 
-**✅ Correct Answer:** `A) async queue processing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) async queue processing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3344,10 +4099,15 @@ practice for end-to-end perf visibility, bottleneck unknown?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) PM (distributed tracing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) PM (distributed tracing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3366,10 +4126,15 @@ tool predicting next quarter's cloud bill?
 - C) Both A and B
 - D) budget/forecasting tool
 
-**✅ Correct Answer:** `D) budget/forecasting tool`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) budget/forecasting tool`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3388,10 +4153,15 @@ principle violated by permanent high-level perms for temp task?
 - C) Contradictory hypothesis to short-lived credentials (
 - D) Both A and B
 
-**✅ Correct Answer:** `A) short-lived credentials (marked answer; explanation truncated)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) short-lived credentials (marked answer; explanation truncated)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3410,10 +4180,15 @@ force worldwide users to see updated image (CDN cached old)?
 - C) Contradictory hypothesis to cache invalidation
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) cache invalidation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) cache invalidation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3432,10 +4207,15 @@ durable log storage from volatile K8s pods?
 - C) Contradictory hypothesis to Persistent Volume Claim
 - D) Persistent Volume Claim
 
-**✅ Correct Answer:** `D) Persistent Volume Claim`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Persistent Volume Claim`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3454,10 +4234,15 @@ pattern coordinating multiple serverless actions from one event (fan-out)?
 - C) Contradictory hypothesis to event bus/broker
 - D) event bus/broker
 
-**✅ Correct Answer:** `D) event bus/broker`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) event bus/broker`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3476,10 +4261,15 @@ protect backend API from exhaustion at peak?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) rate limiting`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) rate limiting`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3498,10 +4288,15 @@ auto-scaling for predictable Monday 9 AM spikes?
 - C) scheduled scaling
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) scheduled scaling`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) scheduled scaling`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3520,10 +4315,15 @@ service mesh component enforcing cross-region header-level security?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) sidecar proxy policy (Envoy)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) sidecar proxy policy (Envoy)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3542,10 +4342,15 @@ which cloud model offers least built-in security?
 - C) Contradictory hypothesis to IaaS (SaaS most)
 - D) IaaS (SaaS most)
 
-**✅ Correct Answer:** `D) IaaS (SaaS most)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) IaaS (SaaS most)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3564,10 +4369,15 @@ true statement about cloud security?
 - C) "All of the mentioned" (services differ by model; on-prem adaptation needs planning; encrypt in transfer/storage)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "All of the mentioned" (services differ by model; on-prem adaptation needs planning; encrypt in transfer/storage)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "All of the mentioned" (services differ by model; on-prem adaptation needs planning; encrypt in transfer/storage)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3586,10 +4396,15 @@ which model delivers virtualized computing resources over internet?
 - C) Both A and B
 - D) IaaS
 
-**✅ Correct Answer:** `D) IaaS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) IaaS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3608,10 +4423,15 @@ what is the responsibility model?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to division of security duti
 
-**✅ Correct Answer:** `B) division of security duties between provider and customer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) division of security duties between provider and customer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3630,10 +4450,15 @@ encryption technique commonly protecting cloud data in transit?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) ES`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) ES`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3652,10 +4477,15 @@ SaaS providers manage/secure all except ___?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) access controls (customer's enterprise security)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) access controls (customer's enterprise security)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3674,10 +4504,15 @@ which data may not suit public clouds?
 - C) Contradictory hypothesis to all (legacy app data, mis
 - D) Both A and B
 
-**✅ Correct Answer:** `B) all (legacy app data, mission-critical, sensitive)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) all (legacy app data, mission-critical, sensitive)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3696,10 +4531,15 @@ Simple Cloud, jclouds, Libcloud are examples of ___?
 - C) cross-platform APIs
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) cross-platform APIs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) cross-platform APIs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3718,10 +4558,15 @@ moved to cloud, users face slow data access — cause?
 - C) insufficient bandwidth
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) insufficient bandwidth`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) insufficient bandwidth`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3740,10 +4585,15 @@ in IaaS, user's responsibility?
 - C) Contradictory hypothesis to operating system (provide
 - D) operating system (provider: infrastructure)
 
-**✅ Correct Answer:** `D) operating system (provider: infrastructure)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) operating system (provider: infrastructure)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3762,10 +4612,15 @@ SaaS product scaling issues — likely cause?
 - C) Contradictory hypothesis to app has limited inherent 
 - D) app has limited inherent scalability
 
-**✅ Correct Answer:** `D) app has limited inherent scalability`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) app has limited inherent scalability`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3784,10 +4639,15 @@ best suited for hybrid cloud?
 - C) Contradictory hypothesis to large enterprise with var
 - D) large enterprise with varying workloads
 
-**✅ Correct Answer:** `D) large enterprise with varying workloads`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) large enterprise with varying workloads`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3806,10 +4666,15 @@ which Azure service deploys apps across hybrid cloud?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) zure Stack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) zure Stack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3828,10 +4693,15 @@ public-cloud company with data-security concerns — solution?
 - C) Contradictory hypothesis to move to hybrid cloud
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) move to hybrid cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) move to hybrid cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3850,10 +4720,15 @@ flowchart evaluates ___ in any cloud?
 - C) Legacy standard alternative
 - D) risk
 
-**✅ Correct Answer:** `D) risk`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) risk`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3872,10 +4747,15 @@ wrong statement?
 - C) Contradictory hypothesis to "Cloud computing doesn't 
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "Cloud computing doesn't have vulnerabilities associated with Internet applications."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) "Cloud computing doesn't have vulnerabilities associated with Internet applications."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3894,10 +4774,15 @@ attack intercepting and altering communication?
 - C) Man-in-the-Middle
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Man-in-the-Middle`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Man-in-the-Middle`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3916,10 +4801,15 @@ primary purpose of CASB?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) enforcing security policies in cloud services`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) enforcing security policies in cloud services`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3938,10 +4828,15 @@ which is NOT confidential computing?
 - C) zero-trust networks (categories: TEE, FHE, differential privacy, secure multiparty computation)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) zero-trust networks (categories: TEE, FHE, differential privacy, secure multiparty computation)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) zero-trust networks (categories: TEE, FHE, differential privacy, secure multiparty computation)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3960,10 +4855,15 @@ key advantage of containers over VMs?
 - C) Legacy standard alternative
 - D) faster startup time
 
-**✅ Correct Answer:** `D) faster startup time`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) faster startup time`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3982,10 +4882,15 @@ Docker containers with dedicated CPU/memory — Linux kernel feature?
 - C) Both A and B
 - D) cgroups
 
-**✅ Correct Answer:** `D) cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4004,10 +4909,15 @@ K8s component scheduling pods onto nodes?
 - C) Contradictory hypothesis to Scheduler
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Scheduler`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Scheduler`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4026,10 +4936,15 @@ stop one container accessing another's PIDs/network stack — mechanism?
 - C) Contradictory hypothesis to Namespaces
 - D) Namespaces
 
-**✅ Correct Answer:** `D) Namespaces`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Namespaces`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4048,10 +4963,15 @@ prevent data leakage between VMs on same host — component?
 - C) Hypervisor
 - D) Contradictory hypothesis to Hypervisor
 
-**✅ Correct Answer:** `C) Hypervisor`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Hypervisor`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4070,10 +4990,15 @@ main purpose of a VPC?
 - C) isolate network resources within the cloud
 - D) Contradictory hypothesis to isolate network resources
 
-**✅ Correct Answer:** `C) isolate network resources within the cloud`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) isolate network resources within the cloud`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4092,10 +5017,15 @@ best description of least privilege?
 - C) users get only permissions they need
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) users get only permissions they need`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) users get only permissions they need`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4114,10 +5044,15 @@ confidentiality of stored customer data even if storage compromised — solution
 - C) Both A and B
 - D) Contradictory hypothesis to data encryption at rest
 
-**✅ Correct Answer:** `A) data encryption at rest`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) data encryption at rest`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4136,10 +5071,15 @@ K8s resource stopping containers exceeding CPU/memory?
 - C) Both A and B
 - D) Contradictory hypothesis to ResourceQuota
 
-**✅ Correct Answer:** `A) ResourceQuota`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) ResourceQuota`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4158,10 +5098,15 @@ main advantage of RBAC on container platform?
 - C) Contradictory hypothesis to prevents unauthorized adm
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) prevents unauthorized admin actions`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) prevents unauthorized admin actions`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4180,10 +5125,15 @@ sysadmin using SELinux — primary purpose?
 - C) Contradictory hypothesis to mandatory access control 
 - D) Both A and B
 
-**✅ Correct Answer:** `B) mandatory access control (MAC)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) mandatory access control (MAC)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4202,10 +5152,15 @@ multiple containers on one host — filesystem isolation mechanism?
 - C) Contradictory hypothesis to Namespaces
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Namespaces`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Namespaces`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4224,10 +5179,15 @@ K8s admin caps total memory/CPU of a namespace — object?
 - C) Contradictory hypothesis to ResourceQuota
 - D) ResourceQuota
 
-**✅ Correct Answer:** `D) ResourceQuota`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ResourceQuota`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4246,10 +5206,15 @@ two containers share same network namespace — true?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to they share same IP and ne
 
-**✅ Correct Answer:** `B) they share same IP and network stack`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) they share same IP and network stack`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4268,10 +5233,15 @@ hardware virtualization — component allocating CPU/memory between VMs?
 - C) Contradictory hypothesis to Hypervisor
 - D) Hypervisor
 
-**✅ Correct Answer:** `D) Hypervisor`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Hypervisor`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4290,10 +5260,15 @@ containerized ML app needs direct GPU access — kernel feature?
 - C) device cgroups
 - D) Contradictory hypothesis to device cgroups
 
-**✅ Correct Answer:** `C) device cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) device cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4312,10 +5287,15 @@ prevent containers gaining unnecessary host privileges — setting?
 - C) Contradictory hypothesis to privileged mode disabled
 - D) Both A and B
 
-**✅ Correct Answer:** `A) privileged mode disabled`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) privileged mode disabled`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4334,10 +5314,15 @@ CPU starvation when one service overuses CPU — preventing mechanism?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) cgroups`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) cgroups`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4356,10 +5341,15 @@ K8s object ensuring pod runs on GPU node?
 - C) Contradictory hypothesis to NodeSelector
 - D) Both A and B
 
-**✅ Correct Answer:** `B) NodeSelector`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) NodeSelector`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4378,10 +5368,15 @@ container started --read-only — achieved?
 - C) Contradictory hypothesis to prevents filesystem modif
 - D) Both A and B
 
-**✅ Correct Answer:** `B) prevents filesystem modification`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) prevents filesystem modification`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4400,10 +5395,15 @@ secure comms between microservices in different containers — approach?
 - C) Contradictory hypothesis to service mesh with mutual 
 - D) service mesh with mutual TLS
 
-**✅ Correct Answer:** `D) service mesh with mutual TLS`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) service mesh with mutual TLS`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4422,10 +5422,15 @@ ungroup shapes shortcut?
 - C) trl+Shift+G
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Shift+G`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Shift+G`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4444,10 +5449,15 @@ group shapes shortcut?
 - C) trl+G
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+G`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+G`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4466,10 +5476,15 @@ slideshow from current slide?
 - C) Contradictory hypothesis to Shift+F5
 - D) Shift+F5
 
-**✅ Correct Answer:** `D) Shift+F5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Shift+F5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4488,10 +5503,15 @@ easy way to apply varied text animations?
 - C) Contradictory hypothesis to apply an Animation Scheme
 - D) Both A and B
 
-**✅ Correct Answer:** `B) apply an Animation Scheme`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) apply an Animation Scheme`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4510,10 +5530,15 @@ view showing all slides on one screen?
 - C) Contradictory hypothesis to View → Slide Sorter
 - D) Both A and B
 
-**✅ Correct Answer:** `B) View → Slide Sorter`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) View → Slide Sorter`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4532,10 +5557,15 @@ comments record author/time — feature?
 - C) Contradictory hypothesis to Use Comments
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Use Comments`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Use Comments`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4554,10 +5584,15 @@ designs regulating formatting/layout called?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Templates`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Templates`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4576,10 +5611,15 @@ what adds text to a slide?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Text Box
 
-**✅ Correct Answer:** `B) Text Box`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Text Box`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4598,10 +5638,15 @@ incorrect statements: (i) Ctrl+N adds new slide; (ii) PPT 2016 can save as PDF?
 - C) Both A and B
 - D) Contradictory hypothesis to only (i) false (Ctrl+N = 
 
-**✅ Correct Answer:** `A) only (i) false (Ctrl+N = new presentation)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) only (i) false (Ctrl+N = new presentation)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4620,10 +5665,15 @@ dotted areas in empty slide called?
 - C) Placeholders
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Placeholders`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Placeholders`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4642,10 +5692,15 @@ one of PowerPoint's views?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to Presentation View
 
-**✅ Correct Answer:** `B) Presentation View`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Presentation View`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4664,10 +5719,15 @@ same title font/size/color on all slides?
 - C) Contradictory hypothesis to Slide Master
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Slide Master`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Slide Master`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4686,10 +5746,15 @@ slideshow from beginning?
 - C) F5
 - D) Both A and B
 
-**✅ Correct Answer:** `C) F5`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) F5`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4708,10 +5773,15 @@ where are themes?
 - C) None of the listed implementations
 - D) esign tab
 
-**✅ Correct Answer:** `D) esign tab`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) esign tab`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4730,10 +5800,15 @@ NOT a slide orientation option?
 - C) None of the listed implementations
 - D) iamond (options: Landscape, Portrait, Square
 
-**✅ Correct Answer:** `D) iamond (options: Landscape, Portrait, Square`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) iamond (options: Landscape, Portrait, Square`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4752,10 +5827,15 @@ NOT a title-slide layout option?
 - C) Both A and B
 - D) Picture and content
 
-**✅ Correct Answer:** `D) Picture and content`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Picture and content`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4774,10 +5854,15 @@ NOT a transition timing option?
 - C) Contradictory hypothesis to Instant (Slow, Medium, Fa
 - D) Instant (Slow, Medium, Fast are)
 
-**✅ Correct Answer:** `D) Instant (Slow, Medium, Fast are)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Instant (Slow, Medium, Fast are)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4796,10 +5881,15 @@ NOT a slide size option?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Panorama (Standard, Widescreen, Square are)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Panorama (Standard, Widescreen, Square are)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4818,10 +5908,15 @@ zoom in/out of a slide?
 - C) trl + Mouse Wheel
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl + Mouse Wheel`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl + Mouse Wheel`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4840,10 +5935,15 @@ exit PowerPoint shortcut?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) lt+F4`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) lt+F4`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4862,10 +5962,15 @@ undo last action?
 - C) trl+Z
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Z`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Z`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4884,10 +5989,15 @@ duplicate a slide?
 - C) trl+D
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+D`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+D`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4906,10 +6016,15 @@ animate shape along a path?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Motion Paths animation effect`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Motion Paths animation effect`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4928,10 +6043,15 @@ embed YouTube video?
 - C) Both A and B
 - D) Contradictory hypothesis to Insert tab → Video → Onli
 
-**✅ Correct Answer:** `B) Insert tab → Video → Online Video`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Insert tab → Video → Online Video`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4950,10 +6070,15 @@ next slide in slideshow mode?
 - C) Contradictory hypothesis to all (Arrow Right, Spaceba
 - D) all (Arrow Right, Spacebar, Enter)
 
-**✅ Correct Answer:** `D) all (Arrow Right, Spacebar, Enter)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all (Arrow Right, Spacebar, Enter)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4972,10 +6097,15 @@ what does Format Painter do?
 - C) Legacy standard alternative
 - D) copies formatting to another object
 
-**✅ Correct Answer:** `D) copies formatting to another object`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) copies formatting to another object`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -4994,10 +6124,15 @@ default slide text font size?
 - C) Contradictory hypothesis to 24 pt
 - D) 24 pt
 
-**✅ Correct Answer:** `D) 24 pt`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) 24 pt`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5016,10 +6151,15 @@ zoom in on presentation?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) all (zoom slider, Ctrl+"+", View tab)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) all (zoom slider, Ctrl+"+", View tab)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5038,10 +6178,15 @@ purpose of Notes section?
 - C) speaker notes for reference
 - D) Both A and B
 
-**✅ Correct Answer:** `C) speaker notes for reference`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) speaker notes for reference`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5060,10 +6205,15 @@ apply a design theme?
 - C) esign tab → select theme
 - D) esign tab → select theme
 
-**✅ Correct Answer:** `D) esign tab → select theme`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) esign tab → select theme`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5082,10 +6232,15 @@ Outline View used for?
 - C) view/edit text in simple format
 - D) Contradictory hypothesis to view/edit text in simple 
 
-**✅ Correct Answer:** `C) view/edit text in simple format`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) view/edit text in simple format`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5104,10 +6259,15 @@ where is Slide Master?
 - C) View tab
 - D) Contradictory hypothesis to View tab
 
-**✅ Correct Answer:** `C) View tab`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) View tab`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5126,10 +6286,15 @@ purpose of SmartArt?
 - C) Both A and B
 - D) Contradictory hypothesis to visual diagrams and chart
 
-**✅ Correct Answer:** `B) visual diagrams and charts`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) visual diagrams and charts`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5148,10 +6313,15 @@ default PowerPoint file extension?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) .pptx`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) .pptx`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5170,10 +6340,15 @@ which gives printed copy of presentation?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) udience Handouts`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) udience Handouts`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5192,10 +6367,15 @@ select more than one slide?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Shift + Click each`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Shift + Click each`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5214,10 +6394,15 @@ logo in same position on every slide — insert on ___?
 - C) Both A and B
 - D) Contradictory hypothesis to Slide Master
 
-**✅ Correct Answer:** `A) Slide Master`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Slide Master`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5236,10 +6421,15 @@ element just above Ribbon for common commands?
 - C) Contradictory hypothesis to Quick Access Toolbar
 - D) Quick Access Toolbar
 
-**✅ Correct Answer:** `D) Quick Access Toolbar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Quick Access Toolbar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5258,10 +6448,15 @@ file format for PowerPoint templates?
 - C) Legacy standard alternative
 - D) .potx
 
-**✅ Correct Answer:** `D) .potx`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) .potx`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5280,10 +6475,15 @@ preview motion path via Custom Animation pane?
 - C) Contradictory hypothesis to click Play
 - D) click Play
 
-**✅ Correct Answer:** `D) click Play`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) click Play`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5302,10 +6502,15 @@ show non-printing characters?
 - C) trl+Shift+8
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Shift+8`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Shift+8`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5324,10 +6529,15 @@ toggle uppercase/lowercase?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Shift+F3`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Shift+F3`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5346,10 +6556,15 @@ quickly open Font dialog?
 - C) trl+D
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+D`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+D`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5368,10 +6583,15 @@ what is inserted as cross-reference?
 - C) Word fields
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Word fields`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Word fields`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5390,10 +6610,15 @@ Ctrl+N does?
 - C) Contradictory hypothesis to new document
 - D) Both A and B
 
-**✅ Correct Answer:** `A) new document`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) new document`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5412,10 +6637,15 @@ which are word processing software?
 - C) all (WordPerfect, WordPad, MS Word)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) all (WordPerfect, WordPad, MS Word)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) all (WordPerfect, WordPad, MS Word)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5434,10 +6664,15 @@ document name displays in?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to title bar
 
-**✅ Correct Answer:** `B) title bar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) title bar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5456,10 +6691,15 @@ paste shortcut?
 - C) trl+V
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+V`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+V`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5478,10 +6718,15 @@ select all?
 - C) trl+A
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+A`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+A`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5500,10 +6745,15 @@ center text?
 - C) trl+E
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+E`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+E`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5522,10 +6772,15 @@ NOT a valid way to modify page numbering?
 - C) Contradictory hypothesis to Styles gallery
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Styles gallery`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Styles gallery`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5544,10 +6799,15 @@ underline shortcut?
 - C) trl+U
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+U`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+U`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5566,10 +6826,15 @@ NOT a valid way to insert a picture?
 - C) typing the picture into the document
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) typing the picture into the document`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) typing the picture into the document`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5588,10 +6853,15 @@ delete word to the right?
 - C) trl+Delete
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Delete`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Delete`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5610,10 +6880,15 @@ open Help pane?
 - C) F1
 - D) Contradictory hypothesis to F1
 
-**✅ Correct Answer:** `C) F1`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) F1`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5632,10 +6907,15 @@ right-align?
 - C) trl+R
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+R`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+R`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5654,10 +6934,15 @@ close current Word window?
 - C) trl+W
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+W`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+W`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5676,10 +6961,15 @@ insert current date?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) lt+Shift+D`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) lt+Shift+D`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5698,10 +6988,15 @@ what is a "Bookmark"?
 - C) Both A and B
 - D) Contradictory hypothesis to tool marking sections for
 
-**✅ Correct Answer:** `A) tool marking sections for quick navigation`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) tool marking sections for quick navigation`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5720,10 +7015,15 @@ what is "Thesaurus" for?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) synonyms and antonyms`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) synonyms and antonyms`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5742,10 +7042,15 @@ function of "Table Styles"?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) quickly apply predefined table formatting`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) quickly apply predefined table formatting`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5764,10 +7069,15 @@ purpose of "Cross-References"?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) link text/tables across sections`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) link text/tables across sections`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5786,10 +7096,15 @@ what does "Developer" tab allow?
 - C) Both A and B
 - D) insert advanced controls and macros
 
-**✅ Correct Answer:** `D) insert advanced controls and macros`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) insert advanced controls and macros`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5808,10 +7123,15 @@ small squares on graphic's selection rectangle?
 - C) sizing handles
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) sizing handles`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) sizing handles`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5830,10 +7150,15 @@ short horizontal line at document end?
 - C) Contradictory hypothesis to end mark
 - D) Both A and B
 
-**✅ Correct Answer:** `B) end mark`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) end mark`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5852,10 +7177,15 @@ screen element below title bar with categorized options?
 - C) Contradictory hypothesis to menu bar
 - D) menu bar
 
-**✅ Correct Answer:** `D) menu bar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) menu bar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5874,10 +7204,15 @@ email Word doc from within Word?
 - C) Both A and B
 - D) Office button → Send to → Mail Recipient
 
-**✅ Correct Answer:** `D) Office button → Send to → Mail Recipient`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Office button → Send to → Mail Recipient`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5896,10 +7231,15 @@ insert new comment?
 - C) trl+Shift+M
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Shift+M`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Shift+M`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5918,10 +7258,15 @@ open Find and Replace?
 - C) trl+H
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+H`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+H`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5940,10 +7285,15 @@ valid Word file format?
 - C) .docx
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) .docx`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) .docx`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5962,10 +7312,15 @@ NOT a Word view?
 - C) Contradictory hypothesis to Slide
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) Slide`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Slide`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -5984,10 +7339,15 @@ NOT a font style?
 - C) Contradictory hypothesis to Rounded (Bold, Italic, Un
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Rounded (Bold, Italic, Underline are)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Rounded (Bold, Italic, Underline are)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6006,10 +7366,15 @@ NOT found in Home tab?
 - C) Page Layout
 - D) Contradictory hypothesis to Page Layout
 
-**✅ Correct Answer:** `C) Page Layout`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Page Layout`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6028,10 +7393,15 @@ where to add paragraph borders?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `B) orders dropdown (Home tab`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) orders dropdown (Home tab`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6050,10 +7420,15 @@ where to apply superscript/subscript?
 - C) Legacy standard alternative
 - D) Font dialog box launcher
 
-**✅ Correct Answer:** `D) Font dialog box launcher`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Font dialog box launcher`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6072,10 +7447,15 @@ where to apply strikethrough?
 - C) Contradictory hypothesis to Font dialog box launcher
 - D) Font dialog box launcher
 
-**✅ Correct Answer:** `D) Font dialog box launcher`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Font dialog box launcher`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6094,10 +7474,15 @@ purpose of Document Inspector?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) remove hidden data/metadata`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) remove hidden data/metadata`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6116,10 +7501,15 @@ customize the Ribbon?
 - C) Both A and B
 - D) Contradictory hypothesis to File → Options → Customiz
 
-**✅ Correct Answer:** `A) File → Options → Customize Ribbon`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) File → Options → Customize Ribbon`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6138,10 +7528,15 @@ what are Content Controls?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to interactive elements (tex
 
-**✅ Correct Answer:** `B) interactive elements (text boxes, drop-downs)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) interactive elements (text boxes, drop-downs)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6160,10 +7555,15 @@ what is a macro?
 - C) Contradictory hypothesis to recorded instructions aut
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) recorded instructions automating repetitive tasks`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) recorded instructions automating repetitive tasks`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6182,10 +7582,15 @@ secure Word doc with password?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) File → Info → Protect Document`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) File → Info → Protect Document`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6204,10 +7609,15 @@ change margins via?
 - C) Legacy standard alternative
 - D) Page setup dialog box
 
-**✅ Correct Answer:** `D) Page setup dialog box`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Page setup dialog box`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6226,10 +7636,15 @@ Insert Date, Format Page Number, AutoText buttons are on ___ toolbar?
 - C) Both A and B
 - D) Header and Footer
 
-**✅ Correct Answer:** `D) Header and Footer`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Header and Footer`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6248,10 +7663,15 @@ Word web authoring tools incorporate ___ on web pages?
 - C) Both A and B
 - D) Contradictory hypothesis to all (bullets, hyperlinks,
 
-**✅ Correct Answer:** `A) all (bullets, hyperlinks, sounds)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) all (bullets, hyperlinks, sounds)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6270,10 +7690,15 @@ which reduces spelling errors?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) uto Correct`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) uto Correct`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6292,10 +7717,15 @@ key combo creating line break advancing to next line?
 - C) Both A and B
 - D) Contradictory hypothesis to Shift+Enter
 
-**✅ Correct Answer:** `A) Shift+Enter`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Shift+Enter`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6314,10 +7744,15 @@ feature aligning text equally between margins?
 - C) Contradictory hypothesis to Justify Alignment
 - D) Justify Alignment
 
-**✅ Correct Answer:** `D) Justify Alignment`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Justify Alignment`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6336,10 +7771,15 @@ purpose of ruler?
 - C) Contradictory hypothesis to align text, graphics, oth
 - D) Both A and B
 
-**✅ Correct Answer:** `A) align text, graphics, other elements`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) align text, graphics, other elements`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6358,10 +7798,15 @@ default Word orientation?
 - C) Portrait
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Portrait`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Portrait`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6380,10 +7825,15 @@ feature adding decorative text?
 - C) Contradictory hypothesis to WordArt
 - D) WordArt
 
-**✅ Correct Answer:** `D) WordArt`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) WordArt`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6402,10 +7852,15 @@ check word count?
 - C) Contradictory hypothesis to Review → Word Count
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Review → Word Count`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Review → Word Count`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6424,10 +7879,15 @@ change line spacing?
 - C) Both A and B
 - D) Contradictory hypothesis to Home tab → Line Spacing
 
-**✅ Correct Answer:** `B) Home tab → Line Spacing`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Home tab → Line Spacing`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6446,10 +7906,15 @@ feature applying pre-designed text formatting?
 - C) Contradictory hypothesis to Templates
 - D) Templates
 
-**✅ Correct Answer:** `D) Templates`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Templates`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6468,10 +7933,15 @@ view showing printed appearance?
 - C) Both A and B
 - D) Print Layout
 
-**✅ Correct Answer:** `D) Print Layout`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Print Layout`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6490,10 +7960,15 @@ what is a "Footer"?
 - C) Legacy standard alternative
 - D) content at bottom of each page
 
-**✅ Correct Answer:** `D) content at bottom of each page`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) content at bottom of each page`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6512,10 +7987,15 @@ default line spacing?
 - C) Both A and B
 - D) Contradictory hypothesis to 1.15 lines
 
-**✅ Correct Answer:** `A) 1.15 lines`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) 1.15 lines`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6534,10 +8014,15 @@ what is Mail Merge?
 - C) Legacy standard alternative
 - D) create mailing labels, envelopes, form letters
 
-**✅ Correct Answer:** `D) create mailing labels, envelopes, form letters`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) create mailing labels, envelopes, form letters`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6556,10 +8041,15 @@ manual line break shortcut?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Shift+Enter (soft return)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Shift+Enter (soft return)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6578,10 +8068,15 @@ double-underline a word — how?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) select text → Format > Font → Underline Style → Double Underline (Word 2003); Home → Font → underline style drop-down (2007+)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) select text → Format > Font → Underline Style → Double Underline (Word 2003); Home → Font → underline style drop-down (2007+)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -6600,9 +8095,14 @@ detect spelling/grammar errors?
 - C) Contradictory hypothesis to press F7
 - D) press F7
 
-**✅ Correct Answer:** `D) press F7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) press F7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---

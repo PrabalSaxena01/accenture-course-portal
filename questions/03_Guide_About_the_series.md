@@ -22,9 +22,14 @@ Which section offers the highest score-to-time ratio during technical preparatio
 - System Architecture design
 - Kernel modification in Linux
 
-**✅ Correct Answer:** `MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-MS Office, Cloud fundamentals, and Pseudocode questions can be answered in under 30 seconds each, saving precious minutes for mathematical aptitude and complex pseudocode dry-runs.
+> **✅ Correct Answer:** `MS Office shortcut formulas, Cloud basics (IaaS/PaaS/SaaS), and Bitwise Pseudocode`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> MS Office, Cloud fundamentals, and Pseudocode questions can be answered in under 30 seconds each, saving precious minutes for mathematical aptitude and complex pseudocode dry-runs.
+
+</details>
 
 ---

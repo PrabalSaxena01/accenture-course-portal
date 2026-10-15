@@ -22,10 +22,15 @@ passive of past-continuous (chef preparing meal when inspector arrived)?
 - C) Legacy standard alternative
 - D) past-continuous passive ("was being prepared")
 
-**✅ Correct Answer:** `D) past-continuous passive ("was being prepared")`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"was/were being + V3".
+> **✅ Correct Answer:** `D) past-continuous passive ("was being prepared")`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "was/were being + V3".
+
+</details>
 
 ---
 
@@ -44,10 +49,15 @@ active of modal-perfect passive (guidelines should have been announced)?
 - C) Legacy standard alternative
 - D) "The committee should have announced the new guidelines last week."
 
-**✅ Correct Answer:** `D) "The committee should have announced the new guidelines last week."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-modal perfect passive → modal perfect active with doer as subject.
+> **✅ Correct Answer:** `D) "The committee should have announced the new guidelines last week."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> modal perfect passive → modal perfect active with doer as subject.
+
+</details>
 
 ---
 
@@ -66,10 +76,15 @@ passive of "Nobody has solved this cryptographic puzzle."?
 - C) negative present-perfect passive ("has never been solved")
 - D) Contradictory hypothesis to negative present-perfect 
 
-**✅ Correct Answer:** `C) negative present-perfect passive ("has never been solved")`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"nobody" → negative passive.
+> **✅ Correct Answer:** `C) negative present-perfect passive ("has never been solved")`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "nobody" → negative passive.
+
+</details>
 
 ---
 
@@ -88,10 +103,15 @@ passive of "going to" future (demolish warehouse tomorrow)?
 - C) "The old warehouse is going to be demolished tomorrow."
 - D) Contradictory hypothesis to "The old warehouse is goi
 
-**✅ Correct Answer:** `C) "The old warehouse is going to be demolished tomorrow."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"going to be + V3".
+> **✅ Correct Answer:** `C) "The old warehouse is going to be demolished tomorrow."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "going to be + V3".
+
+</details>
 
 ---
 
@@ -110,10 +130,15 @@ passive interrogative for "Who wrote this symphony?"?
 - C) Both A and B
 - D) Contradictory hypothesis to "By whom was this extraor
 
-**✅ Correct Answer:** `A) "By whom was this extraordinary symphony written?"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"By whom + was + subject + V3?".
+> **✅ Correct Answer:** `A) "By whom was this extraordinary symphony written?"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "By whom + was + subject + V3?".
+
+</details>
 
 ---
 
@@ -132,10 +157,15 @@ passive of polite imperative "Please maintain silence..."?
 - C) "You are requested to maintain silence in the study hall."
 - D) Contradictory hypothesis to "You are requested to mai
 
-**✅ Correct Answer:** `C) "You are requested to maintain silence in the study hall."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"You are requested to + V1".
+> **✅ Correct Answer:** `C) "You are requested to maintain silence in the study hall."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "You are requested to + V1".
+
+</details>
 
 ---
 
@@ -154,10 +184,15 @@ passive of present-perfect (management appointed Sarah)?
 - C) Contradictory hypothesis to "Sarah has been appointed
 - D) "Sarah has been appointed as the lead architect by the management."
 
-**✅ Correct Answer:** `D) "Sarah has been appointed as the lead architect by the management."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"has/have been + V3".
+> **✅ Correct Answer:** `D) "Sarah has been appointed as the lead architect by the management."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "has/have been + V3".
+
+</details>
 
 ---
 
@@ -176,10 +211,15 @@ passive interrogative for "Why did the security team deny him access?"?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "Why was he denied access by the security team?"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"was/were + subject + V3", keep word order.
+> **✅ Correct Answer:** `B) "Why was he denied access by the security team?"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "was/were + subject + V3", keep word order.
+
+</details>
 
 ---
 
@@ -198,10 +238,15 @@ active of past-perfect passive (moisture had damaged scroll)?
 - C) "Moisture had damaged the ancient scroll before they discovered it."
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "Moisture had damaged the ancient scroll before they discovered it."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"had been + V3" → "had + V3".
+> **✅ Correct Answer:** `C) "Moisture had damaged the ancient scroll before they discovered it."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "had been + V3" → "had + V3".
+
+</details>
 
 ---
 
@@ -220,10 +265,15 @@ passive of "One must keep one's promises."?
 - C) Contradictory hypothesis to "Promises must be kept."
 - D) "Promises must be kept."
 
-**✅ Correct Answer:** `D) "Promises must be kept."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-indefinite "one" dropped.
+> **✅ Correct Answer:** `D) "Promises must be kept."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> indefinite "one" dropped.
+
+</details>
 
 ---
 
@@ -242,10 +292,15 @@ passive of simple future (judge will deliver verdict Monday)?
 - C) "The final verdict will be delivered by the judge on Monday."
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "The final verdict will be delivered by the judge on Monday."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"will be + V3".
+> **✅ Correct Answer:** `C) "The final verdict will be delivered by the judge on Monday."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "will be + V3".
+
+</details>
 
 ---
 
@@ -264,10 +319,15 @@ passive of past-continuous (merger was being discussed)?
 - C) Contradictory hypothesis to "The merger was being dis
 - D) "The merger was being discussed when I entered the board room."
 
-**✅ Correct Answer:** `D) "The merger was being discussed when I entered the board room."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"was/were being + V3".
+> **✅ Correct Answer:** `D) "The merger was being discussed when I entered the board room."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "was/were being + V3".
+
+</details>
 
 ---
 
@@ -286,10 +346,15 @@ active of "Let the gate be closed immediately."?
 - C) "Close the gate immediately."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "Close the gate immediately."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Let + object + be + V3" → imperative.
+> **✅ Correct Answer:** `C) "Close the gate immediately."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Let + object + be + V3" → imperative.
+
+</details>
 
 ---
 
@@ -308,10 +373,15 @@ passive of simple present (company expects overtime)?
 - C) Both A and B
 - D) Contradictory hypothesis to "Employees are expected t
 
-**✅ Correct Answer:** `A) "Employees are expected to work overtime during tax season by the company."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"is/are + V3".
+> **✅ Correct Answer:** `A) "Employees are expected to work overtime during tax season by the company."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "is/are + V3".
+
+</details>
 
 ---
 
@@ -330,10 +400,15 @@ passive of past-simple double verb (opened door, offered seat)?
 - C) Contradictory hypothesis to "The door was opened and 
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "The door was opened and a seat was offered to her by him."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-both verbs → passive past simple.
+> **✅ Correct Answer:** `A) "The door was opened and a seat was offered to her by him."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> both verbs → passive past simple.
+
+</details>
 
 ---
 
@@ -352,10 +427,15 @@ indirect of David's "will finish...tomorrow"?
 - C) Contradictory hypothesis to "...he would finish readi
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) "...he would finish reading that report the next day."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-will→would, this→that, tomorrow→the next day.
+> **✅ Correct Answer:** `A) "...he would finish reading that report the next day."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> will→would, this→that, tomorrow→the next day.
+
+</details>
 
 ---
 
@@ -374,10 +454,15 @@ indirect of Maria's yes/no question (attending meeting)?
 - C) Contradictory hypothesis to "Maria asked me if I was 
 - D) "Maria asked me if I was attending the strategy meeting that afternoon."
 
-**✅ Correct Answer:** `D) "Maria asked me if I was attending the strategy meeting that afternoon."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-if/whether + statement order; continuous → past continuous.
+> **✅ Correct Answer:** `D) "Maria asked me if I was attending the strategy meeting that afternoon."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> if/whether + statement order; continuous → past continuous.
+
+</details>
 
 ---
 
@@ -396,10 +481,15 @@ indirect of manager's wh-question (where files were stored)?
 - C) Contradictory hypothesis to "The manager inquired whe
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) "The manager inquired where I had stored the backup files."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-wh-word kept + statement order; past simple → past perfect.
+> **✅ Correct Answer:** `B) "The manager inquired where I had stored the backup files."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> wh-word kept + statement order; past simple → past perfect.
+
+</details>
 
 ---
 
@@ -418,10 +508,15 @@ indirect of electrician's "don't touch" warning?
 - C) "The electrician warned us not to touch those exposed wires."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The electrician warned us not to touch those exposed wires."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"warned + object + not to + V1"; these→those.
+> **✅ Correct Answer:** `C) "The electrician warned us not to touch those exposed wires."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "warned + object + not to + V1"; these→those.
+
+</details>
 
 ---
 
@@ -440,10 +535,15 @@ indirect of exclamation praising a performance?
 - C) "The director exclaimed with appreciation that it had been a brilliant performance."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The director exclaimed with appreciation that it had been a brilliant performance."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"exclaimed that" + statement; was→had been.
+> **✅ Correct Answer:** `C) "The director exclaimed with appreciation that it had been a brilliant performance."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "exclaimed that" + statement; was→had been.
+
+</details>
 
 ---
 
@@ -462,10 +562,15 @@ indirect of professor's "Earth rotates..." statement?
 - C) Both A and B
 - D) Contradictory hypothesis to "...the Earth rotates on 
 
-**✅ Correct Answer:** `A) "...the Earth rotates on its axis once every 24 hours."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-universal truths don't shift tense.
+> **✅ Correct Answer:** `A) "...the Earth rotates on its axis once every 24 hours."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> universal truths don't shift tense.
+
+</details>
 
 ---
 
@@ -484,10 +589,15 @@ indirect of Lucas's "have been working since last month."?
 - C) "...he had been working on that project since the previous month."
 - D) Contradictory hypothesis to "...he had been working o
 
-**✅ Correct Answer:** `C) "...he had been working on that project since the previous month."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-present perfect continuous → past perfect continuous; this→that; last→previous.
+> **✅ Correct Answer:** `C) "...he had been working on that project since the previous month."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> present perfect continuous → past perfect continuous; this→that; last→previous.
+
+</details>
 
 ---
 
@@ -506,10 +616,15 @@ indirect of polite "please bring tea" request?
 - C) Contradictory hypothesis to "The elderly lady request
 - D) "The elderly lady requested the nurse to bring her a cup of tea."
 
-**✅ Correct Answer:** `D) "The elderly lady requested the nurse to bring her a cup of tea."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"requested + object + to + V1".
+> **✅ Correct Answer:** `D) "The elderly lady requested the nurse to bring her a cup of tea."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "requested + object + to + V1".
+
+</details>
 
 ---
 
@@ -528,10 +643,15 @@ direct of indirect ("asked me if I could help...that night")?
 - C) "She said to me, 'Can you help me with my assignment tonight?'"
 - D) Both A and B
 
-**✅ Correct Answer:** `C) "She said to me, 'Can you help me with my assignment tonight?'"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-could→can; that night→tonight; pronouns revert.
+> **✅ Correct Answer:** `C) "She said to me, 'Can you help me with my assignment tonight?'"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> could→can; that night→tonight; pronouns revert.
+
+</details>
 
 ---
 
@@ -550,10 +670,15 @@ indirect of "Alas! We have lost..."?
 - C) "The minister exclaimed with sorrow that they had lost their most experienced leader."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The minister exclaimed with sorrow that they had lost their most experienced leader."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"exclaimed with sorrow that"; have lost→had lost.
+> **✅ Correct Answer:** `C) "The minister exclaimed with sorrow that they had lost their most experienced leader."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "exclaimed with sorrow that"; have lost→had lost.
+
+</details>
 
 ---
 
@@ -572,10 +697,15 @@ indirect of "Let us take a break" proposal?
 - C) Contradictory hypothesis to "The team lead suggested 
 - D) "The team lead suggested that we should take a break and resume in an hour."
 
-**✅ Correct Answer:** `D) "The team lead suggested that we should take a break and resume in an hour."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"Let us" → "suggested that + subject + should + V1".
+> **✅ Correct Answer:** `D) "The team lead suggested that we should take a break and resume in an hour."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "Let us" → "suggested that + subject + should + V1".
+
+</details>
 
 ---
 
@@ -594,10 +724,15 @@ indirect of supervisor's yes/no past question (completed assignment)?
 - C) Both A and B
 - D) "The supervisor asked if I had completed the assignment before leaving."
 
-**✅ Correct Answer:** `D) "The supervisor asked if I had completed the assignment before leaving."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-past yes/no → if/whether + past perfect.
+> **✅ Correct Answer:** `D) "The supervisor asked if I had completed the assignment before leaving."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> past yes/no → if/whether + past perfect.
+
+</details>
 
 ---
 
@@ -616,10 +751,15 @@ indirect of officer's "must submit" obligation?
 - C) "The officer said that he had to submit those documents by Friday."
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The officer said that he had to submit those documents by Friday."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-obligation "must" → "had to".
+> **✅ Correct Answer:** `C) "The officer said that he had to submit those documents by Friday."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> obligation "must" → "had to".
+
+</details>
 
 ---
 
@@ -638,10 +778,15 @@ indirect of judge's command (call second witness)?
 - C) Contradictory hypothesis to "The judge ordered them t
 - D) Both A and B
 
-**✅ Correct Answer:** `A) "The judge ordered them to call the second witness immediately."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-command → "ordered" + infinitive.
+> **✅ Correct Answer:** `A) "The judge ordered them to call the second witness immediately."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> command → "ordered" + infinitive.
+
+</details>
 
 ---
 
@@ -660,10 +805,15 @@ indirect of mentor's wish for success?
 - C) Contradictory hypothesis to "The mentor wished that h
 - D) Both A and B
 
-**✅ Correct Answer:** `B) "The mentor wished that he might achieve great success in his career."`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-"wished that"; may→might.
+> **✅ Correct Answer:** `B) "The mentor wished that he might achieve great success in his career."`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> "wished that"; may→might.
+
+</details>
 
 ---
 
@@ -682,10 +832,15 @@ Excel shortcut opening "Go To" dialog?
 - C) trl+G
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+G`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+G`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -704,10 +859,15 @@ shortcut opening "Paste Special" dialog?
 - C) Standard default parameter
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `A) lt + E, S, V`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) lt + E, S, V`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -726,10 +886,15 @@ VBA best practice for maintainable code?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) use comments and document the code`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) use comments and document the code`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -748,10 +913,15 @@ VBA technique to optimize scripts over large data?
 - C) Contradictory hypothesis to turn off screen updating
 - D) Both A and B
 
-**✅ Correct Answer:** `A) turn off screen updating`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) turn off screen updating`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -770,10 +940,15 @@ copy cells shortcut?
 - C) trl+C
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+C`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+C`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -792,10 +967,15 @@ what does COUNTA() do?
 - C) counts non-blank cells
 - D) Contradictory hypothesis to counts non-blank cells
 
-**✅ Correct Answer:** `C) counts non-blank cells`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) counts non-blank cells`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -814,10 +994,15 @@ typing "=B25" into a cell?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to cell shows same value as 
 
-**✅ Correct Answer:** `B) cell shows same value as B25`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) cell shows same value as B25`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -836,10 +1021,15 @@ function returning N chars from string start?
 - C) Contradictory hypothesis to LEFT
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) LEFT`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) LEFT`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -858,10 +1048,15 @@ function joining two+ text strings?
 - C) ONCATENATE
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) ONCATENATE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) ONCATENATE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -880,10 +1075,15 @@ which method CANNOT enter data in a cell?
 - C) Contradictory hypothesis to pressing Esc
 - D) Both A and B
 
-**✅ Correct Answer:** `B) pressing Esc`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) pressing Esc`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -902,10 +1102,15 @@ where do Cancel/Enter buttons appear?
 - C) Legacy standard alternative
 - D) formula bar
 
-**✅ Correct Answer:** `D) formula bar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) formula bar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -924,10 +1129,15 @@ what does "B7:B9" indicate?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) cells B7 through B9`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) cells B7 through B9`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -946,10 +1156,15 @@ function category for depreciation, rates, future values, loan payments?
 - C) Legacy standard alternative
 - D) Financial
 
-**✅ Correct Answer:** `D) Financial`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Financial`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -968,10 +1183,15 @@ select entire column?
 - C) trl+Spacebar
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Spacebar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Spacebar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -990,10 +1210,15 @@ select entire row?
 - C) Shift+Spacebar
 - D) Contradictory hypothesis to Shift+Spacebar
 
-**✅ Correct Answer:** `C) Shift+Spacebar`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Shift+Spacebar`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1012,10 +1237,15 @@ insert hyperlink?
 - C) trl+K
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+K`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+K`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1034,10 +1264,15 @@ what does Ctrl + "-" do?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) deletes selected row/column`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) deletes selected row/column`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1056,10 +1291,15 @@ essential for secure Excel-VBA integration with other Office apps?
 - C) Contradictory hypothesis to use trusted locations for
 - D) use trusted locations for files
 
-**✅ Correct Answer:** `D) use trusted locations for files`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) use trusted locations for files`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1078,10 +1318,15 @@ handle a VBA script crashing Excel?
 - C) isolate the problem code
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) isolate the problem code`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) isolate the problem code`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1100,10 +1345,15 @@ what is a "cell"?
 - C) Contradictory hypothesis to intersection of a row and
 - D) Both A and B
 
-**✅ Correct Answer:** `A) intersection of a row and column`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) intersection of a row and column`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1122,10 +1372,15 @@ function summing a range?
 - C) SUM()
 - D) Both A and B
 
-**✅ Correct Answer:** `C) SUM()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) SUM()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1144,10 +1399,15 @@ purpose of AutoSum?
 - C) Legacy standard alternative
 - D) adds up a range of cells
 
-**✅ Correct Answer:** `D) adds up a range of cells`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) adds up a range of cells`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1166,10 +1426,15 @@ change column width?
 - C) Both A and B
 - D) Contradictory hypothesis to drag the column boundary
 
-**✅ Correct Answer:** `B) drag the column boundary`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) drag the column boundary`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1188,10 +1453,15 @@ switch between open workbooks?
 - C) trl+Tab
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Tab`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Tab`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1210,10 +1480,15 @@ Ctrl+S?
 - C) Save
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) Save`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Save`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1232,10 +1507,15 @@ function converting text to numeric?
 - C) VALUE
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) VALUE`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) VALUE`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1254,10 +1534,15 @@ function finding position of text in string?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) FIND`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) FIND`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1276,10 +1561,15 @@ function searching for text in string?
 - C) Contradictory hypothesis to SEARCH
 - D) Both A and B
 
-**✅ Correct Answer:** `B) SEARCH`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) SEARCH`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1298,10 +1588,15 @@ true statements about active cell (bold border / receives entered data)?
 - C) Legacy standard alternative
 - D) Only A and B
 
-**✅ Correct Answer:** `D) Only A and B`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Only A and B`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1320,10 +1615,15 @@ term for grid with labeled columns/rows?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Worksheet`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Worksheet`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1342,10 +1642,15 @@ tabs found in Excel's help menu?
 - C) Both A and B
 - D) all of the above
 
-**✅ Correct Answer:** `D) all of the above`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all of the above`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1364,10 +1669,15 @@ Fill Color button used for?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) add shading/color to cell range`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) add shading/color to cell range`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1386,10 +1696,15 @@ what is a data series?
 - C) collection of related data
 - D) Contradictory hypothesis to collection of related dat
 
-**✅ Correct Answer:** `C) collection of related data`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) collection of related data`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1408,10 +1723,15 @@ Ctrl+H in Excel?
 - C) Contradictory hypothesis to opens Replace dialog
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) opens Replace dialog`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) opens Replace dialog`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1430,10 +1750,15 @@ close workbook?
 - C) trl+W
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+W`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+W`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1452,10 +1777,15 @@ Alt + =?
 - C) Both A and B
 - D) Contradictory hypothesis to inserts SUM function
 
-**✅ Correct Answer:** `A) inserts SUM function`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) inserts SUM function`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1474,10 +1804,15 @@ insert current date?
 - C) trl+;
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+;`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+;`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1496,10 +1831,15 @@ Ctrl+D?
 - C) fills down data/formula from cell above
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) fills down data/formula from cell above`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) fills down data/formula from cell above`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1518,10 +1858,15 @@ which key edits cell content?
 - C) Contradictory hypothesis to F2
 - D) F2
 
-**✅ Correct Answer:** `D) F2`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) F2`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1540,10 +1885,15 @@ insert a new row?
 - C) trl+Shift+Plus
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Shift+Plus`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Shift+Plus`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1562,10 +1912,15 @@ move to last cell in worksheet?
 - C) trl+End
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+End`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+End`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1584,10 +1939,15 @@ create new worksheet?
 - C) Both A and B
 - D) Contradictory hypothesis to Shift+F11
 
-**✅ Correct Answer:** `A) Shift+F11`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Shift+F11`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1606,10 +1966,15 @@ insert a comment?
 - C) Contradictory hypothesis to Review > Insert Comment
 - D) Both A and B
 
-**✅ Correct Answer:** `A) Review > Insert Comment`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) Review > Insert Comment`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1628,10 +1993,15 @@ first troubleshooting step when VBA script misbehaves?
 - C) Both A and B
 - D) Contradictory hypothesis to check for syntax errors
 
-**✅ Correct Answer:** `A) check for syntax errors`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) check for syntax errors`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1650,10 +2020,15 @@ debug intermittent VBA errors?
 - C) None of the listed implementations
 - D) ebug tool + breakpoints
 
-**✅ Correct Answer:** `D) ebug tool + breakpoints`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ebug tool + breakpoints`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1672,10 +2047,15 @@ VBA function prompting user to select a range?
 - C) Contradictory hypothesis to InputBox()
 - D) InputBox()
 
-**✅ Correct Answer:** `D) InputBox()`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) InputBox()`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1694,10 +2074,15 @@ remove duplicates in a column?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) Remove Duplicates feature`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Remove Duplicates feature`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1716,10 +2101,15 @@ purpose of IF function?
 - C) conditional statements
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) conditional statements`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) conditional statements`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1738,10 +2128,15 @@ purpose of UPPER()?
 - C) Legacy standard alternative
 - D) converts text to uppercase
 
-**✅ Correct Answer:** `D) converts text to uppercase`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) converts text to uppercase`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1760,10 +2155,15 @@ meaning of "data validation"?
 - C) Contradictory hypothesis to ensuring data accuracy th
 - D) ensuring data accuracy through validation rules
 
-**✅ Correct Answer:** `D) ensuring data accuracy through validation rules`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ensuring data accuracy through validation rules`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1782,10 +2182,15 @@ purpose of TRANSPOSE?
 - C) Both A and B
 - D) Contradictory hypothesis to swaps rows and columns
 
-**✅ Correct Answer:** `A) swaps rows and columns`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) swaps rows and columns`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1804,10 +2209,15 @@ group worksheets?
 - C) Contradictory hypothesis to select multiple sheets, r
 - D) Both A and B
 
-**✅ Correct Answer:** `A) select multiple sheets, right-click → Group Sheets`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) select multiple sheets, right-click → Group Sheets`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1826,10 +2236,15 @@ protect worksheet from editing?
 - C) Contradictory hypothesis to all of the above (passwor
 - D) all of the above (password + Protect Worksheet)
 
-**✅ Correct Answer:** `D) all of the above (password + Protect Worksheet)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) all of the above (password + Protect Worksheet)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1848,10 +2263,15 @@ language used for Excel macros?
 - C) Contradictory hypothesis to Visual Basic
 - D) Visual Basic
 
-**✅ Correct Answer:** `D) Visual Basic`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Visual Basic`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1870,10 +2290,15 @@ function returning TRUE/FALSE on two+ conditions?
 - C) Contradictory hypothesis to =AND
 - D) =AND
 
-**✅ Correct Answer:** `D) =AND`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) =AND`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1892,10 +2317,15 @@ copy value from cell above?
 - C) trl+Shift+
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) trl+Shift+`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) trl+Shift+`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1914,10 +2344,15 @@ function applying filter to a range?
 - C) FILTER
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) FILTER`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) FILTER`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1936,10 +2371,15 @@ function counting cells meeting criteria?
 - C) OUNTIF
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) OUNTIF`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) OUNTIF`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1958,10 +2398,15 @@ function splitting cell contents by delimiter?
 - C) Contradictory hypothesis to SPLIT
 - D) SPLIT
 
-**✅ Correct Answer:** `D) SPLIT`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) SPLIT`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -1980,10 +2425,15 @@ function searching first row of range, returning value?
 - C) Both A and B
 - D) HLOOKUP
 
-**✅ Correct Answer:** `D) HLOOKUP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) HLOOKUP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2002,10 +2452,15 @@ function returning cell value at specified row/column?
 - C) Both A and B
 - D) Contradictory hypothesis to INDEX
 
-**✅ Correct Answer:** `A) INDEX`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) INDEX`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2024,10 +2479,15 @@ function finding largest value ≤ specified value?
 - C) Contradictory hypothesis to VLOOKUP
 - D) VLOOKUP
 
-**✅ Correct Answer:** `D) VLOOKUP`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) VLOOKUP`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2046,10 +2506,15 @@ function removing decimal portion?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) TRUNC`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) TRUNC`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2068,10 +2533,15 @@ function rounding down to nearest integer?
 - C) Both A and B
 - D) ROUNDDOWN
 
-**✅ Correct Answer:** `D) ROUNDDOWN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) ROUNDDOWN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2090,10 +2560,15 @@ function counting characters in string?
 - C) Both A and B
 - D) Contradictory hypothesis to LEN
 
-**✅ Correct Answer:** `A) LEN`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) LEN`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2112,10 +2587,15 @@ function capitalizing first letter of each word?
 - C) PROPER
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) PROPER`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) PROPER`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2134,10 +2614,15 @@ small black square at lower-right of active cell?
 - C) Contradictory hypothesis to fill handle
 - D) fill handle
 
-**✅ Correct Answer:** `D) fill handle`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) fill handle`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2156,10 +2641,15 @@ tabs at bottom of workbook?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) sheet tabs`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) sheet tabs`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2178,10 +2668,15 @@ dollar signs ($) in cell address create?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) absolute cell address`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) absolute cell address`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2200,10 +2695,15 @@ what records keystrokes/mouse for playback?
 - C) Contradictory hypothesis to Macro Recorder
 - D) Macro Recorder
 
-**✅ Correct Answer:** `D) Macro Recorder`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Macro Recorder`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2222,10 +2722,15 @@ key to check spelling?
 - C) F7
 - D) Contradictory hypothesis to F7
 
-**✅ Correct Answer:** `C) F7`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) F7`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2244,10 +2749,15 @@ menu opening Spelling dialog?
 - C) Contradictory hypothesis to Tools
 - D) Tools
 
-**✅ Correct Answer:** `D) Tools`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) Tools`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2266,10 +2776,15 @@ difference between MS Word and MS Excel?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) Word = text editing; Excel = data analysis/calculations`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) Word = text editing; Excel = data analysis/calculations`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2288,10 +2803,15 @@ prevent formula changing when copied?
 - C) Legacy standard alternative
 - D) absolute references ($A$1)
 
-**✅ Correct Answer:** `D) absolute references ($A$1)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) absolute references ($A$1)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2310,10 +2830,15 @@ Ctrl+T?
 - C) converts range into a table
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) converts range into a table`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) converts range into a table`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2332,10 +2857,15 @@ what does =SUMIF(A1:A10,">10") do?
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) adds values >10 in A1:A10`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) adds values >10 in A1:A10`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2354,10 +2884,15 @@ apply a predefined style?
 - C) Styles group in Home tab
 - D) Both A and B
 
-**✅ Correct Answer:** `C) Styles group in Home tab`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) Styles group in Home tab`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2376,10 +2911,15 @@ automate email from Excel in VBA?
 - C) DO.Message object
 - D) None of the listed implementations
 
-**✅ Correct Answer:** `C) DO.Message object`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) DO.Message object`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2398,10 +2938,15 @@ primary use of UserForm in VBA?
 - C) Contradictory hypothesis to UI element for data input
 - D) UI element for data input
 
-**✅ Correct Answer:** `D) UI element for data input`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) UI element for data input`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2420,10 +2965,15 @@ record a macro?
 - C) None of the listed implementations
 - D) eveloper tab → Record Macro
 
-**✅ Correct Answer:** `D) eveloper tab → Record Macro`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) eveloper tab → Record Macro`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2442,10 +2992,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to are
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) are`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-nor → verb agrees with nearest plural subject.
+> **✅ Correct Answer:** `B) are`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> nor → verb agrees with nearest plural subject.
+
+</details>
 
 ---
 
@@ -2464,10 +3019,15 @@ nor → verb agrees with nearest plural subject.
 - C) Both A and B
 - D) is planning for a trip to Goa
 
-**✅ Correct Answer:** `D) is planning for a trip to Goa`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-agrees with singular "Shankar".
+> **✅ Correct Answer:** `D) is planning for a trip to Goa`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> agrees with singular "Shankar".
+
+</details>
 
 ---
 
@@ -2486,10 +3046,15 @@ agrees with singular "Shankar".
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to is
 
-**✅ Correct Answer:** `B) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-collective noun as whole.
+> **✅ Correct Answer:** `B) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> collective noun as whole.
+
+</details>
 
 ---
 
@@ -2508,10 +3073,15 @@ sentence whose verb does NOT agree?
 - C) "The cohesion in paragraphs are considered..." (should be singular)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The cohesion in paragraphs are considered..." (should be singular)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "The cohesion in paragraphs are considered..." (should be singular)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2530,10 +3100,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to is awarded to him
 - D) is awarded to him
 
-**✅ Correct Answer:** `D) is awarded to him`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-money quantity → singular.
+> **✅ Correct Answer:** `D) is awarded to him`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> money quantity → singular.
+
+</details>
 
 ---
 
@@ -2552,10 +3127,15 @@ money quantity → singular.
 - C) Both A and B
 - D) Contradictory hypothesis to is
 
-**✅ Correct Answer:** `A) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-same person.
+> **✅ Correct Answer:** `A) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> same person.
+
+</details>
 
 ---
 
@@ -2574,10 +3154,15 @@ same person.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2596,10 +3181,15 @@ Verified Accenture placement test pattern.
 - C) has completed
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) has completed`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) has completed`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2618,10 +3208,15 @@ Verified Accenture placement test pattern.
 - C) plays
 - D) Both A and B
 
-**✅ Correct Answer:** `C) plays`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) plays`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2640,10 +3235,15 @@ Verified Accenture placement test pattern.
 - C) has, shall not appreciate
 - D) Contradictory hypothesis to has, shall not appreciate
 
-**✅ Correct Answer:** `C) has, shall not appreciate`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) has, shall not appreciate`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2662,10 +3262,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2684,10 +3289,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2706,10 +3316,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) have
 
-**✅ Correct Answer:** `D) have`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) have`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2728,10 +3343,15 @@ Verified Accenture placement test pattern.
 - C) have
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) have`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) have`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2750,10 +3370,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) was`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-uncountable noun.
+> **✅ Correct Answer:** `B) was`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> uncountable noun.
+
+</details>
 
 ---
 
@@ -2772,10 +3397,15 @@ uncountable noun.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) is`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-distance quantity → singular.
+> **✅ Correct Answer:** `B) is`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> distance quantity → singular.
+
+</details>
 
 ---
 
@@ -2794,10 +3424,15 @@ distance quantity → singular.
 - C) Contradictory hypothesis to was down with fever
 - D) Both A and B
 
-**✅ Correct Answer:** `A) was down with fever`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) was down with fever`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2816,10 +3451,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to has
 - D) has
 
-**✅ Correct Answer:** `D) has`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-agrees with "market cost".
+> **✅ Correct Answer:** `D) has`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> agrees with "market cost".
+
+</details>
 
 ---
 
@@ -2838,10 +3478,15 @@ sentence whose verb does NOT agree?
 - C) "The jury is split on their verdict" (collective noun split → members)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "The jury is split on their verdict" (collective noun split → members)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "The jury is split on their verdict" (collective noun split → members)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2860,10 +3505,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to has arrived
 
-**✅ Correct Answer:** `B) has arrived`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-single person.
+> **✅ Correct Answer:** `B) has arrived`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> single person.
+
+</details>
 
 ---
 
@@ -2882,10 +3532,15 @@ single person.
 - C) Both A and B
 - D) seen (past participle)
 
-**✅ Correct Answer:** `D) seen (past participle)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) seen (past participle)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2904,10 +3559,15 @@ past participle of "catch"?
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) caught`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) caught`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2926,10 +3586,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to had worked
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) had worked`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-earlier of two past actions.
+> **✅ Correct Answer:** `B) had worked`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> earlier of two past actions.
+
+</details>
 
 ---
 
@@ -2948,10 +3613,15 @@ past participle of "swim"?
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to swum
 
-**✅ Correct Answer:** `B) swum`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) swum`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2970,10 +3640,15 @@ Verified Accenture placement test pattern.
 - C) received (simple past)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) received (simple past)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) received (simple past)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -2992,10 +3667,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to could fly
 - D) Both A and B
 
-**✅ Correct Answer:** `B) could fly`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) could fly`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3014,10 +3694,15 @@ Verified Accenture placement test pattern.
 - C) has been reading
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) has been reading`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) has been reading`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3036,10 +3721,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) play`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) play`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3058,10 +3748,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to takes
 - D) takes
 
-**✅ Correct Answer:** `D) takes`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) takes`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3080,10 +3775,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) would have returned`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) would have returned`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3102,10 +3802,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to have been building
 - D) Both A and B
 
-**✅ Correct Answer:** `B) have been building`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) have been building`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3124,10 +3829,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Contradictory hypothesis to bought
 
-**✅ Correct Answer:** `A) bought`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) bought`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3146,10 +3856,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to has
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `A) has`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) has`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3168,10 +3883,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to had stood
 - D) Both A and B
 
-**✅ Correct Answer:** `A) had stood`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) had stood`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3190,10 +3910,15 @@ Verified Accenture placement test pattern.
 - C) spoken (verb+adjective)
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) spoken (verb+adjective)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) spoken (verb+adjective)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3212,10 +3937,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `B) opens (timetables)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) opens (timetables)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3234,10 +3964,15 @@ sentence with appropriate verb form?
 - C) "I bought a new mobile phone last week"
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) "I bought a new mobile phone last week"`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) "I bought a new mobile phone last week"`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3256,10 +3991,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to torn (past participle)
 - D) torn (past participle)
 
-**✅ Correct Answer:** `D) torn (past participle)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) torn (past participle)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3278,10 +4018,15 @@ Verified Accenture placement test pattern.
 - C) broke
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) broke`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) broke`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3300,10 +4045,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) mistook (past tense)
 
-**✅ Correct Answer:** `D) mistook (past tense)`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) mistook (past tense)`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3322,10 +4072,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) an
 
-**✅ Correct Answer:** `D) an`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-silent h → vowel sound.
+> **✅ Correct Answer:** `D) an`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> silent h → vowel sound.
+
+</details>
 
 ---
 
@@ -3344,10 +4099,15 @@ silent h → vowel sound.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) the, a, an, a`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) the, a, an, a`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3366,10 +4126,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Contradictory hypothesis to the
 
-**✅ Correct Answer:** `B) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3388,10 +4153,15 @@ Verified Accenture placement test pattern.
 - C) no article
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) no article`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) no article`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3410,10 +4180,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to an
 - D) Both A and B
 
-**✅ Correct Answer:** `B) an`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) an`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3432,10 +4207,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `A) no article, the, the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `A) no article, the, the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3454,10 +4234,15 @@ Verified Accenture placement test pattern.
 - C) the
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3476,10 +4261,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) a`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) a`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3498,10 +4288,15 @@ Verified Accenture placement test pattern.
 - C) the, the
 - D) Contradictory hypothesis to the, the
 
-**✅ Correct Answer:** `C) the, the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) the, the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3520,10 +4315,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to the
 - D) Both A and B
 
-**✅ Correct Answer:** `B) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3542,10 +4342,15 @@ Verified Accenture placement test pattern.
 - C) the
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-plural noun.
+> **✅ Correct Answer:** `C) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> plural noun.
+
+</details>
 
 ---
 
@@ -3564,10 +4369,15 @@ plural noun.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3586,10 +4396,15 @@ Verified Accenture placement test pattern.
 - C) Both A and B
 - D) the
 
-**✅ Correct Answer:** `D) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `D) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3608,10 +4423,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to the
 - D) Both A and B
 
-**✅ Correct Answer:** `A) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unique place.
+> **✅ Correct Answer:** `A) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unique place.
+
+</details>
 
 ---
 
@@ -3630,10 +4450,15 @@ unique place.
 - C) Legacy standard alternative
 - D) Both A and B
 
-**✅ Correct Answer:** `B) no article`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) no article`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3652,10 +4477,15 @@ Verified Accenture placement test pattern.
 - C) Legacy standard alternative
 - D) a
 
-**✅ Correct Answer:** `D) a`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-consonant sound.
+> **✅ Correct Answer:** `D) a`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> consonant sound.
+
+</details>
 
 ---
 
@@ -3674,10 +4504,15 @@ consonant sound.
 - C) Contradictory hypothesis to an
 - D) Both A and B
 
-**✅ Correct Answer:** `B) an`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `B) an`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3696,10 +4531,15 @@ Verified Accenture placement test pattern.
 - C) the
 - D) Legacy standard alternative
 
-**✅ Correct Answer:** `C) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-Verified Accenture placement test pattern.
+> **✅ Correct Answer:** `C) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> Verified Accenture placement test pattern.
+
+</details>
 
 ---
 
@@ -3718,10 +4558,15 @@ Verified Accenture placement test pattern.
 - C) Contradictory hypothesis to the
 - D) Both A and B
 
-**✅ Correct Answer:** `B) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-unique of kind.
+> **✅ Correct Answer:** `B) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> unique of kind.
+
+</details>
 
 ---
 
@@ -3740,9 +4585,14 @@ unique of kind.
 - C) Contradictory hypothesis to the
 - D) the
 
-**✅ Correct Answer:** `D) the`
+<details>
+<summary>🙈 <b>Tap to Reveal Answer &amp; Explanation (Spoiler)</b></summary>
 
-**💡 Explanation & Solution Walkthrough:**
-definite place.
+> **✅ Correct Answer:** `D) the`
+>
+> **💡 Explanation &amp; Walkthrough:**
+> definite place.
+
+</details>
 
 ---
