@@ -1,7 +1,7 @@
 # Module 08: Similar Questions to Accenture
 
 **Total Questions in Module**: 190  
-**Visual Diagrams**: 6 blueprints  
+**Visual Diagrams**: 2 blueprints  
 **Category**: Aptitude & Technical  
 **Syllabus Items**: 20 lessons
 

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 560 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="280" y="22" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">ARRAY MAP PIPELINE: [3, 16, 2, 18].map(x =&gt; x + 5)</text>
+  <g transform="translate(30, 45)">
+    <text x="75" y="-8" fill="#94a3b8" font-size="11" font-weight="bold" text-anchor="middle">Input Array</text>
+    <rect x="0" y="0" width="35" height="35" fill="#1e293b" stroke="#475569" rx="4"/><text x="17" y="22" fill="#fff" font-family="monospace" text-anchor="middle">3</text>
+    <rect x="40" y="0" width="35" height="35" fill="#1e293b" stroke="#475569" rx="4"/><text x="57" y="22" fill="#fff" font-family="monospace" text-anchor="middle">16</text>
+    <rect x="80" y="0" width="35" height="35" fill="#1e293b" stroke="#475569" rx="4"/><text x="97" y="22" fill="#fff" font-family="monospace" text-anchor="middle">2</text>
+    <rect x="120" y="0" width="35" height="35" fill="#1e293b" stroke="#475569" rx="4"/><text x="137" y="22" fill="#fff" font-family="monospace" text-anchor="middle">18</text>
+  </g>
+  <g transform="translate(210, 45)">
+    <circle cx="30" cy="17" r="18" fill="#7e22ce" stroke="#c084fc"/>
+    <text x="30" y="22" fill="#fff" font-weight="bold" font-family="monospace" font-size="13" text-anchor="middle">+ 5</text>
+  </g>
+  <path d="M 285 62 L 320 62 M 315 57 L 320 62 L 315 67" stroke="#64748b" stroke-width="2.5" fill="none"/>
+  <g transform="translate(340, 45)">
+    <text x="75" y="-8" fill="#10b981" font-size="11" font-weight="bold" text-anchor="middle">Result: [8, 21, 7, 23]</text>
+    <rect x="0" y="0" width="35" height="35" fill="#065f46" stroke="#10b981" stroke-width="2" rx="4"/><text x="17" y="22" fill="#fff" font-weight="bold" font-family="monospace" text-anchor="middle">8</text>
+    <rect x="40" y="0" width="35" height="35" fill="#065f46" stroke="#10b981" stroke-width="2" rx="4"/><text x="57" y="22" fill="#fff" font-weight="bold" font-family="monospace" text-anchor="middle">21</text>
+    <rect x="80" y="0" width="35" height="35" fill="#065f46" stroke="#10b981" stroke-width="2" rx="4"/><text x="97" y="22" fill="#fff" font-weight="bold" font-family="monospace" text-anchor="middle">7</text>
+    <rect x="120" y="0" width="35" height="35" fill="#065f46" stroke="#10b981" stroke-width="2" rx="4"/><text x="137" y="22" fill="#fff" font-weight="bold" font-family="monospace" text-anchor="middle">23</text>
+  </g>
+</svg>

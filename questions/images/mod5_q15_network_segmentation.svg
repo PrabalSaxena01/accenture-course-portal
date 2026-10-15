@@ -1,0 +1,23 @@
+<svg viewBox="0 0 540 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="160" rx="8" fill="#0b1329" stroke="#1e293b" stroke-width="1.5"/>
+  <text x="270" y="22" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" text-anchor="middle">NETWORK SEGMENTATION &amp; LATERAL MOVEMENT CONTAINMENT</text>
+  <g transform="translate(30, 45)">
+    <rect width="140" height="85" rx="5" fill="#1e293b" stroke="#ef4444"/>
+    <text x="70" y="25" fill="#f87171" font-size="10" font-weight="bold" text-anchor="middle">DMZ (Public Web)</text>
+    <text x="70" y="50" fill="#94a3b8" font-size="8" text-anchor="middle">Compromised Host</text>
+  </g>
+  <g transform="translate(180, 75)">
+    <line x1="0" y1="10" x2="40" y2="10" stroke="#f43f5e" stroke-width="2"/>
+    <text x="20" y="0" fill="#f43f5e" font-size="9" text-anchor="middle">BLOCKED</text>
+  </g>
+  <g transform="translate(230, 45)">
+    <rect width="130" height="85" rx="5" fill="#0f2942" stroke="#38bdf8"/>
+    <text x="65" y="25" fill="#38bdf8" font-size="10" font-weight="bold" text-anchor="middle">App Tier VLAN</text>
+    <text x="65" y="50" fill="#cbd5e1" font-size="8" text-anchor="middle">Isolated Segment</text>
+  </g>
+  <g transform="translate(370, 45)">
+    <rect width="140" height="85" rx="5" fill="#064e3b" stroke="#10b981"/>
+    <text x="70" y="25" fill="#34d399" font-size="10" font-weight="bold" text-anchor="middle">DB Tier VLAN</text>
+    <text x="70" y="50" fill="#a7f3d0" font-size="8" text-anchor="middle">Zero-Trust Protected</text>
+  </g>
+</svg>

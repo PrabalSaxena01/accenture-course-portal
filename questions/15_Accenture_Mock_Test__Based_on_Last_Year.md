@@ -1,7 +1,7 @@
 # Module 15: Accenture Mock Test (Based on Last Year)
 
 **Total Questions in Module**: 90  
-**Visual Diagrams**: 12 blueprints  
+**Visual Diagrams**: 7 blueprints  
 **Category**: Full Mock Simulation  
 **Syllabus Items**: 2 lessons
 
@@ -522,6 +522,10 @@ Verified Accenture placement test pattern.
 syllogism "No vegetable is sweet. Some sweet things are tasty."
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-1] Question 24](./images/mod15_q24_accenture_cognitive_mock_1_que.svg)
+
 **Options:**
 - A) "I and II follows."
 - B) Legacy standard alternative
@@ -830,6 +834,10 @@ Verified Accenture placement test pattern.
 unfolded paper-folding figure Z.
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-1] Question 38](./images/mod15_q38_accenture_cognitive_mock_1_que.svg)
+
 **Options:**
 - A) Contradictory hypothesis to "3"
 - B) Legacy standard alternative
@@ -874,6 +882,10 @@ Verified Accenture placement test pattern.
 paper-folding/unfolding (image).
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-1] Question 40](./images/mod15_q40_accenture_cognitive_mock_1_que.svg)
+
 **Options:**
 - A) Contradictory hypothesis to "4"
 - B) Legacy standard alternative
@@ -917,6 +929,10 @@ Verified Accenture placement test pattern.
 ```
 unfolded paper-folding figure Z.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-1] Question 42](./images/mod15_q42_accenture_cognitive_mock_1_que.svg)
 
 **Options:**
 - A) Contradictory hypothesis to "3"
@@ -1049,6 +1065,10 @@ Verified Accenture placement test pattern.
 ```
 unfolded paper-folding figure Z.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-1] Question 48](./images/mod15_q48_accenture_cognitive_mock_1_que.svg)
 
 **Options:**
 - A) Contradictory hypothesis to "4"
@@ -1292,6 +1312,10 @@ Verified Accenture placement test pattern.
 value after merging eight shown cells (image).
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Technical Mock-1] Question 9](./images/mod15_q59_accenture_technical_mock_1_que.svg)
+
 **Options:**
 - A) Legacy standard alternative
 - B) Both A and B
@@ -1313,6 +1337,10 @@ Verified Accenture placement test pattern.
 ```
 what Excel cursor shape indicates.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Technical Mock-1] Question 10](./images/mod15_q60_accenture_technical_mock_1_que.svg)
 
 **Options:**
 - A) Contradictory hypothesis to "Column resizing"

@@ -1,7 +1,7 @@
 # Module 17: Practice Mock Test 1
 
 **Total Questions in Module**: 90  
-**Visual Diagrams**: 3 blueprints  
+**Visual Diagrams**: 2 blueprints  
 **Category**: Practice Mock Tests  
 **Syllabus Items**: 6 lessons
 
@@ -1072,6 +1072,10 @@ Verified Accenture placement test pattern.
 next in 2, 6, 12, 20, __?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Abstract Reasoning] Question 14](./images/mod17_q49_abstract_reasoning_question_14.svg)
+
 **Options:**
 - A) 23
 - B) 28
@@ -1093,6 +1097,10 @@ n(n+1) pattern.
 ```
 next in black square, white triangle, black circle, white square, __?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Abstract Reasoning] Question 15](./images/mod17_q50_abstract_reasoning_question_15.svg)
 
 **Options:**
 - A) Contradictory hypothesis to black triangle (shapes cy

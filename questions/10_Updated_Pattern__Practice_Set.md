@@ -1,7 +1,7 @@
 # Module 10: Updated Pattern (Practice Set)
 
 **Total Questions in Module**: 357  
-**Visual Diagrams**: 19 blueprints  
+**Visual Diagrams**: 9 blueprints  
 **Category**: Practice Sets  
 **Syllabus Items**: 33 lessons
 
@@ -2049,6 +2049,10 @@ Verified Accenture placement test pattern.
 ```
 two hosts wired directly, no connectivity (figure) — fixes?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Networking Mock-1] Question 7](./images/mod10_q92_networking_mock_1_question_7.svg)
 
 **Options:**
 - A) Legacy standard alternative

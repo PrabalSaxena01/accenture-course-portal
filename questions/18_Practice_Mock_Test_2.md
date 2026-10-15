@@ -808,6 +808,10 @@ Verified Accenture placement test pattern.
 missing shape in ○ ▲ ○ ▲ ○ __?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Abstract Reasoning] Question 2](./images/mod18_q37_abstract_reasoning_question_2.svg)
+
 **Options:**
 - A) Contradictory hypothesis to ▲
 - B) ▲
@@ -962,6 +966,10 @@ Verified Accenture placement test pattern.
 which shape completes alternating pattern?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Abstract Reasoning] Question 9](./images/mod18_q44_abstract_reasoning_question_9.svg)
+
 **Options:**
 - A) Legacy standard alternative
 - B) Contradictory hypothesis to ◆ (alternates ♦/◆)
@@ -1027,6 +1035,10 @@ Verified Accenture placement test pattern.
 ```
 given TRY→ABC, SHAPE→DEFGH, code THREE?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Abstract Reasoning] Question 12](./images/mod18_q47_abstract_reasoning_question_12.svg)
 
 **Options:**
 - A) EBHH

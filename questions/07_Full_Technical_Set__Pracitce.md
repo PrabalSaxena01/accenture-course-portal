@@ -1,7 +1,7 @@
 # Module 07: Full Technical Set (Pracitce)
 
 **Total Questions in Module**: 89  
-**Visual Diagrams**: 7 blueprints  
+**Visual Diagrams**: 4 blueprints  
 **Category**: Technical Assessment  
 **Syllabus Items**: 10 lessons
 
@@ -1075,6 +1075,10 @@ Verified Accenture placement test pattern.
 ```
 CSS square→circle?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![["Complete Set - Technical 2"] Question 4](./images/mod7_q49_complete_set_technical_2_quest.svg)
 
 **Options:**
 - A) border-radius: 50%;

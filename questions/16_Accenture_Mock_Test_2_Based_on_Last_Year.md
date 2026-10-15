@@ -1,7 +1,7 @@
 # Module 16: Accenture Mock Test 2(Based on Last Year)
 
 **Total Questions in Module**: 90  
-**Visual Diagrams**: 6 blueprints  
+**Visual Diagrams**: 1 blueprints  
 **Category**: Full Mock Simulation  
 **Syllabus Items**: 2 lessons
 
@@ -1863,6 +1863,10 @@ Verified Accenture placement test pattern.
 ```
 mirror image of figure.
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Accenture Cognitive Mock-2] Question 45](./images/mod16_q85_accenture_cognitive_mock_2_que.svg)
 
 **Options:**
 - A) Contradictory hypothesis to "2"

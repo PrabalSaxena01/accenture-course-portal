@@ -1,7 +1,7 @@
 # Module 20: Practice Test (Aptitude)
 
 **Total Questions in Module**: 240  
-**Visual Diagrams**: 14 blueprints  
+**Visual Diagrams**: 9 blueprints  
 **Category**: Aptitude Drills  
 **Syllabus Items**: 12 lessons
 
@@ -1908,6 +1908,10 @@ Verified Accenture placement test pattern.
 water-image of given combination?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-1] Question 7](./images/mod20_q87_easy_reasoning_1_question_7.svg)
+
 **Options:**
 - A) Both A and B
 - B) 4th option (image)
@@ -2260,6 +2264,10 @@ Verified Accenture placement test pattern.
 water-image of given combination?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-2] Question 3](./images/mod20_q103_easy_reasoning_2_question_3.svg)
+
 **Options:**
 - A) Both A and B
 - B) 2nd option (image)
@@ -2281,6 +2289,10 @@ Verified Accenture placement test pattern.
 ```
 water-image of given combination?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-2] Question 4](./images/mod20_q104_easy_reasoning_2_question_4.svg)
 
 **Options:**
 - A) Both A and B
@@ -2391,6 +2403,10 @@ Verified Accenture placement test pattern.
 ```
 missing value in figure?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-2] Question 9](./images/mod20_q109_easy_reasoning_2_question_9.svg)
 
 **Options:**
 - A) 21
@@ -2634,6 +2650,10 @@ net +45° CW from S.
 water-image of "A1M3b"?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-2] Question 20](./images/mod20_q120_easy_reasoning_2_question_20.svg)
+
 **Options:**
 - A) Contradictory hypothesis to 3rd option (image)
 - B) Both A and B
@@ -2677,6 +2697,10 @@ Verified Accenture placement test pattern.
 ```
 syllogism — "Some papers are pens; All pencils are pens" — conclusions?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-3] Question 2](./images/mod20_q122_easy_reasoning_3_question_2.svg)
 
 **Options:**
 - A) Contradictory hypothesis to both (1) and (2) follow
@@ -2766,6 +2790,10 @@ Verified Accenture placement test pattern.
 "?" in 3×3 table (rows 1-2-3, 11-7-6, 120-45-?)?
 ```
 
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-3] Question 6](./images/mod20_q126_easy_reasoning_3_question_6.svg)
+
 **Options:**
 - A) 22
 - B) 27
@@ -2787,6 +2815,10 @@ col pattern 11²−1²=120, 7²−2²=45, 6²−3²=27.
 ```
 "?" in 3×3 table (rows ?-13-49, 8-17-67, 13-11-59)?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-3] Question 7](./images/mod20_q127_easy_reasoning_3_question_7.svg)
 
 **Options:**
 - A) 0
@@ -3491,6 +3523,10 @@ Verified Accenture placement test pattern.
 ```
 water-image of "ACOUSTIC" (image options)?
 ```
+
+**Visual Diagram / Schema Reference:**
+
+![[Easy Reasoning-4] Question 19](./images/mod20_q159_easy_reasoning_4_question_19.svg)
 
 **Options:**
 - A) Legacy standard alternative
